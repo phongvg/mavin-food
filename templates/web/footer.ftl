@@ -1,26 +1,29 @@
 <#import "/templates/system/common/cstudio-support.ftl" as studio />
 <footer class="footer" <@studio.iceAttr component=contentModel/>>
     <div class="footer__container block flex">
-        <!-- address -->
-        <section class="footer__item-address" id="address">
-            <h3>${contentModel.name_s}</h3>
-            <p>${contentModel.address_s}</p>
-            <p>Phone: ${contentModel.phone_s} - Fax: ${contentModel.fax_s}</p>
-            <p>Email: ${contentModel.email_s}</p>
+        <!-- Com's Info -->
+        <section>
+            <p>Name:${contentModel.name_s}</p>
+            <p>Address:${contentModel.address_s}</p>
+            <p>Phone: ${contentModel.phone_i} - Fax: ${contentModel.tax_i}</p>
+            <p>${contentModel.cer_i}</p>
+            <p>${contentModel.cerDate_s}</p>
+            <p>${contentModel.cerPlace_s}</p>
+            <p>${contentModel.email_s}</p>
+            <p>${contentModel.web_s}</p>
         </section>
-        <!-- /address -->
+        <!-- /Com's Info -->
 
-        <!-- social -->
-        <section class="footer__item text--center" id="social">
-            <p class="footer__item-title text--uppercase font-bold font-title" style="font-size: 18px;">Connect to mekovet</p>
-            <ul class="footer__item-btns flex">
-                <li><a href="${contentModel.fburl_s}"><img src="/static-assets/images/btn_facebook.png" alt="Facebook"></a></li>
-                <#--<li><a href="${contentModel.twitterurl_s}"><img src="/static-assets/images/btn_twitter.png" alt="Twitter"></a></li> -->
-                <li><a href="${contentModel.youtubeurl_s}"><img src="/static-assets/images/btn_youtube.png" alt="Youtube"></a></li>
-                <#--<li><a href="${contentModel.linkedinurl_s}"><img src="/static-assets/images/btn_linkedin.png" alt="Linkedin"></a></li> -->
-            </ul>
+        <!-- Com's Contact -->
+        <section>
+            <p>${carephone_s}</p>
+            <#if (contentModel.socialMedia_o.item)??>
+                <#list contentModel.socialMedia_o.item as element>
+                    
+                </#list>
+            </#if>
         </section>
-        <!-- /social -->
+        <!-- /Com's Contact -->
         
         <!-- links -->
         <section style="font-weight: 100;" class="footer__item-policy text--center" id="social">
