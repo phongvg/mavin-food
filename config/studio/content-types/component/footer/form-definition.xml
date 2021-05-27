@@ -863,7 +863,7 @@
 						</property>
 						<property>
 							<name>imageManager</name>
-							<value></value>
+							<value>destopImage,repoImage</value>
 							<type>datasource:image</type>
 						</property>
 						<property>
