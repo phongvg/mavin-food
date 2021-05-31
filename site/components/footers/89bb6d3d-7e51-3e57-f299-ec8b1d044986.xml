@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/footer</content-type>
+	<display-template>/templates/web/footer.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>89bb</objectGroupId>
+	<objectId>89bb6d3d-7e51-3e57-f299-ec8b1d044986</objectId>
+	<socialMedia_o item-list="true">	<item>	<name_s>Facebook</name_s>
+	<link_s>www.facebook.com</link_s>
+	</item>	<item>	<name_s>Twitter</name_s>
+	<link_s>www.twitter.com</link_s>
+	</item></socialMedia_o>
+	<policies_o item-list="true">	<item>	<content_s>Chính sách 1</content_s>
+	</item>	<item>	<content_s>Chính sách 2</content_s>
+	</item></policies_o>
+	<file-name>89bb6d3d-7e51-3e57-f299-ec8b1d044986.xml</file-name>
+	<internal-name>Footer</internal-name>
+	<name_s>Mavin-Food</name_s>
+	<address_s>123 Ha Noi</address_s>
+	<cerDate_s>10/11/2021</cerDate_s>
+	<cerPlace_s>123 Ha Noi</cerPlace_s>
+	<email_s>test@gmail.com</email_s>
+	<web_s>Mavinfood.com</web_s>
+	<carephone_s>09123123</carephone_s>
+	<desPoli_s>MavinFood - Thực phẩm sạch từ nguồn</desPoli_s>
+	<copyright_s>Bản quyền thuộc về </copyright_s>
+	<phone_i>943162397</phone_i>
+	<tax_i>123111</tax_i>
+	<cer_i>999999</cer_i>
+	<tick_s>/static-assets/images/footer/sweater.png</tick_s>
+	<createdDate>2021-05-31T09:34:03.704Z</createdDate>
+	<createdDate_dt>2021-05-31T09:34:03.704Z</createdDate_dt>
+	<lastModifiedDate>2021-05-31T09:34:03.704Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-05-31T09:34:03.704Z</lastModifiedDate_dt>
+</component>
