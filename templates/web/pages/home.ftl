@@ -14,7 +14,6 @@
             <@renderComponent parent=contentModel component=section />
         </#list>
     </main>
-    <@renderComponent component=contentModel.slideLogo_o.item />
     <@renderComponent component=contentModel.footer_o.item />
     </body>
 </html>
