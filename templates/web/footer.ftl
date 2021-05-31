@@ -16,7 +16,6 @@
 
         <!-- Com's Contact -->
         <section>
-            <p>${carephone_s}</p>
             <#if (contentModel.socialMedia_o.item)??>
                 <#list contentModel.socialMedia_o.item as element>
                     
