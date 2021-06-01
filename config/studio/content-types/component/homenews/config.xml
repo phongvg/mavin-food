@@ -1,5 +1,5 @@
 <content-type name="/component/homenews" is-wcm-type="true">
-<label>Component - Tin tức tài liệu (Home)</label>
+<label>Component - Tin tức Tài liệu (Home)</label>
 <form>/component/homenews</form>
 <form-path>simple</form-path>
 <model-instance-path>NOT-USED-BY-SIMPLE-FORM-ENGINE</model-instance-path>
