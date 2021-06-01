@@ -95,9 +95,9 @@
 			<fields>
 				<field>
 					<type>repeat</type>
-					<id>product_o</id>
+					<id>products_o</id>
 					<iceId></iceId>
-					<title>Product</title>
+					<title>Products</title>
 					<description></description>
 					<minOccurs>1</minOccurs>
 					<maxOccurs>*</maxOccurs>
