@@ -12,26 +12,9 @@
 	<folder-name>tin-tuc</folder-name>
 	<placeInNav>false</placeInNav>
 	<orderDefault_f>-1</orderDefault_f>
-	<section_o item-list="true">	<item datasource="sections" inline="true">	<key>1f4d9f90-9179-95bc-e40a-59e4604170df</key>
-	<value>Content - Tin Tức</value>
-<component id="1f4d9f90-9179-95bc-e40a-59e4604170df">
-	<content-type>/component/news</content-type>
-	<content-type>/component/news</content-type>
-	<display-template/>
-	<no-template-required/>
-	<merge-strategy>inherit-levels</merge-strategy>
-	<objectGroupId>1f4d</objectGroupId>
-	<objectId>1f4d9f90-9179-95bc-e40a-59e4604170df</objectId>
-	<file-name>1f4d9f90-9179-95bc-e40a-59e4604170df.xml</file-name>
-	<internal-name>Content - Tin Tức</internal-name>
-	<createdDate>2021-06-01T11:04:51.159Z</createdDate>
-	<createdDate_dt>2021-06-01T11:04:51.159Z</createdDate_dt>
-	<lastModifiedDate>2021-06-01T11:04:51.159Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-06-01T11:04:51.159Z</lastModifiedDate_dt>
-</component>
-	</item></section_o>
+	<section_o item-list="true"/>
 	<createdDate>2021-06-01T11:04:20.881Z</createdDate>
 	<createdDate_dt>2021-06-01T11:04:20.881Z</createdDate_dt>
-	<lastModifiedDate>2021-06-01T11:04:20.881Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-06-01T11:04:20.881Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-06-01T11:08:04.992Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-01T11:08:04.992Z</lastModifiedDate_dt>
 </page>
