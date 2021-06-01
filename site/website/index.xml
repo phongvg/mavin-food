@@ -13,8 +13,8 @@
 	<folder-name/>
 	<createdDate>2017-1-31T16:18:14.000Z</createdDate>
 	<createdDate_dt>2017-1-31T16:18:14.000Z</createdDate_dt>
-	<lastModifiedDate>2021-06-01T08:17:34.339Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-06-01T08:17:34.339Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-06-01T08:17:48.079Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-01T08:17:48.079Z</lastModifiedDate_dt>
 	<title_t>Mavin-Food</title_t>
 	<sections_o item-list="true">	<item datasource="sections" inline="true">	<key>eae80de2-40f3-601d-7236-b66d34d383a1</key>
 	<value>Giới thiệu - Home</value>
@@ -69,6 +69,25 @@
 	<createdDate_dt>2021-06-01T07:20:23.678Z</createdDate_dt>
 	<lastModifiedDate>2021-06-01T07:21:51.692Z</lastModifiedDate>
 	<lastModifiedDate_dt>2021-06-01T07:21:51.692Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>10c713f1-c553-2b41-17f6-824cb28eabfd</key>
+	<value>Bản tin - Home</value>
+<component id="10c713f1-c553-2b41-17f6-824cb28eabfd">
+	<content-type>/component/homenews</content-type>
+	<display-template>/templates/web/components/bantin-home.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>10c7</objectGroupId>
+	<objectId>10c713f1-c553-2b41-17f6-824cb28eabfd</objectId>
+	<file-name>10c713f1-c553-2b41-17f6-824cb28eabfd.xml</file-name>
+	<internal-name>Bản tin - Home</internal-name>
+	<docTitle_s>Test</docTitle_s>
+	<video_s>/static-assets/videos/200413_01_Cine_09.mp4</video_s>
+	<typeDoc_o item-list="true"/>
+	<createdDate>2021-06-01T08:17:53.780Z</createdDate>
+	<createdDate_dt>2021-06-01T08:17:53.780Z</createdDate_dt>
+	<lastModifiedDate>2021-06-01T08:17:53.780Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-01T08:17:53.780Z</lastModifiedDate_dt>
 </component>
 	</item></sections_o>
 	<description_t>Trang chủ của mavin-food</description_t>
