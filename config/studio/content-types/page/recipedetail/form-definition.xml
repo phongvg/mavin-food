@@ -337,7 +337,7 @@
 				<datasource>
 					<type>img-repository-upload</type>
 					<id>desktopImage</id>
-					<title>Desktop Image</title>
+					<title>Repo Image</title>
 					<interface>image</interface>
 					<properties>
 						<property>
