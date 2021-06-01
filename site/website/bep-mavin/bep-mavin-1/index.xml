@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/recipedetail</content-type>
+	<display-template>/templates/web/pages/bepmavin.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>976f</objectGroupId>
+	<objectId>976fadbb-cb70-7127-08bf-e0210682aa46</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>bep-mavin-1</folder-name>
+	<internal-name>Công thức 1</internal-name>
+	<navLabel>Công thức 1</navLabel>
+	<title_s>Công thức 1</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<image_s/>
+	<content_html>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;</content_html>
+	<createdDate>2021-06-01T10:27:12.039Z</createdDate>
+	<createdDate_dt>2021-06-01T10:27:12.039Z</createdDate_dt>
+	<lastModifiedDate>2021-06-01T10:27:12.039Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-01T10:27:12.039Z</lastModifiedDate_dt>
+</page>
