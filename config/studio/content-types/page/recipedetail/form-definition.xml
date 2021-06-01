@@ -329,7 +329,7 @@
 					<properties>
 						<property>
 							<name>repoPath</name>
-							<value></value>
+							<value>/static-assets/images/recipe</value>
 								<type>string</type>
 						</property>
 					</properties>
@@ -342,7 +342,7 @@
 					<properties>
 						<property>
 							<name>repoPath</name>
-							<value></value>
+							<value>/static-assets/images/recipe</value>
 								<type>string</type>
 						</property>
 						<property>
