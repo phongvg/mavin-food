@@ -12,9 +12,25 @@
 	<folder-name>tin-tuc</folder-name>
 	<placeInNav>false</placeInNav>
 	<orderDefault_f>-1</orderDefault_f>
-	<section_o item-list="true"/>
+	<section_o item-list="true">	<item datasource="sections" inline="true">	<key>439ea652-3163-de6a-7f96-55d4474ef97d</key>
+	<value>Nội dung</value>
+<component id="439ea652-3163-de6a-7f96-55d4474ef97d">
+	<content-type>/component/news</content-type>
+	<display-template>/templates/web/components/com-bantin.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>439e</objectGroupId>
+	<objectId>439ea652-3163-de6a-7f96-55d4474ef97d</objectId>
+	<internal-name>Nội dung</internal-name>
+	<file-name>439ea652-3163-de6a-7f96-55d4474ef97d.xml</file-name>
+	<createdDate>2021-06-01T11:08:36.643Z</createdDate>
+	<createdDate_dt>2021-06-01T11:08:36.643Z</createdDate_dt>
+	<lastModifiedDate>2021-06-01T11:08:36.643Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-01T11:08:36.643Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
 	<createdDate>2021-06-01T11:04:20.881Z</createdDate>
 	<createdDate_dt>2021-06-01T11:04:20.881Z</createdDate_dt>
-	<lastModifiedDate>2021-06-01T11:08:04.992Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-06-01T11:08:04.992Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-06-01T11:08:30.651Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-01T11:08:30.651Z</lastModifiedDate_dt>
 </page>
