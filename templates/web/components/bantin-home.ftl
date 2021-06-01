@@ -1,5 +1,6 @@
 <#import "/templates/system/common/cstudio-support.ftl" as studio />
     <section>
-        <a data-fancybox="" data-small-btn="true" href="${contentModel.video_s}">
+        <p>${contentModel.ti}</p>
+        <a data-fancybox="" data-small-btn="true" scr="${contentModel.video_s}">
     </section>
 <@studio.toolSupport />
