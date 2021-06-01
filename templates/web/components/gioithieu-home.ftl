@@ -10,7 +10,7 @@
         <p>${contentModel.subtitle_s}</p>
         <#if (contentModel.product_o.item)??>
             <#list contentModel.product_o.item as product>
-                <p>${product.text_s}</p>
+                <p>${product.name_s}</p>
                 <img class="full-image" src="${product.image_s}">
             </#list>
         </#if>
