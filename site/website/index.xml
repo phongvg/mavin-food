@@ -13,8 +13,8 @@
 	<folder-name/>
 	<createdDate>2017-1-31T16:18:14.000Z</createdDate>
 	<createdDate_dt>2017-1-31T16:18:14.000Z</createdDate_dt>
-	<lastModifiedDate>2021-06-01T07:03:36.822Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-06-01T07:03:36.822Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-06-01T07:19:24.450Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-01T07:19:24.450Z</lastModifiedDate_dt>
 	<title_t>Mavin-Food</title_t>
 	<sections_o item-list="true">	<item datasource="sections" inline="true">	<key>eae80de2-40f3-601d-7236-b66d34d383a1</key>
 	<value>Giới thiệu - Home</value>
@@ -42,6 +42,25 @@
 	<createdDate_dt>2021-06-01T07:03:43.787Z</createdDate_dt>
 	<lastModifiedDate>2021-06-01T07:03:43.787Z</lastModifiedDate>
 	<lastModifiedDate_dt>2021-06-01T07:03:43.787Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>602a4487-a099-b354-32fc-4bb84ddede22</key>
+	<value>Sản Phẩm - Home</value>
+<component id="602a4487-a099-b354-32fc-4bb84ddede22">
+	<content-type>/component/homeproduct</content-type>
+	<display-template>/templates/web/components/sanpham-home.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>602a</objectGroupId>
+	<objectId>602a4487-a099-b354-32fc-4bb84ddede22</objectId>
+	<products_o item-list="true">	<item>	<name_s>Xúc xích</name_s>
+	<image_s>/static-assets/images/home/test.png</image_s>
+	</item></products_o>
+	<file-name>602a4487-a099-b354-32fc-4bb84ddede22.xml</file-name>
+	<internal-name>Sản Phẩm - Home</internal-name>
+	<createdDate>2021-06-01T07:20:23.678Z</createdDate>
+	<createdDate_dt>2021-06-01T07:20:23.678Z</createdDate_dt>
+	<lastModifiedDate>2021-06-01T07:20:23.678Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-01T07:20:23.678Z</lastModifiedDate_dt>
 </component>
 	</item></sections_o>
 	<description_t>Trang chủ của mavin-food</description_t>
