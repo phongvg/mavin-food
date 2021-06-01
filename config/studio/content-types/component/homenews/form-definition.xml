@@ -1,5 +1,5 @@
 <form>
-<title>Component - Tin tức tài liệu (Home)</title>
+<title>Component - Tin tức Tài liệu (Home)</title>
 <description></description>
 <content-type>/component/homenews</content-type>
 <objectType>component</objectType>
@@ -33,7 +33,7 @@
 </properties>
 <sections>
 <section>
-<title>Component - Tin tức tài liệu (Home) Properties</title>
+<title>Component - Tin tức Tài liệu (Home) Properties</title>
 <description></description>
 <defaultOpen>true</defaultOpen>
 <fields>
