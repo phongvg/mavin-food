@@ -13,8 +13,8 @@
 	<folder-name/>
 	<createdDate>2017-1-31T16:18:14.000Z</createdDate>
 	<createdDate_dt>2017-1-31T16:18:14.000Z</createdDate_dt>
-	<lastModifiedDate>2021-06-01T07:21:48.364Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-06-01T07:21:48.364Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-06-01T08:04:01.629Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-01T08:04:01.629Z</lastModifiedDate_dt>
 	<title_t>Mavin-Food</title_t>
 	<sections_o item-list="true">	<item datasource="sections" inline="true">	<key>eae80de2-40f3-601d-7236-b66d34d383a1</key>
 	<value>Giới thiệu - Home</value>
@@ -69,6 +69,29 @@
 	<createdDate_dt>2021-06-01T07:20:23.678Z</createdDate_dt>
 	<lastModifiedDate>2021-06-01T07:21:51.692Z</lastModifiedDate>
 	<lastModifiedDate_dt>2021-06-01T07:21:51.692Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>59a127be-b9ee-4dc7-06a5-f6e318770a5c</key>
+	<value>Bản tin - Home</value>
+<component id="59a127be-b9ee-4dc7-06a5-f6e318770a5c">
+	<content-type>/component/homenews</content-type>
+	<display-template/>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>59a1</objectGroupId>
+	<objectId>59a127be-b9ee-4dc7-06a5-f6e318770a5c</objectId>
+	<internal-name>Bản tin - Home</internal-name>
+	<docTitle_s>Phim tự giới thiệu</docTitle_s>
+	<file-name>59a127be-b9ee-4dc7-06a5-f6e318770a5c.xml</file-name>
+	<video_s/>
+	<typeDoc_o item-list="true">	<item>	<text_s>Thư viện ảnh</text_s>
+	<url_s/>
+	</item>	<item>	<text_s>Thư viện video</text_s>
+	<url_s/>
+	</item></typeDoc_o>
+	<createdDate>2021-06-01T08:04:08.545Z</createdDate>
+	<createdDate_dt>2021-06-01T08:04:08.545Z</createdDate_dt>
+	<lastModifiedDate>2021-06-01T08:04:08.545Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-01T08:04:08.545Z</lastModifiedDate_dt>
 </component>
 	</item></sections_o>
 	<description_t>Trang chủ của mavin-food</description_t>
