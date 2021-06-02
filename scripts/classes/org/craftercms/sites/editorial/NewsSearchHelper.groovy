@@ -1,4 +1,4 @@
-package org.craftercms.blueprints.headless
+package org.craftercms.sites.editorial
 
 import org.apache.commons.lang3.StringUtils
 import org.craftercms.engine.service.UrlTransformationService
