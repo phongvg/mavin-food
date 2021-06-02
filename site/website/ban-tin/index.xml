@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/pagechild</content-type>
+	<display-template>/templates/web/pages/childpage.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>d234</objectGroupId>
+	<objectId>d234b376-704b-2502-10d9-6631b483ab87</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>ban-tin</folder-name>
+	<internal-name>Bản Tin</internal-name>
+	<navLabel>Bản Tin</navLabel>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="sections" inline="true">	<key>c0b0cd13-1ce1-bcf9-6e35-cde0aa4b1ee2</key>
+	<value>Content</value>
+<component id="c0b0cd13-1ce1-bcf9-6e35-cde0aa4b1ee2">
+	<content-type>/component/news</content-type>
+	<display-template>/templates/web/components/com-bantin.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>c0b0</objectGroupId>
+	<objectId>c0b0cd13-1ce1-bcf9-6e35-cde0aa4b1ee2</objectId>
+	<file-name>c0b0cd13-1ce1-bcf9-6e35-cde0aa4b1ee2.xml</file-name>
+	<internal-name>Content</internal-name>
+	<createdDate>2021-06-02T08:21:25.419Z</createdDate>
+	<createdDate_dt>2021-06-02T08:21:25.419Z</createdDate_dt>
+	<lastModifiedDate>2021-06-02T08:21:25.419Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-02T08:21:25.419Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<createdDate>2021-06-02T08:21:04.271Z</createdDate>
+	<createdDate_dt>2021-06-02T08:21:04.271Z</createdDate_dt>
+	<lastModifiedDate>2021-06-02T08:21:04.271Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-02T08:21:04.271Z</lastModifiedDate_dt>
+</page>
