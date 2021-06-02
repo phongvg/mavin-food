@@ -12,25 +12,25 @@
 	<navLabel>Bản Tin</navLabel>
 	<placeInNav>false</placeInNav>
 	<orderDefault_f>-1</orderDefault_f>
-	<section_o item-list="true">	<item datasource="sections" inline="true">	<key>c0b0cd13-1ce1-bcf9-6e35-cde0aa4b1ee2</key>
-	<value>Content</value>
-<component id="c0b0cd13-1ce1-bcf9-6e35-cde0aa4b1ee2">
+	<section_o item-list="true">	<item datasource="sections" inline="true">	<key>f19d7184-30c3-b250-bd86-68ada6965108</key>
+	<value>tesst</value>
+<component id="f19d7184-30c3-b250-bd86-68ada6965108">
 	<content-type>/component/news</content-type>
 	<display-template>/templates/web/components/com-bantin.ftl</display-template>
 	<no-template-required/>
 	<merge-strategy>inherit-levels</merge-strategy>
-	<objectGroupId>c0b0</objectGroupId>
-	<objectId>c0b0cd13-1ce1-bcf9-6e35-cde0aa4b1ee2</objectId>
-	<file-name>c0b0cd13-1ce1-bcf9-6e35-cde0aa4b1ee2.xml</file-name>
-	<internal-name>Content</internal-name>
-	<createdDate>2021-06-02T08:21:25.419Z</createdDate>
-	<createdDate_dt>2021-06-02T08:21:25.419Z</createdDate_dt>
-	<lastModifiedDate>2021-06-02T08:21:25.419Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-06-02T08:21:25.419Z</lastModifiedDate_dt>
+	<objectGroupId>f19d</objectGroupId>
+	<objectId>f19d7184-30c3-b250-bd86-68ada6965108</objectId>
+	<file-name>f19d7184-30c3-b250-bd86-68ada6965108.xml</file-name>
+	<internal-name>tesst</internal-name>
+	<createdDate>2021-06-02T08:31:39.581Z</createdDate>
+	<createdDate_dt>2021-06-02T08:31:39.581Z</createdDate_dt>
+	<lastModifiedDate>2021-06-02T08:31:39.581Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-02T08:31:39.581Z</lastModifiedDate_dt>
 </component>
 	</item></section_o>
 	<createdDate>2021-06-02T08:21:04.271Z</createdDate>
 	<createdDate_dt>2021-06-02T08:21:04.271Z</createdDate_dt>
-	<lastModifiedDate>2021-06-02T08:21:04.271Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-06-02T08:21:04.271Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-06-02T08:31:23.087Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-02T08:31:23.087Z</lastModifiedDate_dt>
 </page>
