@@ -2,9 +2,9 @@
     <div class="container">
         <div class="row data-container mr-lg-0 mr-md-0 ml-md-0 ml-md-0" id="cailay-news">
             <#list news as anews>
-                <img class="img-res" src="${aNews.image}">
-                <h3>${aNews.title}</h3>
-                ${aNews.content}
+                <img class="img-res" src="${anews.image}">
+                <h3>${anews.title}</h3>
+                ${anews.content}
                 </a>
             </#list>
         </div>
