@@ -9,7 +9,7 @@
   <body>
     <@renderComponent component=contentModel.header_o.item />
     <main>
-        <p></p>
+        <p>${contentModel.title_s}</p>
         <img src="${contentModel.image_s}" alt="Logo">
     </main>
     <@renderComponent component=contentModel.footer_o.item />
