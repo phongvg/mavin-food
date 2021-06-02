@@ -5,7 +5,6 @@
                 <img class="img-res" src="${anews.image}">
                 <h3>${anews.title}</h3>
                 ${anews.content}
-                </a>
             </#list>
         </div>
     </div>
