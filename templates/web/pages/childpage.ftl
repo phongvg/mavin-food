@@ -9,6 +9,7 @@
   <body>
     <@renderComponent component=contentModel.header_o.item />
     <main>
+    </h2>child</h2>
         <#list (contentModel.sections_o.item)![] as section>
             <@renderComponent parent=contentModel component=section />
         </#list>
