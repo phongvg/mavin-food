@@ -11,7 +11,7 @@
     <main>
         <p>${contentModel.title_s}</p>
         <img src="${contentModel.image_s}" alt="Logo">
-        ${contentModel.content.html}
+        ${contentModel.content_html}
     </main>
     <@renderComponent component=contentModel.footer_o.item />
     </body>
