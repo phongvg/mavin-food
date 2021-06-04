@@ -8,10 +8,11 @@ import org.elasticsearch.search.builder.SearchSourceBuilder
 import org.elasticsearch.search.sort.FieldSortBuilder
 import org.elasticsearch.search.sort.SortOrder
 
-class RecipeSearchHelper{
+class NewsSearchHelper{
     static final String NEWS_CONTENT_TYPE ="content-type:\"/page/recipedetail\" "
     static final int DEFAULT_START = 0
     static final int DEFAULT_ROWS  = 1000
+    
     def elasticsearch
     UrlTransformationService UrlTransformationService
     
@@ -50,7 +51,7 @@ class RecipeSearchHelper{
                     arecipe.image = doc.image_s
                     arecipe.content = doc.content_html
                     arecipe.url = urlTransformationService.transform("storeUrlToRenderUrl", doc.localId)
-                recipe << arecipe
+                recipe << anews
             }
         }
         
