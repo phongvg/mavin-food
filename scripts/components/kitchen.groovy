@@ -1,7 +1,7 @@
 import org.craftercms.sites.editorial.RecipeSearchHelper
 def searchHelper = new RecipeSearchHelper(elasticsearch, urlTransformationService)
-def recipe = searchHelper.searchRecipe(null)
+def recipes = searchHelper.searchRecipe(null)
 println "Recipes:"
-print recipe
+print recipes
 
-templateModel.recipe = recipe 
+templateModel.recipe = recipes
