@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/pagechild</content-type>
+	<display-template>/templates/web/pages/childpage.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>0451</objectGroupId>
+	<objectId>04515430-34e9-7dca-cbcc-e620791928cd</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>bep-mavin</folder-name>
+	<internal-name>Bếp Mavin</internal-name>
+	<navLabel>Bếp Mavin</navLabel>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="sections" inline="true">	<key>dc1cec3c-cecf-e8fa-bdce-4f2759396bcf</key>
+	<value>Bếp Mavin</value>
+<component id="dc1cec3c-cecf-e8fa-bdce-4f2759396bcf">
+	<content-type>/component/comkitchen</content-type>
+	<display-template>/templates/web/components/com-kitchen.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>dc1c</objectGroupId>
+	<objectId>dc1cec3c-cecf-e8fa-bdce-4f2759396bcf</objectId>
+	<file-name>dc1cec3c-cecf-e8fa-bdce-4f2759396bcf.xml</file-name>
+	<internal-name>Bếp Mavin</internal-name>
+	<createdDate>2021-06-04T06:51:38.084Z</createdDate>
+	<createdDate_dt>2021-06-04T06:51:38.084Z</createdDate_dt>
+	<lastModifiedDate>2021-06-04T06:51:38.084Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-04T06:51:38.084Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<createdDate>2021-06-04T06:51:17.396Z</createdDate>
+	<createdDate_dt>2021-06-04T06:51:17.396Z</createdDate_dt>
+	<lastModifiedDate>2021-06-04T06:51:17.396Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-04T06:51:17.396Z</lastModifiedDate_dt>
+</page>
