@@ -4,4 +4,4 @@ def recipes = searchHelper.searchRecipe(null)
 println "Recipes:"
 print recipes
 
-templateModel.recipe = recipes
+templateModel.recipes = recipes
