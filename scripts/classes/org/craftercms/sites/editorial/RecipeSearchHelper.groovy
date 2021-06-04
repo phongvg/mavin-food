@@ -51,7 +51,7 @@ class RecipeSearchHelper{
                     arecipe.image = doc.image_s
                     arecipe.content = doc.content_html
                     arecipe.url = urlTransformationService.transform("storeUrlToRenderUrl", doc.localId)
-                recipe << anews
+                recipe << arecipe
             }
         }
         
