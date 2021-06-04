@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/recipedetail</content-type>
+	<display-template>/templates/web/pages/bepmavin.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>80e8</objectGroupId>
+	<objectId>80e876aa-b987-9f3a-4972-6b79022174a4</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>test</folder-name>
+	<internal-name>test</internal-name>
+	<navLabel>tset</navLabel>
+	<title_s>tset</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<image_s/>
+	<content_html>&lt;p&gt;est&lt;/p&gt;</content_html>
+	<createdDate>2021-06-04T07:47:05.476Z</createdDate>
+	<createdDate_dt>2021-06-04T07:47:05.476Z</createdDate_dt>
+	<lastModifiedDate>2021-06-04T07:47:05.476Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-04T07:47:05.476Z</lastModifiedDate_dt>
+</page>
