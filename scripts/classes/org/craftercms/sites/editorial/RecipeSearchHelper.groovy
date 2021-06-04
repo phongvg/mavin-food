@@ -22,10 +22,6 @@ class RecipeSearchHelper{
     
     def searchRecipe(categories, start = DEFAULT_START, rows = DEFAULT_ROWS, additionalCriteria = null){
         def q = "${NEWS_CONTENT_TYPE}"
-        if(categories){
-            def categoriesQuery = getFieldQueryWithMultipleValues("categories_o.item.key",categories)
-            q = "${q} AND ${categoriesQuery}"
-        }
         
         if (additionalCriteria) {
           q = "${q} AND ${additionalCriteria}"
@@ -49,12 +45,12 @@ class RecipeSearchHelper{
         def documents = result.hits.hits*.getSourceAsMap()
         if (documents){
             documents.each { doc ->
-                def anews = [:]
-                    anews.title = doc.title_s
-                    anews.image = doc.image_s
-                    anews.content = doc.content_html
-                    anews.url = urlTransformationService.transform("storeUrlToRenderUrl", doc.localId)
-                recipe << anews
+                def arecipe = [:]
+                    arecipe.title = doc.title_s
+                    arecipe.image = doc.image_s
+                    arecipe.content = doc.content_html
+                    arecipe.url = urlTransformationService.transform("storeUrlToRenderUrl", doc.localId)
+                recipe << arecipe
             }
         }
         
