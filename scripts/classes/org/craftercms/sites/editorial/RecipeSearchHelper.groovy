@@ -12,7 +12,6 @@ class RecipeSearchHelper{
     static final String NEWS_CONTENT_TYPE ="content-type:\"/page/recipedetail\" "
     static final int DEFAULT_START = 0
     static final int DEFAULT_ROWS  = 1000
-    
     def elasticsearch
     UrlTransformationService UrlTransformationService
     
@@ -46,7 +45,7 @@ class RecipeSearchHelper{
         }
     }
     def processRecipeListingResults(result){
-        def news = []
+        def recipe = []
         def documents = result.hits.hits*.getSourceAsMap()
         if (documents){
             documents.each { doc ->
