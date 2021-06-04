@@ -2,10 +2,10 @@
     <div class="container">
         <h1>test</h1>
         <div>
-            <#list recipe as arecipe>
-                <img class="img-res" src="${arecipe.image}">
-                <h3>${arecipe.title}</h3>
-                ${arecipe.content}
+            <#list news as anews>
+                <img class="img-res" src="${anews.image}">
+                <h3>${anews.title}</h3>
+                ${anews.content}
             </#list>
         </div>
     </div>
