@@ -55,11 +55,11 @@ class RecipeSearchHelper{
                     anews.image = doc.image_s
                     anews.content = doc.content_html
                     anews.url = urlTransformationService.transform("storeUrlToRenderUrl", doc.localId)
-                news << anews
+                recipe << anews
             }
         }
         
-        return news
+        return recipe
     }
     
     private def getFieldQueryWithMultipleValues(field, values) {
