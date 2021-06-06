@@ -6,13 +6,22 @@
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>89bb</objectGroupId>
 	<objectId>89bb6d3d-7e51-3e57-f299-ec8b1d044986</objectId>
-	<socialMedia_o item-list="true">	<item>	<name_s>Facebook</name_s>
+	<socialMedia_o item-list="true">	<item>	<name_s>Maiil</name_s>
+	<link_s>www.gmail.com</link_s>
+	<logo_s>/static-assets/images/footer/mail-icon.png</logo_s>
+	</item>	<item>	<name_s>Facebook</name_s>
 	<link_s>www.facebook.com</link_s>
-	</item>	<item>	<name_s>Twitter</name_s>
-	<link_s>www.twitter.com</link_s>
+	<logo_s>/static-assets/images/footer/facebook-icon.png</logo_s>
+	</item>	<item>	<logo_s>/static-assets/images/footer/youtube-icon.png</logo_s>
+	<name_s>Youtube</name_s>
+	<link_s>wwww.yotube.com</link_s>
 	</item></socialMedia_o>
-	<policies_o item-list="true">	<item>	<content_s>Chính sách 1</content_s>
-	</item>	<item>	<content_s>Chính sách 2</content_s>
+	<policies_o item-list="true">	<item>	<content_s>Chính sách website</content_s>
+	</item>	<item>	<content_s>Quy ước sử dụng website</content_s>
+	</item>	<item>	<content_s>Chính sách bảo mật thông tin</content_s>
+	</item>	<item>	<content_s>Điều kiện giao dịch chung</content_s>
+	</item>	<item>	<content_s>Vận chuyển và giao nhận</content_s>
+	</item>	<item>	<content_s>Phương thức thanh toán</content_s>
 	</item></policies_o>
 	<file-name>89bb6d3d-7e51-3e57-f299-ec8b1d044986.xml</file-name>
 	<internal-name>Footer</internal-name>
@@ -25,12 +34,13 @@
 	<carephone_s>09123123</carephone_s>
 	<desPoli_s>MavinFood - Thực phẩm sạch từ nguồn</desPoli_s>
 	<copyright_s>Bản quyền thuộc về </copyright_s>
-	<phone_i>2263582889</phone_i>
-	<tax_i>2263582669</tax_i>
-	<cer_i>700631628</cer_i>
 	<tick_s>/static-assets/images/footer/sweater.png</tick_s>
 	<createdDate>2021-05-31T09:34:03.704Z</createdDate>
 	<createdDate_dt>2021-05-31T09:34:03.704Z</createdDate_dt>
-	<lastModifiedDate>2021-06-06T10:34:54.743Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-06-06T10:34:54.743Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-06-06T11:06:27.066Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-06T11:06:27.066Z</lastModifiedDate_dt>
+	<factorysAdd_s>Lô E6 - KCN Đồng Văn II - Duy Minh - Duy Tiên - Hà Nam</factorysAdd_s>
+	<phone_s>0226 3 582 889</phone_s>
+	<fax_s>0226 3 582 669</fax_s>
+	<cerId_s>0700631628</cerId_s>
 </component>
