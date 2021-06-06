@@ -7,15 +7,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- Site Stylesheet -->
-    <link rel="stylesheet" href="vendor/bootstrap-5.0.1/dist/css/bootstrap.min.css">
-    <link rel="stylesheet" href="vendor/fontawesome-free-5.15.2-web/css/all.min.css">
-    <link rel="stylesheet" href="dist/stylesheets/main.css">
-    <link rel="stylesheet" href="vendor/slick-1.8.1/slick/slick.css">
-    <link rel="stylesheet" href="vendor/slick-1.8.1/slick/slick-theme.css"> 
-    <link rel="apple-touch-icon" sizes="180x180" href="dist/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="dist/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="dist/favicon-16x16.png">
-    <link rel="manifest" href="dist/site.webmanifest">
+    <link rel="stylesheet" href="/static-assets/vendor/bootstrap-5.0.1/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/static-assets/vendor/fontawesome-free-5.15.2-web/css/all.min.css">
+    <link rel="stylesheet" href="/static-assets/dist/stylesheets/main.css">
+    <link rel="stylesheet" href="/static-assets/vendor/slick-1.8.1/slick/slick.css">
+    <link rel="stylesheet" href="/static-assets/vendor/slick-1.8.1/slick/slick-theme.css"> 
+    <link rel="apple-touch-icon" sizes="180x180" href="/static-assets/dist/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/static-assets/dist/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/static-assets/dist/favicon-16x16.png">
+    <link rel="manifest" href="/static-assets/dist/site.webmanifest">
     <title>Trang chủ</title>
   </head>
   <body>
@@ -27,9 +27,9 @@
     </main>
     <@renderComponent component=contentModel.footer_o.item />
     <!-- Site Javascript -->
-    <script src="vendor/jquery/dist/jquery.min.js"></script>
-    <script src="vendor/bootstrap-5.0.1/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="vendor/slick-1.8.1/slick/slick.min.js"></script>
+    <script src="/static-assets/vendor/jquery/dist/jquery.min.js"></script>
+    <script src="/static-assets/vendor/bootstrap-5.0.1/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="/static-assets/vendor/slick-1.8.1/slick/slick.min.js"></script>
     <script type="text/javascript">
       $('.sp-1').slick({
         arrows: true,
