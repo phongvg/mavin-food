@@ -36,10 +36,10 @@
                 </ul>
               </div>
               <div class="col-sm-4 col-lg-4">
-                <div class="mb-3"><img class="img-fluid" src="dist/images/like-page.jpg"></div>
+                <div class="mb-3"><img class="img-fluid" src="/static-assets/dist/images/like-page.jpg"></div>
                 <div class="d-flex justify-content-between">
                   <div class="flex-shrink-0">
-                    <img class="img-fluid" src="dist/images/dathongbao.png" width="110" alt="">
+                    <img class="img-fluid" src="/static-assets/dist/images/dathongbao.png" width="110" alt="">
                   </div>
                   <div class="text-right small">
                     Bản quyền thuộc về <br>Mavin Foods 2021
