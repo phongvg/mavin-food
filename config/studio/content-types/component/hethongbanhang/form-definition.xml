@@ -9,7 +9,7 @@
 	<properties>		<property>
 			<name>display-template</name>
 			<label>Display Template</label>
-			<value></value>
+			<value>/templates/web/components/hethongbanhang.ftl</value>
 			<type>template</type>
 		</property>
 		<property>
@@ -289,7 +289,7 @@
 						</property>
 						<property>
 							<name>imageManager</name>
-							<value></value>
+							<value>desktopImage,repoImage</value>
 							<type>datasource:image</type>
 						</property>
 						<property>
