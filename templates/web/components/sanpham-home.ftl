@@ -17,13 +17,16 @@
         <div class="slider-product mb-md-4 mt-5 pt-5 text-center">
           <h2 class="base-color fw-bold text-uppercase mb-3">sản phẩm tiêu biểu</h2>
           <div class="sp-2 slide-centerMode arrows-style">
-            <#if (contentModel.)
-            <div class="slide-item">
-              <a class="d-block text-muted" href="#">
-                <img class="img-fluid mx-auto mb-3" src="dist/temp/2.jpg" alt="">
-                <span class="d-block">Xem chi tiết</span>
-              </a>
-            </div>
+            <#if (contentModel.featPro_o.item)??>
+                <#list contentModel.featPro_o.item as feat>
+                    <div class="slide-item">
+                      <a class="d-block text-muted" href="${feat.link_s}">
+                        <img class="img-fluid mx-auto mb-3" src="${feat.image_s}" alt="">
+                        <span class="d-block">Xem chi tiết</span>
+                      </a>
+                    </div>
+                </#list>
+            </#if>
           </div>
         </div>
       </div>
