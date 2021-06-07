@@ -242,9 +242,9 @@
 					<fields>
 				<field>
 					<type>input</type>
-					<id>name_s</id>
+					<id>link_s</id>
 					<iceId></iceId>
-					<title>Name</title>
+					<title>Link</title>
 					<description></description>
 					<defaultValue></defaultValue>
 					<help></help>
