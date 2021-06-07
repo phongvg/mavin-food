@@ -8,15 +8,18 @@
 	<objectId>a78ab77e-ca79-51ec-9329-651073f55426</objectId>
 	<file-name>index.xml</file-name>
 	<folder-name>ban-tin-1</folder-name>
-	<internal-name>Bản tin 1</internal-name>
-	<navLabel>Bản tin 1</navLabel>
-	<title_s>Bản tin 1</title_s>
+	<internal-name>Cam kết chất lượng thực phẩm sạch Mavin </internal-name>
+	<navLabel>Cam kết chất lượng thực phẩm sạch Mavin </navLabel>
+	<title_s>Cam kết chất lượng thực phẩm sạch Mavin không bị ảnh hưởng bởi Dịch tả heo Châu Phi ASF</title_s>
 	<placeInNav>false</placeInNav>
 	<orderDefault_f>-1</orderDefault_f>
-	<image_s>/static-assets/images/new/youth.png</image_s>
-	<content_html>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;</content_html>
+	<image_s>/static-assets/images/new/tin-tuc-1.jpg</image_s>
+	<content_html>&lt;p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; color: #212529; font-family: Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;"&gt;L&amp;agrave; một trong những Tập đo&amp;agrave;n h&amp;agrave;ng đầu trong lĩnh vực n&amp;ocirc;ng nghiệp hoạt đ&amp;ocirc;ng theo m&amp;ocirc; h&amp;igrave;nh sản xuất kh&amp;eacute;p k&amp;iacute;n "Từ N&amp;ocirc;ng trại tới B&amp;agrave;n ăn" tại Việt Nam, Tập đo&amp;agrave;n Mavin nỗ lực c&amp;ugrave;ng chung tay kiểm so&amp;aacute;t, ngăn chặn dịch lợn tả Ch&amp;acirc;u Phi ASF để đảm bảo nguồn thịt lợn sạch, chất lượng nhất đến tay Qu&amp;yacute; Kh&amp;aacute;ch h&amp;agrave;ng. Mavin đ&amp;atilde; triển khai v&amp;agrave; &amp;aacute;p dụng nghi&amp;ecirc;m ngặt c&amp;aacute;c biện ph&amp;aacute;p tr&amp;ecirc;n to&amp;agrave;n hệ thống Trang trại chăn nu&amp;ocirc;i v&amp;agrave; c&amp;aacute;c Nh&amp;agrave; m&amp;aacute;y:&lt;/p&gt;
+&lt;p class="fw-bold" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; color: #212529; font-family: Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 700 !important;"&gt;1. N&amp;acirc;ng cao An to&amp;agrave;n sinh học, bao gồm: tăng s&amp;aacute;t tr&amp;ugrave;ng người, phương tiện, c&amp;ocirc;ng cụ, vật tư&amp;hellip;, đối với cả ra v&amp;agrave; v&amp;agrave;o c&amp;aacute;c trại để đảm bảo an to&amp;agrave;n cho nội bộ v&amp;agrave; cộng đồng;&lt;/p&gt;
+&lt;p class="fw-bold" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; color: #212529; font-family: Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 700 !important;"&gt;2. Hạn chế tối đa người ra v&amp;agrave;o trại, 100% người v&amp;agrave;o trại cần phải bỏ to&amp;agrave;n bộ quần &amp;aacute;o thường ng&amp;agrave;y tại vị tr&amp;iacute; quy định, đi qua s&amp;aacute;t tr&amp;ugrave;ng, tắm sạch v&amp;agrave; thay quần &amp;aacute;o bảo hộ lao động, đi ủng bảo hộ trước khi v&amp;agrave;o khu vực chăn nu&amp;ocirc;i.&lt;/p&gt;
+&lt;p class="fw-bold" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; color: #212529; font-family: Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 700 !important;"&gt;2. Hạn chế tối đa người ra v&amp;agrave;o trại, 100% người v&amp;agrave;o trại cần phải bỏ to&amp;agrave;n bộ quần &amp;aacute;o thường ng&amp;agrave;y tại vị tr&amp;iacute; quy định, đi qua s&amp;aacute;t tr&amp;ugrave;ng, tắm sạch v&amp;agrave; thay quần &amp;aacute;o bảo hộ lao động, đi ủng bảo hộ trước khi v&amp;agrave;o khu vực chăn nu&amp;ocirc;i.&lt;/p&gt;</content_html>
 	<createdDate>2021-06-01T10:10:23.708Z</createdDate>
 	<createdDate_dt>2021-06-01T10:10:23.708Z</createdDate_dt>
-	<lastModifiedDate>2021-06-01T10:10:23.708Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-06-01T10:10:23.708Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-06-07T11:00:50.373Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-07T11:00:50.373Z</lastModifiedDate_dt>
 </page>
