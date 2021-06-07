@@ -20,11 +20,39 @@
   </head>
   <body>
     <@renderComponent component=contentModel.header_o.item />
-    <main>
-        <p>${contentModel.title_s}</p>
-        <img src="${contentModel.image_s}" alt="Logo">
-        ${contentModel.content_html}
-    </main>
+    <section class="sp-block py-4 py-md-5">
+      <div class="container">
+        <div class="py-3 py-md-5">
+          <h4 class="h4 base-color fw-bold text-uppercase mb-4">tin mavin</h4>
+          <div class="bg-white shadow p-3 p-md-4 mb-4">
+            <h1 class="h4 base-color fw-bold mb-3">${contentModel.title_s}</h1>
+            <div class="mb-3"><img src="/static-assets/dist/images/share.jpg"></div>
+            <p class="text-center"><img class="img-fluid" src="${contentModel.image_s}" alt=""></p>
+            <p>${contentModel.content_html}</p>
+          </div>
+          <ul class="list-unstyled list-mf mb-0">
+            <li>
+              <a class="fw-bold base-color" href="#">
+                <span class="d-block text-uppercase">ERP MAVIN FOODS</span>
+                Triển khai ứng dụng hệ thống phần mềm ERP cho ngành thực phẩm chế biến
+              </a>
+            </li>
+            <li>
+              <a class="fw-bold base-color" href="#">
+                <span class="d-block text-uppercase">ERP MAVIN FOODS</span>
+                Triển khai ứng dụng hệ thống phần mềm ERP cho ngành thực phẩm chế biến
+              </a>
+            </li>
+            <li>
+              <a class="fw-bold base-color" href="#">
+                <span class="d-block text-uppercase">ERP MAVIN FOODS</span>
+                Triển khai ứng dụng hệ thống phần mềm ERP cho ngành thực phẩm chế biến
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </section>
     <@renderComponent component=contentModel.footer_o.item />
     <!-- Site Javascript -->
     <script src="/static-assets/vendor/jquery/dist/jquery.min.js"></script>
