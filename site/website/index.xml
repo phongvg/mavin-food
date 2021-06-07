@@ -13,11 +13,11 @@
 	<folder-name/>
 	<createdDate>2017-1-31T16:18:14.000Z</createdDate>
 	<createdDate_dt>2017-1-31T16:18:14.000Z</createdDate_dt>
-	<lastModifiedDate>2021-06-02T08:10:31.737Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-06-02T08:10:31.737Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-06-06T11:17:14.821Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-06T11:17:14.821Z</lastModifiedDate_dt>
 	<title_t>Mavin-Food</title_t>
 	<sections_o item-list="true">	<item datasource="sections" inline="true">	<key>eae80de2-40f3-601d-7236-b66d34d383a1</key>
-	<value>Giới thiệu - Home2</value>
+	<value>Giới thiệu - Home</value>
 <component id="eae80de2-40f3-601d-7236-b66d34d383a1">
 	<content-type>/component/homeintroduce</content-type>
 	<display-template>/templates/web/components/gioithieu-home.ftl</display-template>
@@ -33,15 +33,15 @@
 	<image_s>/static-assets/images/test.png</image_s>
 	</item></product_o>
 	<file-name>eae80de2-40f3-601d-7236-b66d34d383a1.xml</file-name>
-	<internal-name>Giới thiệu - Home2</internal-name>
+	<internal-name>Giới thiệu - Home</internal-name>
 	<subtitle_s>Thực phẩm chế biến</subtitle_s>
 	<content_html>&lt;p&gt;&lt;strong style="margin: 0px; padding: 0px; font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; text-align: justify; background-color: #ffffff;"&gt;Lorem Ipsum&lt;/strong&gt;&lt;span style="font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; text-align: justify; background-color: #ffffff;"&gt;&amp;nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/span&gt;&lt;br /&gt;&lt;/p&gt;</content_html>
 	<maintitle_o item-list="true">	<item>	<text_s>Chuỗi Giá Trị  của Mavin</text_s>
 	</item></maintitle_o>
 	<createdDate>2021-06-01T07:03:43.787Z</createdDate>
 	<createdDate_dt>2021-06-01T07:03:43.787Z</createdDate_dt>
-	<lastModifiedDate>2021-06-02T08:10:35.765Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-06-02T08:10:35.765Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-06-06T11:17:23.725Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-06T11:17:23.725Z</lastModifiedDate_dt>
 </component>
 	</item>	<item datasource="sections" inline="true">	<key>602a4487-a099-b354-32fc-4bb84ddede22</key>
 	<value>Sản Phẩm - Home</value>
