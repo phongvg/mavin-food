@@ -1,3 +1,4 @@
+<#import "/templates/system/common/cstudio-support.ftl" as studio />
     <section class="sp-block py-4 py-md-5">
       <div class="container">
         <div class="py-3 py-md-5">
@@ -73,3 +74,4 @@
         </div>
       </div>
     </section>
+<@studio.toolSupport />  
