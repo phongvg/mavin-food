@@ -23,30 +23,10 @@
                 <span class="d-block">Xem chi tiết</span>
               </a>
             </div>
-            <div class="slide-item">
-              <a class="d-block text-muted" href="#">
-                <img class="img-fluid mx-auto mb-3" src="dist/temp/3.jpg" alt="">
-                <span class="d-block">Xem chi tiết</span>
-              </a>
-            </div>
-            <div class="slide-item">
-              <a class="d-block text-muted" href="#">
-                <img class="img-fluid mx-auto mb-3" src="dist/temp/4.jpg" alt="">
-                <span class="d-block">Xem chi tiết</span>
-              </a>
-            </div>
-            <div class="slide-item">
-              <a class="d-block text-muted" href="#">
-                <img class="img-fluid mx-auto mb-3" src="dist/temp/5.jpg" alt="">
-                <span class="d-block">Xem chi tiết</span>
-              </a>
-            </div>
-            <div class="slide-item">
-              <a class="d-block text-muted" href="#">
-                <img class="img-fluid mx-auto mb-3" src="dist/temp/6.jpg" alt="">
-                <span class="d-block">Xem chi tiết</span>
-              </a>
-            </div>
+            
+            
+            
+            
             <div class="slide-item">
               <a class="d-block text-muted" href="#">
                 <img class="img-fluid mx-auto mb-3" src="dist/temp/2.jpg" alt="">
