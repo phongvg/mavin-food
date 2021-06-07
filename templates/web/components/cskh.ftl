@@ -5,9 +5,11 @@
           <h1 class="h4 base-color fw-bold text-uppercase mb-4">Chăm sóc khách hàng</h1>
           <div class="row row-cols-2">
             <#if (contentModel.product_o.item)??>
-            <div class="col mb-3">
-              <a href="#" class="btn w-100 h-100 base-bg-color rounded-0 text-white fw-bold">Thông tin Sản phẩm</a>
-            </div>
+                <#list contentModel.product_o.item as cskh>
+                <div class="col mb-3">
+                  <a href="#" class="btn w-100 h-100 base-bg-color rounded-0 text-white fw-bold">Thông tin Sản phẩm</a>
+                </div>
+                </#list>
             </#if>
           <div class="row row-cols-1 row-cols-md-2 mt-4">
             <div class="col mb-3 base-color">
