@@ -13,8 +13,8 @@
 	<folder-name/>
 	<createdDate>2017-1-31T16:18:14.000Z</createdDate>
 	<createdDate_dt>2017-1-31T16:18:14.000Z</createdDate_dt>
-	<lastModifiedDate>2021-06-07T04:00:06.302Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-06-07T04:00:06.302Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-06-07T04:03:18.223Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-07T04:03:18.223Z</lastModifiedDate_dt>
 	<title_t>Mavin-Food</title_t>
 	<sections_o item-list="true">	<item datasource="sections" inline="true">	<key>eae80de2-40f3-601d-7236-b66d34d383a1</key>
 	<value>Giới thiệu - Home</value>
@@ -57,7 +57,7 @@
 	</item>	<item>	<name_s>Đồ viên</name_s>
 	<image_s>/static-assets/images/home/do-vien.png</image_s>
 	</item>	<item>	<name_s>Giò chả</name_s>
-	<image_s>/static-assets/images/home/gio-cha-1.png</image_s>
+	<image_s>/static-assets/images/home/gio-cha.png</image_s>
 	</item>	<item>	<name_s>Cắt lát</name_s>
 	<image_s>/static-assets/images/home/cat-lat.png</image_s>
 	</item>	<item>	<name_s>Sản phẩm khác</name_s>
@@ -67,8 +67,8 @@
 	<internal-name>Sản Phẩm - Home</internal-name>
 	<createdDate>2021-06-01T07:20:23.678Z</createdDate>
 	<createdDate_dt>2021-06-01T07:20:23.678Z</createdDate_dt>
-	<lastModifiedDate>2021-06-07T04:00:09.574Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-06-07T04:00:09.574Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-06-07T04:03:21.301Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-07T04:03:21.301Z</lastModifiedDate_dt>
 </component>
 	</item>	<item datasource="sections" inline="true">	<key>10c713f1-c553-2b41-17f6-824cb28eabfd</key>
 	<value>Bản tin - Home</value>
