@@ -20,11 +20,11 @@
   </head>
   <body>
     <@renderComponent component=contentModel.header_o.item />
-    <main>
+    <section>
         <#list (contentModel.sections_o.item)![] as section>
             <@renderComponent parent=contentModel component=section />
         </#list>
-    </main>
+    </section>
     <@renderComponent component=contentModel.footer_o.item />
     <!-- Site Javascript -->
     <script src="/static-assets/vendor/jquery/dist/jquery.min.js"></script>
