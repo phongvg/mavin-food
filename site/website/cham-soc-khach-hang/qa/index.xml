@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/pagechild</content-type>
+	<display-template>/templates/web/pages/childpage.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>0c7a</objectGroupId>
+	<objectId>0c7aa3a6-9ba8-608a-1c4f-1afb63115c98</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>qa</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<internal-name>Q&amp;A</internal-name>
+	<navLabel>Q&amp;A</navLabel>
+	<section_o item-list="true">	<item datasource="sections" inline="true">	<key>c8373cb4-acab-0cfa-94f8-750ae38dea3f</key>
+	<value>Content - QA</value>
+<component id="c8373cb4-acab-0cfa-94f8-750ae38dea3f">
+	<content-type>/component/qa</content-type>
+	<display-template/>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>c837</objectGroupId>
+	<objectId>c8373cb4-acab-0cfa-94f8-750ae38dea3f</objectId>
+	<file-name>c8373cb4-acab-0cfa-94f8-750ae38dea3f.xml</file-name>
+	<internal-name>Content - QA</internal-name>
+	<createdDate>2021-06-07T08:35:05.701Z</createdDate>
+	<createdDate_dt>2021-06-07T08:35:05.701Z</createdDate_dt>
+	<lastModifiedDate>2021-06-07T08:35:05.701Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-07T08:35:05.701Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<createdDate>2021-06-07T08:34:47.459Z</createdDate>
+	<createdDate_dt>2021-06-07T08:34:47.459Z</createdDate_dt>
+	<lastModifiedDate>2021-06-07T08:34:47.459Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-07T08:34:47.459Z</lastModifiedDate_dt>
+</page>
