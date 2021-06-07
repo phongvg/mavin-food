@@ -12,9 +12,25 @@
 	<navLabel>Hệ thống bán hàng</navLabel>
 	<placeInNav>false</placeInNav>
 	<orderDefault_f>-1</orderDefault_f>
-	<section_o item-list="true"/>
+	<section_o item-list="true">	<item datasource="sections" inline="true">	<key>8692f544-a36a-dcc3-3482-6eb5008e7053</key>
+	<value>Content - Hệ thống bán hàng</value>
+<component id="8692f544-a36a-dcc3-3482-6eb5008e7053">
+	<content-type>/component/hethongbanhang</content-type>
+	<display-template>/templates/web/components/hethongbanhang.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>8692</objectGroupId>
+	<objectId>8692f544-a36a-dcc3-3482-6eb5008e7053</objectId>
+	<file-name>8692f544-a36a-dcc3-3482-6eb5008e7053.xml</file-name>
+	<internal-name>Content - Hệ thống bán hàng</internal-name>
+	<createdDate>2021-06-07T07:54:48.003Z</createdDate>
+	<createdDate_dt>2021-06-07T07:54:48.003Z</createdDate_dt>
+	<lastModifiedDate>2021-06-07T07:54:48.003Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-07T07:54:48.003Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
 	<createdDate>2021-06-07T07:40:54.834Z</createdDate>
 	<createdDate_dt>2021-06-07T07:40:54.834Z</createdDate_dt>
-	<lastModifiedDate>2021-06-07T07:40:54.834Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-06-07T07:40:54.834Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-06-07T07:54:40.804Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-07T07:54:40.804Z</lastModifiedDate_dt>
 </page>
