@@ -4,9 +4,9 @@
         <div class="slider-product mb-4 text-center">
           <h2 class="base-color fw-bold text-uppercase mb-3">sản phẩm</h2>
           <div class="sp-1 arrows-style">
-            <a class="d-block text-white" href="#">
                 <#if (contentModel.products_o.item)??>
                     <#list contentModel.products_o.item as products>
+                        <a class="d-block text-white" href="${products.link_s}">
                         <img class="img-fluid mx-auto" src="${products.image_s}" alt="">
                         <span class="d-block fs-6">${products.name_s}</span>
                     </#list>
@@ -17,16 +17,7 @@
         <div class="slider-product mb-md-4 mt-5 pt-5 text-center">
           <h2 class="base-color fw-bold text-uppercase mb-3">sản phẩm tiêu biểu</h2>
           <div class="sp-2 slide-centerMode arrows-style">
-            <div class="slide-item">
-              <a class="d-block text-muted" href="#">
-                <img class="img-fluid mx-auto mb-3" src="dist/temp/2.jpg" alt="">
-                <span class="d-block">Xem chi tiết</span>
-              </a>
-            </div>
-            
-            
-            
-            
+            <#if (contentModel.)
             <div class="slide-item">
               <a class="d-block text-muted" href="#">
                 <img class="img-fluid mx-auto mb-3" src="dist/temp/2.jpg" alt="">
