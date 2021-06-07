@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/pagechild</content-type>
+	<display-template>/templates/web/pages/childpage.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>8c76</objectGroupId>
+	<objectId>8c7695e6-abca-fd3c-163d-fe3c9406b413</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>he-thong-ban-hang</folder-name>
+	<internal-name>Hệ thống bán hàng</internal-name>
+	<navLabel>Hệ thống bán hàng</navLabel>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true"/>
+	<createdDate>2021-06-07T07:40:54.834Z</createdDate>
+	<createdDate_dt>2021-06-07T07:40:54.834Z</createdDate_dt>
+	<lastModifiedDate>2021-06-07T07:40:54.834Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-07T07:40:54.834Z</lastModifiedDate_dt>
+</page>
