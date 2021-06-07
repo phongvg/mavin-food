@@ -13,8 +13,8 @@
 	<folder-name/>
 	<createdDate>2017-1-31T16:18:14.000Z</createdDate>
 	<createdDate_dt>2017-1-31T16:18:14.000Z</createdDate_dt>
-	<lastModifiedDate>2021-06-07T03:57:01.060Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-06-07T03:57:01.060Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-06-07T03:57:26.710Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-07T03:57:26.710Z</lastModifiedDate_dt>
 	<title_t>Mavin-Food</title_t>
 	<sections_o item-list="true">	<item datasource="sections" inline="true">	<key>eae80de2-40f3-601d-7236-b66d34d383a1</key>
 	<value>Giới thiệu - Home</value>
@@ -26,11 +26,11 @@
 	<objectGroupId>eae8</objectGroupId>
 	<objectId>eae80de2-40f3-601d-7236-b66d34d383a1</objectId>
 	<product_o item-list="true">	<item>	<name_s>Thức ăn chăn nuôi </name_s>
-	<image_s>/static-assets/images/1024px-No_image_available.svg.png</image_s>
+	<image_s>/static-assets/images/1-1.png</image_s>
 	</item>	<item>	<name_s>Con Giống và trang trại chăn nuôi</name_s>
-	<image_s>/static-assets/images/test.png</image_s>
+	<image_s>/static-assets/images/1-2.png</image_s>
 	</item>	<item>	<name_s>Thuốc Thú y</name_s>
-	<image_s>/static-assets/images/test.png</image_s>
+	<image_s>/static-assets/images/1-3.png</image_s>
 	</item></product_o>
 	<file-name>eae80de2-40f3-601d-7236-b66d34d383a1.xml</file-name>
 	<internal-name>Giới thiệu - Home</internal-name>
@@ -40,8 +40,8 @@
 	</item></maintitle_o>
 	<createdDate>2021-06-01T07:03:43.787Z</createdDate>
 	<createdDate_dt>2021-06-01T07:03:43.787Z</createdDate_dt>
-	<lastModifiedDate>2021-06-07T03:57:04.555Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-06-07T03:57:04.555Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-06-07T03:57:29.930Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-07T03:57:29.930Z</lastModifiedDate_dt>
 </component>
 	</item>	<item datasource="sections" inline="true">	<key>602a4487-a099-b354-32fc-4bb84ddede22</key>
 	<value>Sản Phẩm - Home</value>
