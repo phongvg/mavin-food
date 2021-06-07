@@ -4,10 +4,10 @@
         <div class="py-3 py-md-5">
           <h1 class="h4 base-color fw-bold text-uppercase mb-4">Chăm sóc khách hàng</h1>
           <div class="row row-cols-2">
-            <#if (contentModel.product_o.item)??>
-                <#list contentModel.product_o.item as cskh>
+            <#if (contentModel.cskh_o.item)??>
+                <#list contentModel.cskh_o.item as cskh>
                 <div class="col mb-3">
-                  <a href="#" class="btn w-100 h-100 base-bg-color rounded-0 text-white fw-bold">Thông tin Sản phẩm</a>
+                  <a href="${cskh.link_s}" class="btn w-100 h-100 base-bg-color rounded-0 text-white fw-bold">${cskh.name_s}</a>
                 </div>
                 </#list>
             </#if>
