@@ -12,25 +12,25 @@
 	<orderDefault_f>-1</orderDefault_f>
 	<internal-name>Q&amp;A</internal-name>
 	<navLabel>Q&amp;A</navLabel>
-	<section_o item-list="true">	<item datasource="sections" inline="true">	<key>c8373cb4-acab-0cfa-94f8-750ae38dea3f</key>
-	<value>Content - QA</value>
-<component id="c8373cb4-acab-0cfa-94f8-750ae38dea3f">
+	<section_o item-list="true">	<item datasource="sections" inline="true">	<key>87a636ee-c624-715f-b06f-39326e30f4a0</key>
+	<value>QA</value>
+<component id="87a636ee-c624-715f-b06f-39326e30f4a0">
 	<content-type>/component/qa</content-type>
-	<display-template/>
+	<display-template>/templates/web/components/qa.ftl</display-template>
 	<no-template-required/>
 	<merge-strategy>inherit-levels</merge-strategy>
-	<objectGroupId>c837</objectGroupId>
-	<objectId>c8373cb4-acab-0cfa-94f8-750ae38dea3f</objectId>
-	<file-name>c8373cb4-acab-0cfa-94f8-750ae38dea3f.xml</file-name>
-	<internal-name>Content - QA</internal-name>
-	<createdDate>2021-06-07T08:35:05.701Z</createdDate>
-	<createdDate_dt>2021-06-07T08:35:05.701Z</createdDate_dt>
-	<lastModifiedDate>2021-06-07T08:35:05.701Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-06-07T08:35:05.701Z</lastModifiedDate_dt>
+	<objectGroupId>87a6</objectGroupId>
+	<objectId>87a636ee-c624-715f-b06f-39326e30f4a0</objectId>
+	<file-name>87a636ee-c624-715f-b06f-39326e30f4a0.xml</file-name>
+	<internal-name>QA</internal-name>
+	<createdDate>2021-06-12T09:24:33.316Z</createdDate>
+	<createdDate_dt>2021-06-12T09:24:33.316Z</createdDate_dt>
+	<lastModifiedDate>2021-06-12T09:24:33.316Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-12T09:24:33.316Z</lastModifiedDate_dt>
 </component>
 	</item></section_o>
 	<createdDate>2021-06-07T08:34:47.459Z</createdDate>
 	<createdDate_dt>2021-06-07T08:34:47.459Z</createdDate_dt>
-	<lastModifiedDate>2021-06-07T08:34:47.459Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-06-07T08:34:47.459Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-06-12T09:24:26.115Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-12T09:24:26.115Z</lastModifiedDate_dt>
 </page>
