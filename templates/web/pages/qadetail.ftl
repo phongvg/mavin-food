@@ -25,12 +25,9 @@
         <div class="py-3 py-md-5">
           <h1 class="h4 base-color fw-bold text-uppercase mb-4">Q&A</h1>
           <div class="bg-white shadow p-3 p-md-4 mb-4">
-            <h3 class="h4 base-color fw-bold mb-3">Câu hỏi 1: Cam kết chất lượng thực phẩm sạch Mavin không bị ảnh hưởng bởi Dịch tả heo Châu Phi ASF?</h3>
-            <div class="mb-3"><img src="dist/images/share.jpg"></div>
-            <p>Là một trong những Tập đoàn hàng đầu trong lĩnh vực nông nghiệp hoạt đông theo mô hình sản xuất khép kín "Từ Nông trại tới Bàn ăn" tại Việt Nam, Tập đoàn Mavin nỗ lực cùng chung tay kiểm soát, ngăn chặn dịch lợn tả Châu Phi ASF để đảm bảo nguồn thịt lợn sạch, chất lượng nhất đến tay Quý Khách hàng. Mavin đã triển khai và áp dụng nghiêm ngặt các biện pháp trên toàn hệ thống Trang trại chăn nuôi và các Nhà máy:</p>
-            <p class="fw-bold">1. Nâng cao An toàn sinh học, bao gồm: tăng sát trùng người, phương tiện, công cụ, vật tư…, đối với cả ra và vào các trại để đảm bảo an toàn cho nội bộ và cộng đồng;</p>
-            <p class="fw-bold">2. Hạn chế tối đa người ra vào trại, 100% người vào trại cần phải bỏ toàn bộ quần áo thường ngày tại vị trí quy định, đi qua sát trùng, tắm sạch và thay quần áo bảo hộ lao động, đi ủng bảo hộ trước khi vào khu vực chăn nuôi. </p>
-            <p class="fw-bold">2. Hạn chế tối đa người ra vào trại, 100% người vào trại cần phải bỏ toàn bộ quần áo thường ngày tại vị trí quy định, đi qua sát trùng, tắm sạch và thay quần áo bảo hộ lao động, đi ủng bảo hộ trước khi vào khu vực chăn nuôi. </p>
+            <h3 class="h4 base-color fw-bold mb-3">${contentModel.title_s}</h3>
+            <div class="mb-3"><img src="/static-assets/dist/images/share.jpg"></div>
+            ${contentModel.content_html}
           </div>
         </div>
       </div>
