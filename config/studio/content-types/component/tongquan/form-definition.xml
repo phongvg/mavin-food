@@ -104,9 +104,9 @@
 			</fields>
 		</section>
 		<section>
-			<title>Default Section Title 1623558846959</title>
+			<title>Content</title>
 			<description></description>
-			<defaultOpen>false</defaultOpen>
+			<defaultOpen>true</defaultOpen>
 			<fields>
 				<field>
 					<type>input</type>
@@ -119,12 +119,12 @@
 					<properties>
 						<property>
 							<name>size</name>
-							<value>150</value>
+							<value>50</value>
 							<type>int</type>
 						</property>
 						<property>
 							<name>maxlength</name>
-							<value>150</value>
+							<value>50</value>
 							<type>int</type>
 						</property>
 						<property>
@@ -187,7 +187,7 @@
 						</property>
 						<property>
 							<name>imageManager</name>
-							<value>desktopImage,repoImage</value>
+							<value></value>
 							<type>datasource:image</type>
 						</property>
 						<property>
