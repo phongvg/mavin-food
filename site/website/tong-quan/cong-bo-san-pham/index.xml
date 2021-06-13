@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/pagechild</content-type>
+	<display-template>/templates/web/pages/childpage.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>b32d</objectGroupId>
+	<objectId>b32d9069-e99f-3e83-cfb8-aaf6c4cb6c9e</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>cong-bo-san-pham</folder-name>
+	<internal-name>Công bố sản phẩm</internal-name>
+	<navLabel>Công bố sản phẩm</navLabel>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="sections" inline="true">	<key>0a75ee17-4d96-f5b4-2665-ce39e98c5a93</key>
+	<value>Công bố sản phẩm - content</value>
+<component id="0a75ee17-4d96-f5b4-2665-ce39e98c5a93">
+	<content-type>/component/congbo</content-type>
+	<display-template>/templates/web/components/congbosp.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>0a75</objectGroupId>
+	<objectId>0a75ee17-4d96-f5b4-2665-ce39e98c5a93</objectId>
+	<file-name>0a75ee17-4d96-f5b4-2665-ce39e98c5a93.xml</file-name>
+	<internal-name>Công bố sản phẩm - content</internal-name>
+	<title_s>CÔNG BỐ SẢN PHẨM</title_s>
+	<cer_o item-list="true">	<item>	<name_s>Xúc xích Berliner</name_s>
+	<image_s>/static-assets/images/tong-quan/cbsp.jpg</image_s>
+	</item>	<item>	<image_s>/static-assets/images/tong-quan/cbsp.jpg</image_s>
+	<name_s>Xúc xích Berliner</name_s>
+	</item>	<item>	<image_s>/static-assets/images/tong-quan/cbsp.jpg</image_s>
+	<name_s>Xúc xích Berliner</name_s>
+	</item>	<item>	<image_s>/static-assets/images/tong-quan/cbsp.jpg</image_s>
+	<name_s>Xúc xích Berliner</name_s>
+	</item>	<item>	<image_s>/static-assets/images/tong-quan/cbsp.jpg</image_s>
+	<name_s>Xúc xích Berliner</name_s>
+	</item>	<item>	<image_s>/static-assets/images/tong-quan/cbsp.jpg</image_s>
+	<name_s>Xúc xích Berliner</name_s>
+	</item></cer_o>
+	<createdDate>2021-06-13T16:50:15.356Z</createdDate>
+	<createdDate_dt>2021-06-13T16:50:15.356Z</createdDate_dt>
+	<lastModifiedDate>2021-06-13T16:50:15.356Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-13T16:50:15.356Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<createdDate>2021-06-13T16:49:48.099Z</createdDate>
+	<createdDate_dt>2021-06-13T16:49:48.099Z</createdDate_dt>
+	<lastModifiedDate>2021-06-13T16:49:48.099Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-13T16:49:48.099Z</lastModifiedDate_dt>
+</page>
