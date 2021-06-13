@@ -12,7 +12,7 @@
             </div>
           </div>
           <div class="position-absolute bottom-0 end-0 d-none d-md-block">
-            <img src="dist/images/crown.png" width="170" height="170">
+            <img src="/static-assets/dist/images/crown.png" width="170" height="170">
           </div>
         </div>
       </div>
