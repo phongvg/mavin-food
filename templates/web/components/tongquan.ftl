@@ -28,19 +28,19 @@
               </div>
               <div class="row row-cols-2 row-cols-md-auto gx-0 justify-content-center">
                 <div class="col text-center">
-                  <img class="img-b10w" src="dist/temp/1-1.png" alt="">
+                  <img class="img-b10w" src="/static-assets/dist/temp/1-1.png" alt="">
                 </div>
                 <div class="col text-center">
-                  <img class="img-b10w" src="dist/temp/1-2.png" alt="">
+                  <img class="img-b10w" src="/static-assets/dist/temp/1-2.png" alt="">
                 </div>
                 <div class="col text-center">
-                  <img class="img-b10w" src="dist/temp/1-4.png" alt="">
+                  <img class="img-b10w" src="/static-assets/dist/temp/1-4.png" alt="">
                 </div>
                 <div class="col text-center">
-                  <img class="img-b10w" src="dist/temp/1-3.png" alt="">
+                  <img class="img-b10w" src="/static-assets/dist/temp/1-3.png" alt="">
                 </div>
                 <div class="col text-center">
-                  <img class="img-b10w" src="dist/temp/1-5.png" alt="">
+                  <img class="img-b10w" src="/static-assets/dist/temp/1-5.png" alt="">
                 </div>
               </div>
             </div>
