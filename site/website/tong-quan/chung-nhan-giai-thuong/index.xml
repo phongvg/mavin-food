@@ -8,8 +8,8 @@
 	<objectId>93f5fdb5-8bf7-226d-9fa6-c6114b5951a5</objectId>
 	<file-name>index.xml</file-name>
 	<folder-name>chung-nhan-giai-thuong</folder-name>
-	<internal-name>Chứng nhận - Giair thưởng</internal-name>
-	<navLabel>Chứng nhận - Giair thưởng</navLabel>
+	<internal-name>Chứng nhận - Giải thưởng</internal-name>
+	<navLabel>Chứng nhận - Giải thưởng</navLabel>
 	<placeInNav>false</placeInNav>
 	<orderDefault_f>-1</orderDefault_f>
 	<section_o item-list="true">	<item datasource="sections" inline="true">	<key>99bb4bbe-444d-1785-f9bc-6fb961d17cef</key>
@@ -38,6 +38,6 @@
 	</item></section_o>
 	<createdDate>2021-06-14T07:20:04.450Z</createdDate>
 	<createdDate_dt>2021-06-14T07:20:04.450Z</createdDate_dt>
-	<lastModifiedDate>2021-06-14T07:20:04.450Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-06-14T07:20:04.450Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-06-14T07:22:50.265Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-14T07:22:50.265Z</lastModifiedDate_dt>
 </page>
