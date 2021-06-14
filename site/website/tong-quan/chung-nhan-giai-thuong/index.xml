@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/pagechild</content-type>
+	<display-template>/templates/web/pages/childpage.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>93f5</objectGroupId>
+	<objectId>93f5fdb5-8bf7-226d-9fa6-c6114b5951a5</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>chung-nhan-giai-thuong</folder-name>
+	<internal-name>Chứng nhận - Giair thưởng</internal-name>
+	<navLabel>Chứng nhận - Giair thưởng</navLabel>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="sections" inline="true">	<key>99bb4bbe-444d-1785-f9bc-6fb961d17cef</key>
+	<value>Chứng nhận - Giai thưởng</value>
+<component id="99bb4bbe-444d-1785-f9bc-6fb961d17cef">
+	<content-type>/component/chungnhan</content-type>
+	<display-template>/templates/web/components/chungnhan-giaithuong.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>99bb</objectGroupId>
+	<objectId>99bb4bbe-444d-1785-f9bc-6fb961d17cef</objectId>
+	<file-name>99bb4bbe-444d-1785-f9bc-6fb961d17cef.xml</file-name>
+	<internal-name>Chứng nhận - Giai thưởng</internal-name>
+	<title_s>HACCP (HAZARD ANALYSIS AND CRITICAL CONTROL POINT SYSTEM)</title_s>
+	<content_html>&lt;p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; color: #212529; font-family: Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; background-color: #ffffff;"&gt;Chứng nhận hệ thống ph&amp;acirc;n t&amp;iacute;ch mối nguy v&amp;agrave; kiểm so&amp;aacute;t tới hạn HACCP (Hazard Analysis and Critical Control Point System). HACCP l&amp;agrave; hệ thống quản l&amp;yacute; chất lượng dựa tr&amp;ecirc;n cơ sở ph&amp;acirc;n t&amp;iacute;ch c&amp;aacute;c mối nguy v&amp;agrave; c&amp;aacute;c điểm kiểm so&amp;aacute;t trọng yếu. Đ&amp;oacute; l&amp;agrave; c&amp;ocirc;ng cụ ph&amp;acirc;n t&amp;iacute;ch nhằm bảo đảm an to&amp;agrave;n vệ sinh v&amp;agrave; chất lượng thực phẩm. HACCP bao gồm những đ&amp;aacute;nh gi&amp;aacute; c&amp;oacute; hệ thống đối với tất cả c&amp;aacute;c bước c&amp;oacute; li&amp;ecirc;n quan trong quy tr&amp;igrave;nh chế biến thực phẩm, đồng thời x&amp;aacute;c định những bước trọng yếu đối với an to&amp;agrave;n chất lượng thực phẩm. C&amp;ocirc;ng cụ n&amp;agrave;y cho ph&amp;eacute;p tập trung nguồn lực kỹ thuật, chuy&amp;ecirc;n m&amp;ocirc;n v&amp;agrave;o những bước chế biến c&amp;oacute; ảnh hưởng quyết định đến an to&amp;agrave;n chất lượng thực phẩm.&lt;/p&gt;</content_html>
+	<certi_o item-list="true">	<item>	<image_s>/static-assets/images/tong-quan/tq-htcc1.jpg</image_s>
+	</item>	<item>	<image_s>/static-assets/images/tong-quan/tq-htcc1.jpg</image_s>
+	</item>	<item>	<image_s>/static-assets/images/tong-quan/tq-htcc1.jpg</image_s>
+	</item>	<item>	<image_s>/static-assets/images/tong-quan/tq-htcc1.jpg</image_s>
+	</item></certi_o>
+	<createdDate>2021-06-14T07:20:38.350Z</createdDate>
+	<createdDate_dt>2021-06-14T07:20:38.350Z</createdDate_dt>
+	<lastModifiedDate>2021-06-14T07:22:30.861Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-14T07:22:30.861Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<createdDate>2021-06-14T07:20:04.450Z</createdDate>
+	<createdDate_dt>2021-06-14T07:20:04.450Z</createdDate_dt>
+	<lastModifiedDate>2021-06-14T07:20:04.450Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-14T07:20:04.450Z</lastModifiedDate_dt>
+</page>
