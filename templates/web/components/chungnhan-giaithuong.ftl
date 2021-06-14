@@ -4,7 +4,7 @@
       <div class="bg-orange py-3 py-md-5 mb-4">
         <div class="container">
           <div class="slide-certificate slide-centerMode arrows-style">
-          <#list ${contentModel.certi_o.item as certi}
+          <#list contentModel.certi_o.item as certi>
             <div class="slide-item">
               <a class="d-block shadow" href="#">
                 <img class="img-fluid mx-auto mb-3" src="${certi.image_s}" alt="">
