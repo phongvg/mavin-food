@@ -1,5 +1,5 @@
 <form>
-<title>Com - Chứng nhận</title>
+<title>Com - Chung nhan</title>
 <description></description>
 <content-type>/component/chungnhan</content-type>
 <objectType>component</objectType>
@@ -33,7 +33,7 @@
 </properties>
 <sections>
 <section>
-<title>Com - Chứng nhận Properties</title>
+<title>Com - Chung nhan Properties</title>
 <description></description>
 <defaultOpen>true</defaultOpen>
 <fields>
