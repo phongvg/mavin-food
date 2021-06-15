@@ -1,5 +1,5 @@
 <content-type name="/page/spchitiet" is-wcm-type="true">
-<label>Page - Sản phẩm chi tiết</label>
+<label>Page - San pham chi tiet</label>
 <form>/page/spchitiet</form>
 <form-path>simple</form-path>
 <model-instance-path>NOT-USED-BY-SIMPLE-FORM-ENGINE</model-instance-path>
