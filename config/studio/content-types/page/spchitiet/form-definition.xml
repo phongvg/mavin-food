@@ -1,5 +1,5 @@
 <form>
-<title>Page - Sản phẩm chi tiết</title>
+<title>Page - San pham chi tiet</title>
 <description></description>
 <content-type>/page/spchitiet</content-type>
 <objectType>page</objectType>
@@ -33,7 +33,7 @@
 </properties>
 <sections>
 <section>
-<title>Page - Sản phẩm chi tiết Properties</title>
+<title>Page - San pham chi tiet Properties</title>
 <description></description>
 <defaultOpen>true</defaultOpen>
 <fields>
