@@ -14,7 +14,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-package org.craftercms.blueprints.headless
+package org.craftercms.sites.editorial
 
 import groovy.util.logging.Slf4j
 
