@@ -143,7 +143,7 @@
 				</field>
 				<field>
 					<type>image-picker</type>
-					<id>vision-image_s</id>
+					<id>visionimage_s</id>
 					<iceId></iceId>
 					<title>vision-image</title>
 					<description></description>
@@ -317,7 +317,7 @@
 				</field>
 				<field>
 					<type>image-picker</type>
-					<id>mission-image_s</id>
+					<id>missionimage_s</id>
 					<iceId></iceId>
 					<title>mission-image</title>
 					<description></description>
