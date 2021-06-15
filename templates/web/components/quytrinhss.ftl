@@ -37,5 +37,5 @@
       </div>
     </section>
     <section class="home-block">
-      <img class="img-fluid" src="dist/temp/11.jpg" alt="">
+      <img class="img-fluid" src="/static-assets/dist/temp/11.jpg" alt="">
     </section>
