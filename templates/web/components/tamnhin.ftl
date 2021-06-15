@@ -9,7 +9,7 @@
               </div>
             </div>
             <div class="col order-1 order-md-2">
-              <img class="img-fluid h-100" src="${contentModel.vision-image_s}" alt="">
+              <img class="img-fluid h-100" src="${contentModel.visionimage_s}" alt="">
             </div>
           </div>
         </div>
@@ -22,7 +22,7 @@
               </div>
             </div>
             <div class="col order-1 order-md-1">
-              <img class="img-fluid h-100" src="${contentModel.mission-image_s}" alt="">
+              <img class="img-fluid h-100" src="${contentModel.missionimage_s}" alt="">
             </div>
           </div>
         </div>
