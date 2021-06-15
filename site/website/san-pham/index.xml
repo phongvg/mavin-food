@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/pagechild</content-type>
+	<display-template>/templates/web/pages/childpage.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>1258</objectGroupId>
+	<objectId>1258650e-38ea-f94d-6acd-5cec466f957e</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>san-pham</folder-name>
+	<internal-name>Sản phẩm</internal-name>
+	<navLabel>Sản phẩm</navLabel>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="sections" inline="true">	<key>5c741852-84b6-4d11-05c6-8039b0dab956</key>
+	<value>Sản phẩm</value>
+<component id="5c741852-84b6-4d11-05c6-8039b0dab956">
+	<content-type>/component/sp</content-type>
+	<display-template>/templates/web/components/sanpham.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>5c74</objectGroupId>
+	<objectId>5c741852-84b6-4d11-05c6-8039b0dab956</objectId>
+	<internal-name>Sản phẩm</internal-name>
+	<file-name>5c741852-84b6-4d11-05c6-8039b0dab956.xml</file-name>
+	<createdDate>2021-06-15T09:35:27.173Z</createdDate>
+	<createdDate_dt>2021-06-15T09:35:27.173Z</createdDate_dt>
+	<lastModifiedDate>2021-06-15T09:35:27.173Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-15T09:35:27.173Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<createdDate>2021-06-15T09:35:05.640Z</createdDate>
+	<createdDate_dt>2021-06-15T09:35:05.640Z</createdDate_dt>
+	<lastModifiedDate>2021-06-15T09:35:05.640Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-15T09:35:05.640Z</lastModifiedDate_dt>
+</page>
