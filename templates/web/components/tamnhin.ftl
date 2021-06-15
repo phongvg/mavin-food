@@ -4,8 +4,8 @@
           <div class="row row-cols-1 row-cols-md-2 gx-0 align-items-stretch">
             <div class="col order-2 order-md-1">
               <div class="base-bg-color p-3 p-md-5 text-white">
-                <h2 class="fw-bold">${contentModel.vision-title_s}</h2>
-                ${contentModel.vision-content_html}
+                <h2 class="fw-bold">${contentModel.visiontitle_s}</h2>
+                ${contentModel.visioncontent_html}
               </div>
             </div>
             <div class="col order-1 order-md-2">
@@ -17,8 +17,8 @@
           <div class="row row-cols-1 row-cols-md-2 gx-0 align-items-stretch">
             <div class="col order-2 order-md-2">
               <div class="base-bg-color p-3 p-md-5 text-white">
-                <h2 class="fw-bold">${contentModel.mission-title_s}</h2>
-                ${contentModel.mission-content_html}
+                <h2 class="fw-bold">${contentModel.missiontitle_s}</h2>
+                ${contentModel.missioncontent_html}
               </div>
             </div>
             <div class="col order-1 order-md-1">
