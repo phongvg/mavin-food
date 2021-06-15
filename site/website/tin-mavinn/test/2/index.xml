@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/spchitiet</content-type>
+	<display-template>/templates/web/pages/spchitiet.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>a950</objectGroupId>
+	<objectId>a950bff6-b4c9-2bcd-a04d-bcde9da70175</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>2</folder-name>
+	<internal-name>2</internal-name>
+	<navLabel>2</navLabel>
+	<name_s>2</name_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<sptype_o>	<item>	<key>xuc-xich</key>
+	<value_smv>Xúc xích</value_smv>
+	</item></sptype_o>
+	<image1_s>/static-assets/images/san-pham/2.jpg</image1_s>
+	<image3_s>/static-assets/images/san-pham/2.jpg</image3_s>
+	<content_html>&lt;p&gt;2&lt;/p&gt;</content_html>
+	<createdDate>2021-06-15T11:03:36.742Z</createdDate>
+	<createdDate_dt>2021-06-15T11:03:36.742Z</createdDate_dt>
+	<lastModifiedDate>2021-06-15T11:03:36.742Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-15T11:03:36.742Z</lastModifiedDate_dt>
+</page>
