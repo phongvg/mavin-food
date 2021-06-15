@@ -25,8 +25,6 @@
 	<vision-title_s>Tầm nhìn</vision-title_s>
 	<mission-title_s>Sứ mệnh</mission-title_s>
 	<file-name>dbc1a88e-7cc0-1c6b-ffc2-5632a1daecf7.xml</file-name>
-	<vision-image_s>/static-assets/images/tong-quan/tam-nhin.jpg</vision-image_s>
-	<mission-image_s>/static-assets/images/tong-quan/su-menh.jpg</mission-image_s>
 	<vision-content_html>&lt;p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; color: #ffffff; font-family: Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;"&gt;Trở th&amp;agrave;nh doanh nghiệp h&amp;agrave;ng đầu cung cấp c&amp;aacute;c sản phẩm v&amp;agrave; dịch vụ về n&amp;ocirc;ng nghiệp hiệu quả v&amp;agrave; chuy&amp;ecirc;n nghiệp&lt;/p&gt;
 &lt;p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; color: #ffffff; font-family: Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;"&gt;Tạo ra c&amp;aacute;c sản phẩm dịch vụ ưu việt th&amp;ocirc;ng qua c&amp;ocirc;ng t&amp;aacute;c nghi&amp;ecirc;n cứu ph&amp;aacute;t triển li&amp;ecirc;n tục.&lt;/p&gt;
 &lt;p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; color: #ffffff; font-family: Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;"&gt;Ph&amp;aacute;t triển v&amp;agrave; ứng dụng hệ thống sản xuất th&amp;acirc;n thiện với m&amp;ocirc;i trường.&lt;/p&gt;
@@ -37,12 +35,14 @@
 &lt;p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; color: #ffffff; font-family: Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;"&gt;Cung cấp lợi &amp;iacute;ch bền vững cho kh&amp;aacute;ch h&amp;agrave;ng, đối t&amp;aacute;c, nh&amp;acirc;n vi&amp;ecirc;n v&amp;agrave; cổ đ&amp;ocirc;ng&lt;/p&gt;</mission-content_html>
 	<createdDate>2021-06-15T09:19:23.548Z</createdDate>
 	<createdDate_dt>2021-06-15T09:19:23.548Z</createdDate_dt>
-	<lastModifiedDate>2021-06-15T09:19:23.548Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-06-15T09:19:23.548Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-06-15T09:24:28.171Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-15T09:24:28.171Z</lastModifiedDate_dt>
+	<visionimage_s>/static-assets/images/tong-quan/tam-nhin.jpg</visionimage_s>
+	<missionimage_s>/static-assets/images/tong-quan/su-menh.jpg</missionimage_s>
 </component>
 	</item></section_o>
 	<createdDate>2021-06-15T09:16:45.803Z</createdDate>
 	<createdDate_dt>2021-06-15T09:16:45.803Z</createdDate_dt>
-	<lastModifiedDate>2021-06-15T09:16:45.803Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-06-15T09:16:45.803Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-06-15T09:24:25.215Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-15T09:24:25.215Z</lastModifiedDate_dt>
 </page>
