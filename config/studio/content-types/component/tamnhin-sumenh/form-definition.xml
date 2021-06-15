@@ -95,9 +95,9 @@
 			<fields>
 				<field>
 					<type>input</type>
-					<id>vision-title_s</id>
+					<id>visiontitle_s</id>
 					<iceId></iceId>
-					<title>vision-title</title>
+					<title>visiontitle</title>
 					<description></description>
 					<defaultValue></defaultValue>
 					<help></help>
@@ -191,9 +191,9 @@
 				</field>
 				<field>
 					<type>rte-tinymce5</type>
-					<id>vision-content_html</id>
+					<id>visioncontent_html</id>
 					<iceId></iceId>
-					<title>vision-content</title>
+					<title>visioncontent</title>
 					<description></description>
 					<defaultValue></defaultValue>
 					<help></help>
@@ -269,9 +269,9 @@
 				</field>
 				<field>
 					<type>input</type>
-					<id>mission-title_s</id>
+					<id>missiontitle_s</id>
 					<iceId></iceId>
-					<title>mission-title</title>
+					<title>missiontitle</title>
 					<description></description>
 					<defaultValue></defaultValue>
 					<help></help>
@@ -365,7 +365,7 @@
 				</field>
 				<field>
 					<type>rte-tinymce5</type>
-					<id>mission-content_html</id>
+					<id>missioncontent_html</id>
 					<iceId></iceId>
 					<title>mission-content</title>
 					<description></description>
