@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<page><parsererror xmlns="http://www.w3.org/1999/xhtml" style="display: block; white-space: pre; border: 2px solid #c77; padding: 0 1em 0 1em; margin: 1em; background-color: #fdd; color: black"><h3>This page contains the following errors:</h3><div style="font-family:monospace;font-size:12px">error on line 10 at column 28: PCDATA invalid Char value 29
-</div><h3>Below is a rendering of the page up to the first error.</h3></parsererror>
+<page>
 	<content-type>/page/pagechild</content-type>
 	<display-template>/templates/web/pages/childpage.ftl</display-template>
 	<no-template-required/>
@@ -9,4 +8,37 @@
 	<objectId>739e2959-96da-478a-a0ad-1b107e557ed5</objectId>
 	<file-name>index.xml</file-name>
 	<folder-name>sp-khac</folder-name>
-	<internal-name/></page>
+	<internal-name>Sản phẩm khác</internal-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<navLabel>Sản phẩm khác</navLabel>
+	<section_o item-list="true">	<item datasource="sections" inline="true">	<key>f492e5e7-21bf-318f-ee42-844cc37f01d3</key>
+	<value>Sản phẩm khác</value>
+<component id="f492e5e7-21bf-318f-ee42-844cc37f01d3">
+	<content-type>/component/comnhomsp</content-type>
+	<display-template>/templates/web/components/groupproduct.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>f492</objectGroupId>
+	<objectId>f492e5e7-21bf-318f-ee42-844cc37f01d3</objectId>
+	<file-name>f492e5e7-21bf-318f-ee42-844cc37f01d3.xml</file-name>
+	<internal-name>Sản phẩm khác</internal-name>
+	<title_s>Sản phẩm khác</title_s>
+	<image_s>/static-assets/images/san-pham/cat-lat.png</image_s>
+	<groupproduct_o item-list="true">	<item datasource="groupProuduct">	<key>/site/items/d5fdac74-e36b-38b4-1a16-95081514a6a9.xml</key>
+	<value>SP khác</value>
+	<include>/site/items/d5fdac74-e36b-38b4-1a16-95081514a6a9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></groupproduct_o>
+	<content_html>&lt;p&gt;&lt;span style="color: #212529; font-family: Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; background-color: #ffffff;"&gt;X&amp;uacute;c x&amp;iacute;ch l&amp;agrave; sản phẩm truyền thống của MavinFood được sản xuất tr&amp;ecirc;n d&amp;acirc;y chuyền c&amp;ocirc;ng nghệ hiện đại của Đức với "B&amp;iacute; quyết Ch&amp;acirc;u &amp;Acirc;u. Đậm s&amp;acirc;u Vị &amp;Aacute;". Sản phẩm được l&amp;agrave;m từ nguồn nguy&amp;ecirc;n liệu thịt tươi của ch&amp;iacute;nh c&amp;aacute;c trang trại được ph&amp;ograve;ng dịch bệnh nghi&amp;ecirc;m ngặt v&amp;agrave; được cho ăn bằng thức ăn chất lượng cao của Tập đo&amp;agrave;n Mavin; c&amp;aacute;c loại gia vị nhập khẩu c&amp;oacute; hương vị đặc trưng rất hấp dẫn. Mavin kiểm so&amp;aacute;t kh&amp;acirc;u giết mổ an to&amp;agrave;n, bảo quản v&amp;agrave; chế biến sản phẩm đạt chuẩn ISO 22000 v&amp;agrave; HACCP.&lt;/span&gt;&lt;/p&gt;</content_html>
+	<createdDate>2021-06-16T08:42:34.975Z</createdDate>
+	<createdDate_dt>2021-06-16T08:42:34.975Z</createdDate_dt>
+	<lastModifiedDate>2021-06-16T08:42:34.975Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-16T08:42:34.975Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<createdDate>2021-06-16T08:42:24.479Z</createdDate>
+	<createdDate_dt>2021-06-16T08:42:24.479Z</createdDate_dt>
+	<lastModifiedDate>2021-06-16T08:42:24.479Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-16T08:42:24.479Z</lastModifiedDate_dt>
+</page>
