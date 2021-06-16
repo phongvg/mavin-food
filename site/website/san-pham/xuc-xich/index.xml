@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/pagechild</content-type>
+	<display-template>/templates/web/pages/childpage.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>1e2f</objectGroupId>
+	<objectId>1e2f95da-bc84-2443-5282-4249a80fba52</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>xuc-xich</folder-name>
+	<internal-name>Sản phẩm xúc xích</internal-name>
+	<navLabel>Sản phẩm xúc xích</navLabel>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="sections" inline="true">	<key>740ca86a-6d49-3e1f-351e-f4b0d30fc36a</key>
+	<value>Xúc xích</value>
+<component id="740ca86a-6d49-3e1f-351e-f4b0d30fc36a">
+	<content-type>/component/comnhomsp</content-type>
+	<display-template>/templates/web/components/groupproduct.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>740c</objectGroupId>
+	<objectId>740ca86a-6d49-3e1f-351e-f4b0d30fc36a</objectId>
+	<file-name>740ca86a-6d49-3e1f-351e-f4b0d30fc36a.xml</file-name>
+	<internal-name>Xúc xích</internal-name>
+	<image_s>/static-assets/images/san-pham/xuc-xich1.png</image_s>
+	<groupproduct_o item-list="true">	<item datasource="groupProuduct">	<key>/site/items/6f51e5fe-2484-84d3-88ab-e1a7ec385fea.xml</key>
+	<value>Sản phẩm xúc xích</value>
+	<include>/site/items/6f51e5fe-2484-84d3-88ab-e1a7ec385fea.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></groupproduct_o>
+	<content_html>&lt;p&gt;&lt;span style="color: #212529; font-family: Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; background-color: #ffffff;"&gt;X&amp;uacute;c x&amp;iacute;ch l&amp;agrave; sản phẩm truyền thống của MavinFood được sản xuất tr&amp;ecirc;n d&amp;acirc;y chuyền c&amp;ocirc;ng nghệ hiện đại của Đức với "B&amp;iacute; quyết Ch&amp;acirc;u &amp;Acirc;u. Đậm s&amp;acirc;u Vị &amp;Aacute;". Sản phẩm được l&amp;agrave;m từ nguồn nguy&amp;ecirc;n liệu thịt tươi của ch&amp;iacute;nh c&amp;aacute;c trang trại được ph&amp;ograve;ng dịch bệnh nghi&amp;ecirc;m ngặt v&amp;agrave; được cho ăn bằng thức ăn chất lượng cao của Tập đo&amp;agrave;n Mavin; c&amp;aacute;c loại gia vị nhập khẩu c&amp;oacute; hương vị đặc trưng rất hấp dẫn. Mavin kiểm so&amp;aacute;t kh&amp;acirc;u giết mổ an to&amp;agrave;n, bảo quản v&amp;agrave; chế biến sản phẩm đạt chuẩn ISO 22000 v&amp;agrave; HACCP.&lt;/span&gt;&lt;/p&gt;</content_html>
+	<createdDate>2021-06-16T07:51:39.364Z</createdDate>
+	<createdDate_dt>2021-06-16T07:51:39.364Z</createdDate_dt>
+	<lastModifiedDate>2021-06-16T07:51:39.364Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-16T07:51:39.364Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<createdDate>2021-06-16T07:50:56.337Z</createdDate>
+	<createdDate_dt>2021-06-16T07:50:56.337Z</createdDate_dt>
+	<lastModifiedDate>2021-06-16T07:50:56.337Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-16T07:50:56.337Z</lastModifiedDate_dt>
+</page>
