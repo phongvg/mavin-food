@@ -58,10 +58,9 @@
     <section class="home-block py-4 py-md-5">
       <div class="container">
         <div class="d-flex flex-column flex-md-row align-items-center">
-          <div class="flex-shrink-0 me-3 mb-3 mb-md-0"><img class="img-fluid" src="dist/images/1.png" alt=""></div>
+          <div class="flex-shrink-0 me-3 mb-3 mb-md-0"><img class="img-fluid" src="${contentModel.image_s}" alt=""></div>
           <div class="flex-grow-1">
-            <p>Thịt nguyên liệu để sản xuất các sản phẩm của Mavin là thịt sạch, được cung cấp bởi chính hệ thống các Công ty của Mavin.</p>
-            <p>Hệ thống này sở hữu các nhà máy sản xuất thức ăn chăn nuôi lớn trên cả nước với công suất hàng trăm nghìn tấn/năm, cũng như sở hữu hệ thống trang trại heo giống và heo thịt lớn tại miền Bắc, với các giống heo được nhập trực tiếp từ Vương quốc Anh. Hàng năm, hệ thống các trại heo này cung cấp hàng nghìn tấn thịt heo thành phẩm, chất lượng cao, đảm bảo vệ sinh an toàn ra thị trường. Mavin chính là mắt xích hoàn chỉnh trong chuỗi sản phẩm “Từ Nông trại tới Bàn ăn” của hệ thống.</p>
+            ${contentModel.content_html}
           </div>
         </div>
         <div class="d-flex flex-column flex-md-row align-items-center justify-content-evenly p-4 base-bg-color text-white">
