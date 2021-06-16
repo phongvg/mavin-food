@@ -26,14 +26,15 @@
           <h1 class="h4 base-color text-uppercase fw-bold mb-3">${contentModel.title_s}</h1>
           <div class="bg-white p-3 p-md-5 mb-4 shadow">
             <div class="row row-cols-2">
-            <#list 
+            <#list lib_o.item as element>
               <div class="col">
                 <div class="d-flex flex-column mb-4">
-                  <img class="img-fluid" src="dist/temp/media-1.jpg" alt="">
-                  <div class="fs-6 mt-3 mb-1 base-color">Gala tổng kết năm 2020</div>
+                  <img class="img-fluid" src="${element.image_s}" alt="">
+                  <div class="fs-6 mt-3 mb-1 base-color">${element.name_s}</div>
                   <div class="text-muted">04.01.2020</div>
                 </div>
               </div>
+            </#list>
             </div>
             <nav class="pagination-mf" aria-label="">
               <ul class="pagination justify-content-center">
