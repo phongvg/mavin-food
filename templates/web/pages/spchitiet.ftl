@@ -21,21 +21,7 @@
   </head>
   <body>
     <@renderComponent component=contentModel.header_o.item />
-
-    ${contentModel.image1_s}
-    ${contentModel.image2_s}
-    ${contentModel.image3_s}
-    ${contentModel.content_html}
-    <#if (productOther)??>
-    	<#list productOther as product>
-            <div class="col-lg-2 col-md-2 col-sm-6 product-item mb-3">
-                <a href="${product.url}"><img  class="img-100" src="${product.name}" width="120" height="83"/></a>
-                <p style="font-size: 23px;" class="d-block font-weight-bold violet-color mt-3 font-title">${product.image1}</p>
-            </div>
-        </#list>
-    </#if>
-    
-        <section class="sp-block py-4 py-md-5">
+    <section class="sp-block py-4 py-md-5">
       <div class="container">
         <div class="row row-cols-1 row-cols-md-2 align-items-center py-3 py-md-5">
           <div class="col mb-4 text-center">
