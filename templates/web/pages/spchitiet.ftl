@@ -62,7 +62,7 @@
         <h3 class="base-color text-center mb-3 mb-md-5">Sản phẩm tương tự</h3>
         <div class="row row-cols-2 row-cols-lg-5">
         <#if (productOther)??>
-            <#list productOther as product>
+          <#list productOther as product>
           <div class="col mb-4">
             <div class="bg-white shadow p-3 p-md-4">
               <div class="position-relative">
@@ -79,6 +79,8 @@
               <div class="text-orange">${product.price}</div>
             </div>
           </div>
+          </#list>
+         </#if>
 
         </div>
         <nav class="pagination-mf" aria-label="">
