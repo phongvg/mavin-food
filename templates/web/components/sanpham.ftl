@@ -15,42 +15,16 @@
         <div class="slider-product mb-md-4 mt-5 pt-5 text-center">
           <h2 class="base-color fw-bold text-uppercase mb-3">sản phẩm tiêu biểu</h2>
           <div class="sp-2 slide-centerMode arrows-style">
+            <#if (products)??>
+    	    <#list products as product>
             <div class="slide-item">
               <a class="d-block text-muted" href="#">
                 <img class="img-fluid mx-auto mb-3" src="dist/temp/2.jpg" alt="">
                 <span class="d-block">Xem chi tiết</span>
               </a>
             </div>
-            <div class="slide-item">
-              <a class="d-block text-muted" href="#">
-                <img class="img-fluid mx-auto mb-3" src="dist/temp/3.jpg" alt="">
-                <span class="d-block">Xem chi tiết</span>
-              </a>
-            </div>
-            <div class="slide-item">
-              <a class="d-block text-muted" href="#">
-                <img class="img-fluid mx-auto mb-3" src="dist/temp/4.jpg" alt="">
-                <span class="d-block">Xem chi tiết</span>
-              </a>
-            </div>
-            <div class="slide-item">
-              <a class="d-block text-muted" href="#">
-                <img class="img-fluid mx-auto mb-3" src="dist/temp/5.jpg" alt="">
-                <span class="d-block">Xem chi tiết</span>
-              </a>
-            </div>
-            <div class="slide-item">
-              <a class="d-block text-muted" href="#">
-                <img class="img-fluid mx-auto mb-3" src="dist/temp/6.jpg" alt="">
-                <span class="d-block">Xem chi tiết</span>
-              </a>
-            </div>
-            <div class="slide-item">
-              <a class="d-block text-muted" href="#">
-                <img class="img-fluid mx-auto mb-3" src="dist/temp/2.jpg" alt="">
-                <span class="d-block">Xem chi tiết</span>
-              </a>
-            </div>
+            </#list>
+            </#if>
           </div>
         </div>
       </div>
@@ -85,14 +59,6 @@
         </div>
       </div>
     </section>
-     <#if (products)??>
-    	<#list products as product>
-            <div class="products__list-item item">
-                <a href="${product.url}"><img class="products__img" src="${product.image1}" style="width: 118px !important;  margin-left: auto;margin-right: auto; display: block;" alt="Product image" width="135" height="160"/></a>
-                <p class="font-weight-bold mb-0 font-title" style="font-size: 23px; text-align: center;">${product.name}</p>
-            </div>
-        </#list>
-    </#if>
     <section class="home-block">
       <img class="img-fluid" src="/static-assets/dist/temp/8.jpg" alt="">
     </section>
