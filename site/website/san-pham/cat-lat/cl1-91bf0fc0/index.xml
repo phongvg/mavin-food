@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/spchitiet</content-type>
+	<display-template>/templates/web/pages/spchitiet.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>4d7c2c76</objectGroupId>
+	<objectId>4d7c2c76-8131-4486-8166-df105c116214</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>cl1-91bf0fc0</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>0.0</orderDefault_f>
+	<internal-name>Cắt lát 1 91bf0fc0</internal-name>
+	<navLabel>Cắt lát 1</navLabel>
+	<name_s>Cắt lát 1</name_s>
+	<kl_s>500g</kl_s>
+	<price_s>45.000đ</price_s>
+	<sptype_o>	<item>	<key>cat-lat</key>
+	<value_smv>Cắt lát</value_smv>
+	</item></sptype_o>
+	<image1_s>/static-assets/images/san-pham/xuc-xich-ga.png</image1_s>
+	<image2_s>/static-assets/images/san-pham/xuc-xich1.png</image2_s>
+	<image3_s>/static-assets/images/san-pham/xuc-xich-ga2.jpg</image3_s>
+	<content_html>&lt;p class="fw-bold" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; color: #ffffff; font-family: Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; background-color: #d22234; font-weight: 700 !important;"&gt;X&amp;uacute;c x&amp;iacute;ch G&amp;agrave; bổ sung th&amp;agrave;nh phần ch&amp;iacute;nh thịt g&amp;agrave; mới lạ b&amp;ecirc;n cạnh d&amp;ograve;ng x&amp;uacute;c x&amp;iacute;ch heo truyền thống. Sản phẩm mang hương vị g&amp;agrave; đặc trưng.&lt;/p&gt;
+&lt;p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; color: #ffffff; font-family: Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; background-color: #d22234;"&gt;Th&amp;agrave;nh phần: Thịt g&amp;agrave; (&amp;gt;80%), mỡ g&amp;agrave; (&amp;lt;15%), muối ăn, đường k&amp;iacute;nh, chất ổn định m&amp;agrave;u sodium tripoly photphat (451i), chất bảo quản: Kali Nitrit (250), chất chống oxy h&amp;oacute;a: axit ascorbic (300), kh&amp;oacute;i tự nhi&amp;ecirc;n.&lt;/p&gt;
+&lt;p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; color: #ffffff; font-family: Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; background-color: #d22234;"&gt;QUY C&amp;Aacute;CH Đ&amp;Oacute;NG G&amp;Oacute;I: T&amp;uacute;i 500g (12 c&amp;acirc;y, 10 c&amp;acirc;y/t&amp;uacute;i)&lt;/p&gt;
+&lt;p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; color: #ffffff; font-family: Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; background-color: #d22234;"&gt;HƯỚNG DẪN SỬ DỤNG: Chi&amp;ecirc;n, nướng, hoặc ng&amp;acirc;m trong nước n&amp;oacute;ng ở nhiệt độ 70oC đến 80oC trong 10 ph&amp;uacute;t. Sử dụng trong 02 ng&amp;agrave;y sau khi mở t&amp;uacute;i.&lt;/p&gt;
+&lt;p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; color: #ffffff; font-family: Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; background-color: #d22234;"&gt;HƯỚNG DẪN BẢO QUẢN: Bảo quản ở nhiệt độ -18oC đến 4oC.&lt;/p&gt;
+&lt;p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; color: #ffffff; font-family: Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; background-color: #d22234;"&gt;CHẾ BIẾN M&amp;Oacute;N NGON: X&amp;uacute;c x&amp;iacute;ch chi&amp;ecirc;n bơ, x&amp;uacute;c x&amp;iacute;ch x&amp;agrave;o chua ngọt, x&amp;uacute;c x&amp;iacute;ch nướng ti&amp;ecirc;u đen......&lt;/p&gt;</content_html>
+	<createdDate>2021-06-16T08:20:29.461Z</createdDate>
+	<createdDate_dt>2021-06-16T08:20:29.461Z</createdDate_dt>
+	<lastModifiedDate>2021-06-16T08:20:29.461Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-16T08:20:29.461Z</lastModifiedDate_dt>
+</page>
