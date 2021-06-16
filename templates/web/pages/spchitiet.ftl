@@ -67,7 +67,7 @@
             <div class="bg-white shadow p-3 p-md-4">
               <div class="position-relative">
                 <div class="d-flex align-items-center justify-content-center">
-                  <a href="${product.url}"><img class="img-fluid" src="dist/temp/xuc-xich-hotdog.png" alt=""></a>
+                  <a href="${product.url}"><img class="img-fluid" src="${product.image1}" alt=""></a>
                 </div>
                 <div class="position-absolute top-50 start-100 translate-middle">
                   <a href="#"><i class="fas fa-search-plus fa-lg text-muted"></i></a>
