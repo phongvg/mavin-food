@@ -31,7 +31,7 @@
                 <div class="d-flex flex-column mb-4">
                   <img class="img-fluid" src="${element.image_s}" alt="">
                   <div class="fs-6 mt-3 mb-1 base-color">${element.name_s}</div>
-                  <div class="text-muted">${element.date_dt}</div>
+                  <div class="text-muted">${element.date_dt?date}</div>
                 </div>
               </div>
             </#list>
