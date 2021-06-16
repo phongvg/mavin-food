@@ -1,10 +1,3 @@
-        <#if (contentModel.groupproduct_o.item)??>
-            <#list (contentModel.groupproduct_o.item)![] as section>
-                <div>
-                    <@renderComponent parent=contentModel component=section />
-                </div>
-            </#list>
-        </#if>
 <#import "/templates/system/common/cstudio-support.ftl" as studio />
     <section class="sp-block py-4 py-md-5">
       <div class="container">
