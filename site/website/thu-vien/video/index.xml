@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/thuvienvideo</content-type>
+	<display-template>/templates/web/pages/thuvienvideo.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>f430</objectGroupId>
+	<objectId>f430ab43-0fae-a9cc-c2d3-ba01bc8b95dc</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>video</folder-name>
+	<internal-name>Thư viện Video</internal-name>
+	<navLabel>Thư viện Video</navLabel>
+	<title_s>Thư viện Video</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<videos_o item-list="true">	<item>	<name_s>Gala tổng kết năm 2020</name_s>
+	<url_s/>
+	<image_s>/static-assets/images/thu-vien/media-1.jpg</image_s>
+	<date_dt>2021-06-16T04:00:00.000Z</date_dt>
+	<date_dt_tz>EST5EDT</date_dt_tz>
+	</item>	<item>	<name_s>Gala tổng kết năm 2020</name_s>
+	<image_s>/static-assets/images/thu-vien/media-1.jpg</image_s>
+	<url_s>https://www.youtube.com/watch?v=RPghOiDVWaI</url_s>
+	<date_dt>2021-06-16T04:00:00.000Z</date_dt>
+	<date_dt_tz>EST5EDT</date_dt_tz>
+	</item>	<item>	<name_s>Gala tổng kết năm 2020</name_s>
+	<image_s>/static-assets/images/thu-vien/media-1.jpg</image_s>
+	<url_s>https://www.youtube.com/watch?v=RPghOiDVWaI</url_s>
+	<date_dt>2021-06-16T04:00:00.000Z</date_dt>
+	<date_dt_tz>EST5EDT</date_dt_tz>
+	</item>	<item>	<name_s>Gala tổng kết năm 2020</name_s>
+	<image_s>/static-assets/images/thu-vien/media-1.jpg</image_s>
+	<url_s>https://www.youtube.com/watch?v=RPghOiDVWaI</url_s>
+	<date_dt>2021-06-16T04:00:00.000Z</date_dt>
+	<date_dt_tz>EST5EDT</date_dt_tz>
+	</item></videos_o>
+	<createdDate>2021-06-16T11:21:53.605Z</createdDate>
+	<createdDate_dt>2021-06-16T11:21:53.605Z</createdDate_dt>
+	<lastModifiedDate>2021-06-16T11:21:53.605Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-16T11:21:53.605Z</lastModifiedDate_dt>
+</page>
