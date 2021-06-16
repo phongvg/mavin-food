@@ -26,7 +26,7 @@
           <h1 class="h4 base-color text-uppercase fw-bold mb-3">${contentModel.title_s}</h1>
           <div class="bg-white p-3 p-md-5 mb-4 shadow">
             <div class="row row-cols-2">
-            <#list lib_o.item as element>
+            <#list contentModel.lib_o.item as element>
               <div class="col">
                 <div class="d-flex flex-column mb-4">
                   <img class="img-fluid" src="${element.image_s}" alt="">
