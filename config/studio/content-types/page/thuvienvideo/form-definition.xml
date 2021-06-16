@@ -1,5 +1,5 @@
 <form>
-<title>Page - Thư viện video</title>
+<title>Page - Thư viện Video</title>
 <description></description>
 <content-type>/page/thuvienvideo</content-type>
 <objectType>page</objectType>
@@ -33,7 +33,7 @@
 </properties>
 <sections>
 <section>
-<title>Page - Thư viện video Properties</title>
+<title>Page - Thư viện Video Properties</title>
 <description></description>
 <defaultOpen>true</defaultOpen>
 <fields>
