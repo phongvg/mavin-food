@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/pagechild</content-type>
+	<display-template>/templates/web/pages/childpage.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>8e57</objectGroupId>
+	<objectId>8e57ba61-e7a3-f69a-e26d-6bb37d48bf41</objectId>
+	<internal-name>Thư viện tư liệu</internal-name>
+	<navLabel>Thư viện tư liệu</navLabel>
+	<file-name>index.xml</file-name>
+	<folder-name>thu-vien</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="sections" inline="true">	<key>c39652ae-7858-0234-dfb6-5b7b4298965b</key>
+	<value>Thư viện tư liệu</value>
+<component id="c39652ae-7858-0234-dfb6-5b7b4298965b">
+	<content-type>/component/tulieu</content-type>
+	<display-template>/templates/web/components/tulieu.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>c396</objectGroupId>
+	<objectId>c39652ae-7858-0234-dfb6-5b7b4298965b</objectId>
+	<file-name>c39652ae-7858-0234-dfb6-5b7b4298965b.xml</file-name>
+	<internal-name>Thư viện tư liệu</internal-name>
+	<createdDate>2021-06-16T10:54:44.919Z</createdDate>
+	<createdDate_dt>2021-06-16T10:54:44.919Z</createdDate_dt>
+	<lastModifiedDate>2021-06-16T10:54:44.919Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-16T10:54:44.919Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<createdDate>2021-06-16T10:54:13.054Z</createdDate>
+	<createdDate_dt>2021-06-16T10:54:13.054Z</createdDate_dt>
+	<lastModifiedDate>2021-06-16T10:54:13.054Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-16T10:54:13.054Z</lastModifiedDate_dt>
+</page>
