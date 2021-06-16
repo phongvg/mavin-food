@@ -68,7 +68,7 @@
             TRUY XUẤT <br>NGUỒN GỐC <br>SẢN PHẨM
           </div>
           <div class="mb-3 mb-md-0">
-            <img src="dist/images/logo-circle2.png" alt="" width="185" height="185">
+            <img src="/static-assets/dist/images/logo-circle2.png" alt="" width="185" height="185">
           </div>
           <div>
             <p>Cách 1: <strong>Dùng điện thoại quét mã QR in trên bao bì</strong></p>
@@ -86,6 +86,6 @@
       </div>
     </section>
     <section class="home-block">
-      <img class="img-fluid" src="dist/temp/8.jpg" alt="">
+      <img class="img-fluid" src="/static-assets/dist/temp/8.jpg" alt="">
     </section>
 <@studio.toolSupport />
