@@ -2,7 +2,7 @@
     <section class="sp-block py-4 py-md-5">
       <div class="container">
         <div class="mb-3 mb-md-5">
-          <h1 class="base-color fw-bold">Xúc xích</h1>
+          <h1 class="base-color fw-bold">${contentModel.title_s}</h1>
           <p class="text-center"><img class="img-fluid" src="${contentModel.image_s}" alt=""></p>
           ${contentModel.content_html}
         </div>
