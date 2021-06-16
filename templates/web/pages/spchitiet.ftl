@@ -1,5 +1,4 @@
 <#import "/templates/system/common/cstudio-support.ftl" as studio />
-<#import "/templates/system/common/cstudio-support.ftl" as studio />
 <!DOCTYPE html>
 <html lang="en">
   <head>
