@@ -7,12 +7,12 @@
 	<objectGroupId>c9770fae</objectGroupId>
 	<objectId>c9770fae-e528-4940-9fab-05321df83629</objectId>
 	<file-name>index.xml</file-name>
-	<folder-name>cl4-79d37483</folder-name>
+	<folder-name>cl5</folder-name>
 	<placeInNav>false</placeInNav>
-	<orderDefault_f>0.0</orderDefault_f>
-	<internal-name>Cắt lát 4 79d37483</internal-name>
-	<navLabel>Cắt lát 4</navLabel>
-	<name_s>Cắt lát 4</name_s>
+	<orderDefault_f>-1</orderDefault_f>
+	<internal-name>Cắt lát 5</internal-name>
+	<navLabel>Cắt lát 5</navLabel>
+	<name_s>Cắt lát 5</name_s>
 	<kl_s>500g</kl_s>
 	<price_s>45.000đ</price_s>
 	<sptype_o>	<item>	<key>cat-lat</key>
@@ -29,6 +29,6 @@
 &lt;p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; color: #ffffff; font-family: Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; background-color: #d22234;"&gt;CHẾ BIẾN M&amp;Oacute;N NGON: X&amp;uacute;c x&amp;iacute;ch chi&amp;ecirc;n bơ, x&amp;uacute;c x&amp;iacute;ch x&amp;agrave;o chua ngọt, x&amp;uacute;c x&amp;iacute;ch nướng ti&amp;ecirc;u đen......&lt;/p&gt;</content_html>
 	<createdDate>2021-06-16T08:20:29.461Z</createdDate>
 	<createdDate_dt>2021-06-16T08:20:29.461Z</createdDate_dt>
-	<lastModifiedDate>2021-06-16T08:22:32.315Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-06-16T08:22:32.315Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-06-16T08:22:52.670Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-16T08:22:52.670Z</lastModifiedDate_dt>
 </page>
