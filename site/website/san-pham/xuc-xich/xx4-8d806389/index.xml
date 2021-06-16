@@ -7,12 +7,12 @@
 	<objectGroupId>0cfdd2b5</objectGroupId>
 	<objectId>0cfdd2b5-ee1f-431b-8364-aab1917a75bd</objectId>
 	<file-name>index.xml</file-name>
-	<folder-name>xx4-8d806389</folder-name>
-	<internal-name>Xúc xích gà 4 8d806389</internal-name>
-	<navLabel>Xúc xích gà 4</navLabel>
-	<name_s>Xúc xích Gà 4</name_s>
+	<folder-name>xx5</folder-name>
+	<internal-name>Xúc xích gà 5</internal-name>
+	<navLabel>Xúc xích gà 5</navLabel>
+	<name_s>Xúc xích gà 5</name_s>
 	<placeInNav>false</placeInNav>
-	<orderDefault_f>0.0</orderDefault_f>
+	<orderDefault_f>-1</orderDefault_f>
 	<sptype_o>	<item>	<key>xuc-xich</key>
 	<value_smv>Xúc xích</value_smv>
 	</item></sptype_o>
@@ -27,8 +27,8 @@
 &lt;p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; color: #ffffff; font-family: Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; background-color: #d22234;"&gt;CHẾ BIẾN M&amp;Oacute;N NGON: X&amp;uacute;c x&amp;iacute;ch chi&amp;ecirc;n bơ, x&amp;uacute;c x&amp;iacute;ch x&amp;agrave;o chua ngọt, x&amp;uacute;c x&amp;iacute;ch nướng ti&amp;ecirc;u đen......&lt;/p&gt;</content_html>
 	<createdDate>2021-06-16T07:55:00.827Z</createdDate>
 	<createdDate_dt>2021-06-16T07:55:00.827Z</createdDate_dt>
-	<lastModifiedDate>2021-06-16T08:16:17.694Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-06-16T08:16:17.694Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-06-16T08:16:44.546Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-16T08:16:44.546Z</lastModifiedDate_dt>
 	<kl_s>500g</kl_s>
 	<price_s>45.000đ</price_s>
 </page>
