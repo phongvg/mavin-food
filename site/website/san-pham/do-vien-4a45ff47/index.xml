@@ -7,13 +7,13 @@
 	<objectGroupId>ef2b1bd3</objectGroupId>
 	<objectId>ef2b1bd3-f195-4ef5-aa50-118327d472af</objectId>
 	<file-name>index.xml</file-name>
-	<folder-name>do-vien-4a45ff47</folder-name>
-	<internal-name>Sản phẩm đồ viên 4a45ff47</internal-name>
-	<navLabel>Sản phẩm đồ viên</navLabel>
+	<folder-name>gio-cha</folder-name>
+	<internal-name>Sản phẩm giò chả</internal-name>
+	<navLabel>Sản phẩm giò chả</navLabel>
 	<placeInNav>false</placeInNav>
-	<orderDefault_f>0.0</orderDefault_f>
+	<orderDefault_f>-1</orderDefault_f>
 	<section_o item-list="true">	<item datasource="sections" inline="true">	<key>b833e13a-b8ff-73ae-8c53-065e857a7429</key>
-	<value>Sản phẩm đồ viên</value>
+	<value>Sản phẩm giò chả</value>
 <component id="b833e13a-b8ff-73ae-8c53-065e857a7429">
 	<content-type>/component/comnhomsp</content-type>
 	<display-template>/templates/web/components/groupproduct.ftl</display-template>
@@ -22,7 +22,7 @@
 	<objectGroupId>b833</objectGroupId>
 	<objectId>b833e13a-b8ff-73ae-8c53-065e857a7429</objectId>
 	<file-name>b833e13a-b8ff-73ae-8c53-065e857a7429.xml</file-name>
-	<internal-name>Sản phẩm đồ viên</internal-name>
+	<internal-name>Sản phẩm giò chả</internal-name>
 	<image_s>/static-assets/images/san-pham/do-vien.png</image_s>
 	<groupproduct_o item-list="true">	<item datasource="groupProuduct">	<key>/site/items/7bf0d10a-ea25-46ee-f65d-5936a28eda16.xml</key>
 	<value>Sản phẩm đồ viên</value>
@@ -32,13 +32,13 @@
 	<content_html>&lt;p&gt;&lt;span style="color: #212529; font-family: Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; background-color: #ffffff;"&gt;X&amp;uacute;c x&amp;iacute;ch l&amp;agrave; sản phẩm truyền thống của MavinFood được sản xuất tr&amp;ecirc;n d&amp;acirc;y chuyền c&amp;ocirc;ng nghệ hiện đại của Đức với "B&amp;iacute; quyết Ch&amp;acirc;u &amp;Acirc;u. Đậm s&amp;acirc;u Vị &amp;Aacute;". Sản phẩm được l&amp;agrave;m từ nguồn nguy&amp;ecirc;n liệu thịt tươi của ch&amp;iacute;nh c&amp;aacute;c trang trại được ph&amp;ograve;ng dịch bệnh nghi&amp;ecirc;m ngặt v&amp;agrave; được cho ăn bằng thức ăn chất lượng cao của Tập đo&amp;agrave;n Mavin; c&amp;aacute;c loại gia vị nhập khẩu c&amp;oacute; hương vị đặc trưng rất hấp dẫn. Mavin kiểm so&amp;aacute;t kh&amp;acirc;u giết mổ an to&amp;agrave;n, bảo quản v&amp;agrave; chế biến sản phẩm đạt chuẩn ISO 22000 v&amp;agrave; HACCP.&lt;/span&gt;&lt;/p&gt;</content_html>
 	<createdDate>2021-06-16T08:18:06.367Z</createdDate>
 	<createdDate_dt>2021-06-16T08:18:06.367Z</createdDate_dt>
-	<lastModifiedDate>2021-06-16T08:39:17.005Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-06-16T08:39:17.005Z</lastModifiedDate_dt>
-	<title_s>Đồ viên</title_s>
+	<lastModifiedDate>2021-06-16T08:40:16.442Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-16T08:40:16.442Z</lastModifiedDate_dt>
+	<title_s>Giò chả</title_s>
 </component>
 	</item></section_o>
 	<createdDate>2021-06-16T07:50:56.337Z</createdDate>
 	<createdDate_dt>2021-06-16T07:50:56.337Z</createdDate_dt>
-	<lastModifiedDate>2021-06-16T08:39:12.408Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-06-16T08:39:12.408Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-06-16T08:39:46.389Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-16T08:39:46.389Z</lastModifiedDate_dt>
 </page>
