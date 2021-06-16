@@ -223,7 +223,7 @@
 						</property>
 						<property>
 							<name>imageManager</name>
-							<value></value>
+							<value>desktopImage,repoImage</value>
 							<type>datasource:image</type>
 						</property>
 						<property>
@@ -322,7 +322,7 @@
 					<properties>
 						<property>
 							<name>repoPath</name>
-							<value></value>
+							<value>/static-assets/images/file</value>
 								<type>string</type>
 						</property>
 					</properties>
@@ -335,7 +335,7 @@
 					<properties>
 						<property>
 							<name>repoPath</name>
-							<value></value>
+							<value>/static-assets/images/file</value>
 								<type>string</type>
 						</property>
 					</properties>
