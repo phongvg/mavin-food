@@ -397,7 +397,7 @@
 					<properties>
 						<property>
 							<name>repoPath</name>
-							<value>/static-asset/images/san-pham</value>
+							<value>/static-assets/images/san-pham</value>
 								<type>string</type>
 						</property>
 					</properties>
@@ -410,7 +410,7 @@
 					<properties>
 						<property>
 							<name>repoPath</name>
-							<value>/static-asset/images/san-pham</value>
+							<value>/static-assets/images/san-pham</value>
 								<type>string</type>
 						</property>
 						<property>
