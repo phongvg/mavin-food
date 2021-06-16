@@ -80,6 +80,8 @@ class GroupProductSearchHelper {
                     product.image2 = doc.image2_s
                     product.image3 = doc.image3_s
                     product.content = doc.content_html
+                    product.kl = doc.kl_s
+                    product.price = doc.price_s
                     product.url = urlTransformationService.transform("storeUrlToRenderUrl", doc.localId)
                 products << product
             }
