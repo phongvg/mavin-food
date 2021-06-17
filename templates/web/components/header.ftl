@@ -30,7 +30,7 @@
               <a class="nav-link" href="/san-pham">Sản phẩm</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="/tin-tuc">Tin tức</a>
+              <a class="nav-link" href="/ban-tin">Tin tức</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="/he-thong">Hệ thống bán hàng</a>
