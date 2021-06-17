@@ -95,7 +95,7 @@
 			<fields>
 				<field>
 					<type>input</type>
-					<id>imgtitle_s</id>
+					<id>p1title_s</id>
 					<iceId></iceId>
 					<title>Phototitle</title>
 					<description></description>
