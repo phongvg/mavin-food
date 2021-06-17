@@ -26,6 +26,14 @@
         </#list>
     </section>
     <@renderComponent component=contentModel.footer_o.item />
+     <!-- =========================
+        MODAL SPINNERS
+        ============================== -->
+        <div class="modal fade" id="modal-spinner" data-backdrop="static" data-keyboard="false" tabindex="-1" role="dialog">
+            <div class="modal-dialog modal-dialog-centered justify-content-center" role="document">
+                <span class="fa fa-spinner fa-spin fa-3x"></span>
+            </div>
+        </div>
     <!-- Site Javascript -->
     <script src="/static-assets/vendor/jquery/dist/jquery.min.js"></script>
     <script src="/static-assets/vendor/bootstrap-5-0-1/dist/js/bootstrap.bundle.min.js"></script>
