@@ -30,26 +30,15 @@
             <p class="text-center"><img class="img-fluid" src="${contentModel.image_s}" alt=""></p>
             <p>${contentModel.content_html}</p>
           </div>
-          <#-- <ul class="list-unstyled list-mf mb-0">
+          <ul class="list-unstyled list-mf mb-0">
+            <#list news as news>
             <li>
-              <a class="fw-bold base-color" href="#">
-                <span class="d-block text-uppercase">ERP MAVIN FOODS</span>
-                Triển khai ứng dụng hệ thống phần mềm ERP cho ngành thực phẩm chế biến
+              <a class="fw-bold base-color" href="${news.url}">
+                    ${news.title}
               </a>
             </li>
-            <li>
-              <a class="fw-bold base-color" href="#">
-                <span class="d-block text-uppercase">ERP MAVIN FOODS</span>
-                Triển khai ứng dụng hệ thống phần mềm ERP cho ngành thực phẩm chế biến
-              </a>
-            </li>
-            <li>
-              <a class="fw-bold base-color" href="#">
-                <span class="d-block text-uppercase">ERP MAVIN FOODS</span>
-                Triển khai ứng dụng hệ thống phần mềm ERP cho ngành thực phẩm chế biến
-              </a>
-            </li>
-          </ul> -->
+            </#list>
+          </ul> 
         </div>
       </div>
     </section>
