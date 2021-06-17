@@ -26,7 +26,7 @@
           <h1 class="h4 base-color fw-bold mb-3">${contentModel.title_s}</h1>
           <div class="mb-3"><img src="/static-assets/dist/images/share.jpg"></div>
           <div class="bg-white p-3 p-md-5 mb-4 shadow">
-                ${contentModel.image_s}
+                <p class="text-center"><img class="img-fluid" src="${contentModel.image_s}" alt=""></p>
                 ${contentModel.content_html}
           </div>
           <#--<div>
