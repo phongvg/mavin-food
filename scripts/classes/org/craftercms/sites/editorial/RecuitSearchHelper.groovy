@@ -22,7 +22,7 @@ class RecuitSearchHelper {
     }
     
     def searchRecuit(start = DEFAULT_START, rows = DEFAULT_ROWS, additionalCriteria = null) {
-        def q = "${PRODUCT_CONTENT_TYPE_QUERY}"
+        def q = "${RECUIT_CONTENT_TYPE_QUERY}"
         
         if (additionalCriteria) {
           q = "${q} AND ${additionalCriteria}"
