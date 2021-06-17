@@ -23,13 +23,15 @@
                 <h3 class="fs-6 fw-bold base-color">MAVIN FOODS <br>Mắt xích quan trọng trong chuỗi giá trị “Từ Nông trại tới Bàn ăn”</h3>
                 <p>ERP MAVIN FOODS <br>${news.title}</p>
                 <div class="view-more">
-                  <a class="d-flex align-items-center" href="#">
+                  <a class="d-flex align-items-center" href="${news.url}">
                     <span class="fw-bold text-muted pe-2 small">Xem tiếp</span>
                     <span class="icon-vm d-flex justify-content-center align-items-center bg-white rounded-circle base-color"><i class="fas fa-caret-right fa-lg"></i></span>
                   </a>
                 </div>
               </div>
             </div>
+            </#if>
+            </#list>
           </div>
           <div class="row row-cols-1 row-cols-md-3">
             <div class="col">
