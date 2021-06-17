@@ -14,15 +14,19 @@ class RecuitSearchHelper {
     static final int DEFAULT_ROWS = 1000
     
     def elasticsearch
-    UrlTransformationService urlTransformationService
+    UrlTransformationService UrlTransformationService
     
-     RecuitSearchHelper(elasticsearch, UrlTransformationService urlTransformationService) {
+    RecuitSearchHelper(elasticsearch, UrlTransformationService urlTransformationService) {
         this.elasticsearch = elasticsearch
         this.urlTransformationService = urlTransformationService
     }
     
-    def searchRecuit(start = DEFAULT_START, rows = DEFAULT_ROWS, additionalCriteria = null) {
+    def searchRecuit(categories, start = DEFAULT_START, rows = DEFAULT_ROWS, additionalCriteria = null){
         def q = "${RECUIT_CONTENT_TYPE_QUERY}"
+        if(categories){
+            def categoriesQuery = getFieldQueryWithMultipleValues("categories_o.item.key",categories)
+            q = "${q} AND ${categoriesQuery}"
+        }
         
         if (additionalCriteria) {
           q = "${q} AND ${additionalCriteria}"
@@ -34,24 +38,20 @@ class RecuitSearchHelper {
             .size(rows)
         
         def result = elasticsearch.search(new SearchRequest().source(builder))
-        
-        if (result) {
+
+        if(result){
             return processRecuitListingResults(result)
-        } else {
-            result [];
+        }else{
+            return[]
         }
     }
-    
-    private def processRecuitListingResults(result) {
+    def processRecuitListingResults(result){
         def recuits = []
-        
         def documents = result.hits.hits*.getSourceAsMap()
-        
-        if (documents) {
-            documents.each {doc ->
+        if (documents){
+            documents.each { doc ->
                 def recuit = [:]
                     recuit.title = doc.title_s
-                    recuit.date = doc.date_dt
                     recuit.content = doc.content_html
                     recuit.url = urlTransformationService.transform("storeUrlToRenderUrl", doc.localId)
                 recuits << recuit
