@@ -33,7 +33,7 @@
               <a class="nav-link" href="/ban-tin">Tin tức</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="/he-thong">Hệ thống bán hàng</a>
+              <a class="nav-link" href="/he-thong-ban-hang">Hệ thống bán hàng</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="/tuyen-dung">Tuyển dụng</a>
