@@ -20,34 +20,87 @@
   </head>
   <body>
     <@renderComponent component=contentModel.header_o.item />
-        <section class="sp-block py-4 py-md-5">
+    <section class="sp-block py-4 py-md-5">
       <div class="container">
         <div class="py-3 py-md-5">
-          <h1 class="h4 base-color text-uppercase fw-bold mb-3">${contentModel.title_s}</h1>
-          <div class="bg-white p-3 p-md-5 mb-4 shadow">
-            <div class="row row-cols-2">
-            <#list contentModel.videos_o.item as element>
-              <div class="col">
-                <div class="d-flex flex-column mb-4">
-                  <img class="img-fluid" src="${element.image_s}" alt="">
-                  <div class="fs-6 mt-3 mb-1 base-color">${element.name_s}</div>
-                  <div class="text-muted">${element.date_dt?date}</div>
+          <h1 class="h4 base-color text-uppercase fw-bold mb-3">Thư viện tư liệu</h1>
+          <div class="bg-orange p-3 p-md-5 mb-4 base-color">
+            <div class="row">
+              <div class="col-lg-3">
+                <h3 class="fs-5 fw-bold">Thư viện <br>Hình ảnh</h3>
+              </div>
+              <div class="col-lg-6">
+                <div class="single-slider arrows-style">
+                  <div class="item">
+                    <div class="d-flex flex-column">
+                      <img class="img-thumbnail" src="dist/temp/media-1.jpg" alt="">
+                      <div class="fs-6 mt-3 mb-1">Gala tổng kết năm 2020</div>
+                      <div class="text-muted">04.01.2020</div>
+                    </div>
+                  </div>
+                  <div class="item">
+                    <div class="d-flex flex-column">
+                      <img class="img-thumbnail" src="dist/temp/media-1.jpg" alt="">
+                      <div class="fs-6 mt-3 mb-1">Gala tổng kết năm 2020</div>
+                      <div class="text-muted">04.01.2020</div>
+                    </div>
+                  </div>
                 </div>
               </div>
-            </#list>
             </div>
-            <nav class="pagination-mf" aria-label="">
-              <ul class="pagination justify-content-center">
-                <li class="page-item active"><a class="page-link" href="#">1</a></li>
-                <li class="page-item"><a class="page-link" href="#">2</a></li>
-                <li class="page-item"><a class="page-link" href="#">3</a></li>
-                <li class="page-item">
-                  <a class="page-link" href="#">
-                    <i class="fas fa-caret-right fa-lg"></i>
-                  </a>
-                </li>
-              </ul>
-            </nav>
+          </div>
+          <div class="position-relative base-bg-color p-3 p-md-5 mb-4 text-white">
+            <div class="row">
+              <div class="col-lg-3">
+                <h3 class="fs-5 fw-bold">Thư viện <br>Video</h3>
+              </div>
+              <div class="col-lg-6">
+                <div class="single-slider arrows-style">
+                  <div class="item">
+                    <div class="d-flex flex-column">
+                      <img class="img-thumbnail" src="dist/temp/media-1.jpg" alt="">
+                      <div class="fs-6 mt-3 mb-1">Phim giới thiệu về Mavin Food</div>
+                      <div>04.01.2020</div>
+                    </div>
+                  </div>
+                  <div class="item">
+                    <div class="d-flex flex-column">
+                      <img class="img-thumbnail" src="dist/temp/media-1.jpg" alt="">
+                      <div class="fs-6 mt-3 mb-1">Phim giới thiệu về Mavin Food</div>
+                      <div>04.01.2020</div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="position-absolute bottom-0 end-0">
+              <img src="dist/images/crown.png" alt="" width="145" height="145">
+            </div>
+          </div>
+          <div class="bg-orange p-3 p-md-5 mb-4 base-color">
+            <div class="row">
+              <div class="col-lg-3">
+                <h3 class="fs-5 fw-bold">Thư viện <br>Tài liệu</h3>
+              </div>
+              <div class="col-lg-6">
+                <div class="single-slider arrows-style">
+                  <div class="item">
+                    <div class="d-flex flex-column">
+                      <img class="img-thumbnail" src="dist/temp/media-1.jpg" alt="">
+                      <div class="fs-6 mt-3 mb-1">Profile giới thiệu công ty</div>
+                      <div class="text-muted">04.01.2020</div>
+                    </div>
+                  </div>
+                  <div class="item">
+                    <div class="d-flex flex-column">
+                      <img class="img-thumbnail" src="dist/temp/media-1.jpg" alt="">
+                      <div class="fs-6 mt-3 mb-1">Profile giới thiệu công ty</div>
+                      <div class="text-muted">04.01.2020</div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </div>
