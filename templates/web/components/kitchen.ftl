@@ -1,15 +1,6 @@
 <#import "/templates/system/common/cstudio-support.ftl" as studio />
-    <div class="container">
-        <h1>test</h1>
-        <div>
-            <#list recipes as arecipe>
-                <img class="img-res" src="${arecipe.image}">
-                <h3>${arecipe.title}</h3>
-                ${arecipe.content}
-            </#list>
-        </div>
-    </div>
-        <section class="sp-block py-4 py-md-5">
+
+    <section class="sp-block py-4 py-md-5">
       <div class="container">
         <div class="py-3 py-md-5">
           <h1 class="p-3 h4 base-bg-color text-white fw-bold text-uppercase shadow mb-4">bếp mavin</h1>
