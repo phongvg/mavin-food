@@ -20,11 +20,58 @@
   </head>
   <body>
     <@renderComponent component=contentModel.header_o.item />
-    <main>
-        <p>${contentModel.title_s}</p>
-        <img src="${contentModel.image_s}" alt="Logo">
-        ${contentModel.content_html}
-    </main>
+        <section class="sp-block py-4 py-md-5">
+      <div class="container">
+        <div class="py-3 py-md-5">
+          <h4 class="h4 base-color fw-bold text-uppercase mb-4">Bếp mavin</h4>
+          <div class="bg-white shadow p-3 p-md-4 mb-4">
+            <h1 class="h4 base-color fw-bold mb-3">${contentModel.title_s}</h1>
+            <div class="mb-3"><img src="/static-assets/dist/images/share.jpg"></div>
+            <p class="text-center"><img class="img-fluid" src="${contentModel.image_s}" alt=""></p>
+            ${contentModel.content_html}
+          </div>
+          <div class="row row-cols-1 row-cols-md-2">
+            <div class="col">
+              <div class="bg-white shadow p-3 p-md-4 mb-4">
+                <div class="d-flex flex-column">
+                  <a href="#"><img class="img-fluid w-100" src="dist/temp/bep-mavin-2.jpg" alt=""></a>
+                  <div class="row g-0">
+                    <div class="col">
+                      <a class="d-block px-3 py-2 base-bg-color fw-bold text-white" href="#">MAVIN FOODS - Mắt xích quan trọng  của chuỗi giá trị “Từ Nông trại tới Bàn ăn”</a>
+                    </div>
+                    <div class="col-auto">
+                      <a class="d-flex align-items-center h-100 px-3 py-2 bg-orange base-color" href="#">
+                        <span>Xem tiếp</span>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col">
+              <div class="bg-white shadow p-3 p-md-4 mb-4">
+                <div class="d-flex flex-column">
+                  <a href="#"><img class="img-fluid w-100" src="dist/temp/bep-mavin-2.jpg" alt=""></a>
+                  <div class="row g-0">
+                    <div class="col">
+                      <a class="d-block px-3 py-2 base-bg-color fw-bold text-white" href="#">MAVIN FOODS - Mắt xích quan trọng  của chuỗi giá trị “Từ Nông trại tới Bàn ăn”</a>
+                    </div>
+                    <div class="col-auto">
+                      <a class="d-flex align-items-center h-100 px-3 py-2 bg-orange base-color" href="#">
+                        <span>Xem tiếp</span>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="home-block">
+     <img class="img-fluid" src="/static-assets/dist/temp/8.jpg" alt="">
+    </section>
     <@renderComponent component=contentModel.footer_o.item />
     <!-- Site Javascript -->
     <script src="/static-assets/vendor/jquery/dist/jquery.min.js"></script>
