@@ -53,6 +53,7 @@ class RecuitSearchHelper {
                 def recuit = [:]
                     recuit.title = doc.title_s
                     recuit.content = doc.content_html
+                    recuit.date = doc.date_dt
                     recuit.url = urlTransformationService.transform("storeUrlToRenderUrl", doc.localId)
                 recuits << recuit
             }
