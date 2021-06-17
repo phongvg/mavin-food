@@ -17,7 +17,7 @@
             <#if news?is_last>
             <div class="row row-cols-1 row-cols-md-2">
               <div class="col">
-                <div class="mb-3 mb-md-0"><img class="img-fluid" src="${news.url}" alt=""></div>
+                <div class="mb-3 mb-md-0"><img class="img-fluid" src="${news.image}" alt=""></div>
               </div>
               <div class="col">
                 <h3 class="fs-6 fw-bold base-color">MAVIN FOODS <br>Mắt xích quan trọng trong chuỗi giá trị “Từ Nông trại tới Bàn ăn”</h3>
@@ -34,13 +34,15 @@
             </#list>
           </div>
           <div class="row row-cols-1 row-cols-md-3">
+            <#list news as news>
+            <#if news?is_last?c == false>
             <div class="col">
               <div class="bg-white shadow p-4 p-md-4 mb-4">
                 <div class="d-flex flex-column">
-                  <a href="#"><img class="img-fluid" src="dist/temp/tin-tuc.jpg" alt=""></a>
-                  <h4 class="fs-6 my-3"><a class="fw-bold base-color" href="#">Cam kết chất lượng thực phẩm sạch Mavin không bị ảnh hưởng bởi Dịch tả heo Châu Phi ASF</a></h4>
+                  <a href="${news.url}"><img class="img-fluid" src="${news.image}" alt=""></a>
+                  <h4 class="fs-6 my-3"><a class="fw-bold base-color" href="${news.url}">${news.title}</a></h4>
                   <div class="view-more">
-                    <a class="d-flex align-items-center" href="#">
+                    <a class="d-flex align-items-center" href="${news.url}">
                       <span class="fw-bold text-muted pe-2 small">Xem tiếp</span>
                       <span class="icon-vm d-flex justify-content-center align-items-center bg-white rounded-circle base-color"><i class="fas fa-caret-right fa-lg"></i></span>
                     </a>
@@ -48,34 +50,8 @@
                 </div>
               </div>
             </div>
-            <div class="col">
-              <div class="bg-white shadow p-4 p-md-4 mb-4">
-                <div class="d-flex flex-column">
-                  <a href="#"><img class="img-fluid" src="dist/temp/tin-tuc.jpg" alt=""></a>
-                  <h4 class="fs-6 my-3"><a class="fw-bold base-color" href="#">Cam kết chất lượng thực phẩm sạch Mavin không bị ảnh hưởng bởi Dịch tả heo Châu Phi ASF</a></h4>
-                  <div class="view-more">
-                    <a class="d-flex align-items-center" href="#">
-                      <span class="fw-bold text-muted pe-2 small">Xem tiếp</span>
-                      <span class="icon-vm d-flex justify-content-center align-items-center bg-white rounded-circle base-color"><i class="fas fa-caret-right fa-lg"></i></span>
-                    </a>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="col">
-              <div class="bg-white shadow p-4 p-md-4 mb-4">
-                <div class="d-flex flex-column">
-                  <a href="#"><img class="img-fluid" src="dist/temp/tin-tuc.jpg" alt=""></a>
-                  <h4 class="fs-6 my-3"><a class="fw-bold base-color" href="#">Cam kết chất lượng thực phẩm sạch Mavin không bị ảnh hưởng bởi Dịch tả heo Châu Phi ASF</a></h4>
-                  <div class="view-more">
-                    <a class="d-flex align-items-center" href="#">
-                      <span class="fw-bold text-muted pe-2 small">Xem tiếp</span>
-                      <span class="icon-vm d-flex justify-content-center align-items-center bg-white rounded-circle base-color"><i class="fas fa-caret-right fa-lg"></i></span>
-                    </a>
-                  </div>
-                </div>
-              </div>
-            </div>
+            </#if>
+            </#list>
           </div>
           <nav class="pagination-mf" aria-label="">
             <ul class="pagination justify-content-center">
