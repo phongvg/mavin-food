@@ -3,18 +3,11 @@
         <div class="py-3 py-md-5">
           <h1 class="h4 base-color fw-bold text-uppercase mb-3">tin tuyển dụng</h1>
           <ul class="list-unstyled">
+          <#list recuits as recuit>
             <li class="mb-3">
-              <a class="text-dark" href="#"><strong>Nhân viên Kinh doanh Mavin Food (Văn phòng Hà Nội)</strong> <br>(14/7/2017)</a>
+              <a class="text-dark" href="${recuit.url}"><strong>${recuit.title}</strong> <br>${recuit.date?date}</a>
             </li>
-            <li class="mb-3">
-              <a class="text-dark" href="#"><strong>Nhân viên Kinh doanh Mavin Food (Văn phòng Hà Nội)</strong> <br>(14/7/2017)</a>
-            </li>
-            <li class="mb-3">
-              <a class="text-dark" href="#"><strong>Nhân viên Kinh doanh Mavin Food (Văn phòng Hà Nội)</strong> <br>(14/7/2017)</a>
-            </li>
-            <li class="mb-3">
-              <a class="text-dark" href="#"><strong>Nhân viên Kinh doanh Mavin Food (Văn phòng Hà Nội)</strong> <br>(14/7/2017)</a>
-            </li>
+          </#list>
           </ul>
           <nav class="pagination-mf" aria-label="">
             <ul class="pagination justify-content-center">
