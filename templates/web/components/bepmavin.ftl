@@ -23,15 +23,16 @@
             </div>
           </div>
           <div class="row row-cols-1 row-cols-md-2">
+            <#list recipes as arecipe>
             <div class="col mb-4">
               <div class="d-flex flex-column">
-                <a href="#"><img class="img-fluid w-100" src="dist/temp/bep-mavin-2.jpg" alt=""></a>
+                <a href="${arecipe.url}"><img class="img-fluid w-100" src="${arecipe.image}" alt=""></a>
                 <div class="row g-0">
                   <div class="col">
-                    <a class="d-block px-3 py-2 base-bg-color fw-bold text-white" href="#">MAVIN FOODS - Mắt xích quan trọng  của chuỗi giá trị “Từ Nông trại tới Bàn ăn”</a>
+                    <a class="d-block px-3 py-2 base-bg-color fw-bold text-white" href="#">${arecipe.title}</a>
                   </div>
                   <div class="col-auto">
-                    <a class="d-flex align-items-center h-100 px-3 py-2 bg-orange base-color" href="#">
+                    <a class="d-flex align-items-center h-100 px-3 py-2 bg-orange base-color" href="${arecipe.url}">
                       <span>Xem tiếp</span>
                     </a>
                   </div>
