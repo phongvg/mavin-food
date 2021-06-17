@@ -12,25 +12,25 @@
 	<navLabel>Bản Tin</navLabel>
 	<placeInNav>false</placeInNav>
 	<orderDefault_f>-1</orderDefault_f>
-	<section_o item-list="true">	<item datasource="sections" inline="true">	<key>716cdb1e-0c70-a282-6010-92059a67b3c5</key>
-	<value>l</value>
-<component id="716cdb1e-0c70-a282-6010-92059a67b3c5">
-	<content-type>/component/news</content-type>
+	<section_o item-list="true">	<item datasource="sections" inline="true">	<key>e0798a4d-a2a7-4f74-7168-523715c8bf97</key>
+	<value>Ban tin</value>
+<component id="e0798a4d-a2a7-4f74-7168-523715c8bf97">
+	<content-type>/component/bantin</content-type>
 	<display-template>/templates/web/components/news.ftl</display-template>
 	<no-template-required/>
 	<merge-strategy>inherit-levels</merge-strategy>
-	<objectGroupId>716c</objectGroupId>
-	<objectId>716cdb1e-0c70-a282-6010-92059a67b3c5</objectId>
-	<file-name>716cdb1e-0c70-a282-6010-92059a67b3c5.xml</file-name>
-	<internal-name>l</internal-name>
-	<createdDate>2021-06-02T09:58:40.564Z</createdDate>
-	<createdDate_dt>2021-06-02T09:58:40.564Z</createdDate_dt>
-	<lastModifiedDate>2021-06-02T10:06:56.811Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-06-02T10:06:56.811Z</lastModifiedDate_dt>
+	<objectGroupId>e079</objectGroupId>
+	<objectId>e0798a4d-a2a7-4f74-7168-523715c8bf97</objectId>
+	<file-name>e0798a4d-a2a7-4f74-7168-523715c8bf97.xml</file-name>
+	<internal-name>Ban tin</internal-name>
+	<createdDate>2021-06-17T09:23:39.127Z</createdDate>
+	<createdDate_dt>2021-06-17T09:23:39.127Z</createdDate_dt>
+	<lastModifiedDate>2021-06-17T09:23:39.127Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-17T09:23:39.127Z</lastModifiedDate_dt>
 </component>
 	</item></section_o>
 	<createdDate>2021-06-02T08:21:04.271Z</createdDate>
 	<createdDate_dt>2021-06-02T08:21:04.271Z</createdDate_dt>
-	<lastModifiedDate>2021-06-02T10:06:54.227Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-06-02T10:06:54.227Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-06-17T09:23:29.185Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-17T09:23:29.185Z</lastModifiedDate_dt>
 </page>
