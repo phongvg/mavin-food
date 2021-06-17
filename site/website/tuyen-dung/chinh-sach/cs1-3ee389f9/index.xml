@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/chinhsachdetail</content-type>
+	<display-template>/templates/web/pages/chinhsachdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>46397de8</objectGroupId>
+	<objectId>46397de8-5d5f-4343-82c4-1f684511fffd</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>cs1-3ee389f9</folder-name>
+	<internal-name>Chính sách 1 3ee389f9</internal-name>
+	<navLabel>Chính sách 1</navLabel>
+	<title_s>Chính sách 1</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>0.0</orderDefault_f>
+	<image_s>/static-assets/images/tuyen-dung/tuyen-dung.jpg</image_s>
+	<content_html>&lt;p&gt;&lt;span style="color: #212529; font-family: Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; background-color: #ffffff;"&gt;C&amp;ocirc;ng ty TNHH Li&amp;ecirc;n doanh Thực phẩm Mavin đặc biệt ch&amp;uacute; trọng đến c&amp;ocirc;ng t&amp;aacute;c ph&amp;aacute;t triển nguồn nh&amp;acirc;n lực th&amp;ocirc;ng qua việc triển khai hiệu quả ch&amp;iacute;nh s&amp;aacute;ch đ&amp;agrave;o tạo, n&amp;acirc;ng cao hiểu biết, tr&amp;igrave;nh độ nghiệp vụ cho CBNV. Kh&amp;ocirc;ng chỉ được tham gia c&amp;aacute;c kh&amp;oacute;a đ&amp;agrave;o tạo kỹ năng&lt;/span&gt;&lt;/p&gt;</content_html>
+	<createdDate>2021-06-17T04:18:08.030Z</createdDate>
+	<createdDate_dt>2021-06-17T04:18:08.030Z</createdDate_dt>
+	<lastModifiedDate>2021-06-17T04:18:08.030Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-17T04:18:08.030Z</lastModifiedDate_dt>
+</page>
