@@ -24,22 +24,16 @@
           <div>
             <h2 class="h4 base-color fw-bold text-uppercase mb-3">chính sách nhân sự</h2>
             <div class="row row-cols-1 row-cols-md-2 gx-5">
+              <#list recuits as recuit>
               <div class="col">
                 <div class="d-flex flex-column mb-4">
-                  <a class="mb-3" href="#"><img class="img-thumbnail shadow-sm" src="dist/temp/tuyen-dung.jpg" alt=""></a>
-                  <a class="fs-6 fw-bold base-color" href="#">Đào tạo và Phát triển</a>
-                  <p class="mb-1">Công ty TNHH Liên doanh Thực phẩm Mavin đặc biệt chú trọng đến công tác phát triển nguồn nhân lực thông qua việc triển khai hiệu quả chính sách đào tạo, nâng cao hiểu biết, trình độ nghiệp vụ cho CBNV. Không chỉ được tham gia các khóa đào tạo kỹ năng</p>
-                  <a class="base-color" href="#">Xem tiếp <i class="fas fa-caret-right text-orange"></i></a>
+                  <a class="mb-3" href="${recuit.url}"><img class="img-thumbnail shadow-sm" src="${recuit.image}" alt=""></a>
+                  <a class="fs-6 fw-bold base-color" href="#">${recuit.title}</a>
+                  <p class="mb-1">${recuit.content}</p>
+                  <a class="base-color" href="${recuit.url}">Xem tiếp <i class="fas fa-caret-right text-orange"></i></a>
                 </div>
               </div>
-              <div class="col">
-                <div class="d-flex flex-column mb-4">
-                  <a class="mb-3" href="#"><img class="img-thumbnail shadow-sm" src="dist/temp/tuyen-dung.jpg" alt=""></a>
-                  <a class="fs-6 fw-bold base-color" href="#">Đào tạo và Phát triển</a>
-                  <p class="mb-1">Công ty TNHH Liên doanh Thực phẩm Mavin đặc biệt chú trọng đến công tác phát triển nguồn nhân lực thông qua việc triển khai hiệu quả chính sách đào tạo, nâng cao hiểu biết, trình độ nghiệp vụ cho CBNV. Không chỉ được tham gia các khóa đào tạo kỹ năng</p>
-                  <a class="base-color" href="#">Xem tiếp <i class="fas fa-caret-right text-orange"></i></a>
-                </div>
-              </div>
+              </#list>
             </div>
           </div>
         </div>
