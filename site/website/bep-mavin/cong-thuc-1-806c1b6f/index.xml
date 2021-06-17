@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/recipedetail</content-type>
+	<display-template>/templates/web/pages/bepmavin.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>1a36d1ca</objectGroupId>
+	<objectId>1a36d1ca-fe2a-4ae2-8939-76bb1c4d7792</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>cong-thuc-1-806c1b6f</folder-name>
+	<internal-name>Cam kết chất lượng thực phẩm sạch Mavin không bị ảnh hưởng bởi Dịch tả heo Châu Phi ASF 806c1b6f</internal-name>
+	<navLabel>Cam kết chất lượng thực phẩm sạch Mavin không bị ảnh hưởng bởi Dịch tả heo Châu Phi ASF</navLabel>
+	<title_s>Cam kết chất lượng thực phẩm sạch Mavin không bị ả</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>0.0</orderDefault_f>
+	<image_s>/static-assets/images/bep/tin-tuc-1.jpg</image_s>
+	<content_html>&lt;p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; color: #212529; font-family: Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;"&gt;Theo l&amp;yacute; thuyết, đồ ăn bảo quản trong ngăn đ&amp;aacute; kh&amp;ocirc;ng bị hư hỏng. Tuy nhi&amp;ecirc;n, độ tươi ngon của đồ ăn tuỳ thuộc v&amp;agrave;o khoảng thời gian lưu trữ trong ngăn đ&amp;aacute;. C&amp;oacute; những loại thịt c&amp;oacute; thể để trong ngăn đ&amp;aacute; cả năm trời vẫn sử dụng được nhưng một số loại chỉ v&amp;agrave;i tuần hoặc v&amp;agrave;i th&amp;aacute;ng. Nhiệt độ bảo quản đồ ăn trong ngăn đ&amp;aacute; l&amp;yacute; tưởng nhất l&amp;agrave; 0 độ F (khoảng -18 độ C). Tốt nhất n&amp;ecirc;n để đồ ăn trong t&amp;uacute;i h&amp;uacute;t ch&amp;acirc;n kh&amp;ocirc;ng. Dưới đ&amp;acirc;y l&amp;agrave; bảng thời gian bảo quản đồ ăn trong ngăn đ&amp;aacute; m&amp;agrave; c&amp;aacute;c b&amp;agrave; nội trợ n&amp;ecirc;n nắm r&amp;otilde;:&lt;/p&gt;
+&lt;p class="text-uppercase" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; color: #212529; font-family: Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; text-transform: uppercase !important;"&gt;C&amp;Aacute;C LOẠI THỊT:&lt;/p&gt;
+&lt;div class="row row-cols-1 row-cols-md-2" style="box-sizing: border-box; --bs-gutter-x: 1.5rem; --bs-gutter-y: 0; display: flex; flex-wrap: wrap; margin-top: calc(var(--bs-gutter-y) * -1); margin-right: calc(var(--bs-gutter-x)/ -2); margin-left: calc(var(--bs-gutter-x)/ -2); color: #212529; font-family: Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;"&gt;
+&lt;div class="col" style="box-sizing: border-box; flex: 0 0 auto; width: 546px; max-width: 100%; padding-right: calc(var(--bs-gutter-x)/ 2); padding-left: calc(var(--bs-gutter-x)/ 2); margin-top: var(--bs-gutter-y);"&gt;Sườn lợn hay thịt lợn d&amp;iacute;nh sườn: 4 - 6 th&amp;aacute;ng.&lt;/div&gt;
+&lt;div class="col" style="box-sizing: border-box; flex: 0 0 auto; width: 546px; max-width: 100%; padding-right: calc(var(--bs-gutter-x)/ 2); padding-left: calc(var(--bs-gutter-x)/ 2); margin-top: var(--bs-gutter-y);"&gt;Thịt lợn nướng: 4 - 12 th&amp;aacute;ng.&lt;/div&gt;
+&lt;div class="col" style="box-sizing: border-box; flex: 0 0 auto; width: 546px; max-width: 100%; padding-right: calc(var(--bs-gutter-x)/ 2); padding-left: calc(var(--bs-gutter-x)/ 2); margin-top: var(--bs-gutter-y);"&gt;Thăn b&amp;ograve;: 6 - 12 th&amp;aacute;ng.&lt;/div&gt;
+&lt;div class="col" style="box-sizing: border-box; flex: 0 0 auto; width: 546px; max-width: 100%; padding-right: calc(var(--bs-gutter-x)/ 2); padding-left: calc(var(--bs-gutter-x)/ 2); margin-top: var(--bs-gutter-y);"&gt;Sườn b&amp;ograve;: 4 - 6 th&amp;aacute;ng.&lt;/div&gt;
+&lt;div class="col" style="box-sizing: border-box; flex: 0 0 auto; width: 546px; max-width: 100%; padding-right: calc(var(--bs-gutter-x)/ 2); padding-left: calc(var(--bs-gutter-x)/ 2); margin-top: var(--bs-gutter-y);"&gt;Sườn lợn hay thịt lợn d&amp;iacute;nh sườn: 4 - 6 th&amp;aacute;ng.&lt;/div&gt;
+&lt;div class="col" style="box-sizing: border-box; flex: 0 0 auto; width: 546px; max-width: 100%; padding-right: calc(var(--bs-gutter-x)/ 2); padding-left: calc(var(--bs-gutter-x)/ 2); margin-top: var(--bs-gutter-y);"&gt;Thịt lợn nướng: 4 - 12 th&amp;aacute;ng.&lt;/div&gt;
+&lt;div class="col" style="box-sizing: border-box; flex: 0 0 auto; width: 546px; max-width: 100%; padding-right: calc(var(--bs-gutter-x)/ 2); padding-left: calc(var(--bs-gutter-x)/ 2); margin-top: var(--bs-gutter-y);"&gt;Thăn b&amp;ograve;: 6 - 12 th&amp;aacute;ng.&lt;/div&gt;
+&lt;div class="col" style="box-sizing: border-box; flex: 0 0 auto; width: 546px; max-width: 100%; padding-right: calc(var(--bs-gutter-x)/ 2); padding-left: calc(var(--bs-gutter-x)/ 2); margin-top: var(--bs-gutter-y);"&gt;Sườn b&amp;ograve;: 4 - 6 th&amp;aacute;ng.&lt;/div&gt;
+&lt;/div&gt;</content_html>
+	<createdDate>2021-06-01T10:30:53.471Z</createdDate>
+	<createdDate_dt>2021-06-01T10:30:53.471Z</createdDate_dt>
+	<lastModifiedDate>2021-06-17T08:45:36.928Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-17T08:45:36.928Z</lastModifiedDate_dt>
+</page>
