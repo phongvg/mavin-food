@@ -24,22 +24,22 @@
               <a class="nav-link active" aria-current="page" href="#">Trang chủ</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Tổng quan</a>
+              <a class="nav-link" href="/tong-quan">Tổng quan</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Sản phẩm</a>
+              <a class="nav-link" href="/san-pham">Sản phẩm</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Tin tức</a>
+              <a class="nav-link" href="/tin-tuc">Tin tức</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Hệ thống bán hàng</a>
+              <a class="nav-link" href="/he-thong">Hệ thống bán hàng</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Tuyển dụng</a>
+              <a class="nav-link" href="/tuyen-dung">Tuyển dụng</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Liên hệ</a>
+              <a class="nav-link" href="/lien-he">Liên hệ</a>
             </li>
           </ul>
         </div>
