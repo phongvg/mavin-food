@@ -1,5 +1,5 @@
   <section class="sp-block py-4 py-md-5">
-   <form action="/api/1/services/contactUs.json" method="POST">
+   <form action="/api/1/services/contactUs.json" method="GET">
       <div class="container">
         <div class="py-3 py-md-5">
           <h1 class="h4 base-color text-uppercase fw-bold mb-3">Liên hệ</h1>
