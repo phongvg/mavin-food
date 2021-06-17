@@ -253,7 +253,7 @@
 						</property>
 						<property>
 							<name>imageManager</name>
-							<value></value>
+							<value>repoImage,desktopImage</value>
 							<type>datasource:image</type>
 						</property>
 						<property>
