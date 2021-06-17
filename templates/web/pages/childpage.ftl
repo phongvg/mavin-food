@@ -82,6 +82,7 @@
         $(document).ready(function() {
             $('#close-success').click(() => {
                 $('#success-dialog').hide();
+                $('.modal-backdrop').hide();
             });
         });
     
