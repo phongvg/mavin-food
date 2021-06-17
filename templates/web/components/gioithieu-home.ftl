@@ -14,7 +14,7 @@
           </div>
           <div class="col-lg-8">
             <div class="text-center">
-              <img class="img-fluid" src="dist/temp/1.png" alt="">
+              <img class="img-fluid" src="/static-assets/dist/temp/1.png" alt="">
               <p class="text-uppercase fw-bold fs-5 base-color">${contentModel.subtitle_s}</p>
             </div>
             <div class="row px-lg-4 mx-lg-4">
