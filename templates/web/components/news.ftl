@@ -14,7 +14,7 @@
           <h1 class="p-3 h4 base-bg-color text-white fw-bold text-uppercase shadow mb-4">tin mavin</h1>
           <div class="bg-white shadow p-3 p-md-4 mb-4">
             <#list news as news>
-            <#if news?is_last?c>
+            <#if news?is_last>
             <div class="row row-cols-1 row-cols-md-2">
               <div class="col">
                 <div class="mb-3 mb-md-0"><img class="img-fluid" src="${news.url}" alt=""></div>
