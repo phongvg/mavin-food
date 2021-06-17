@@ -1,14 +1,6 @@
 <#import "/templates/system/common/cstudio-support.ftl" as studio />
-    <div class="container">
-        <div>
-            <#list news as anews>
-                <img class="img-res" src="${anews.image}">
-                <h3>${anews.title}</h3>
-                ${anews.content}
-            </#list>
-        </div>
-    </div>
-        <section class="sp-block py-4 py-md-5">
+
+    <section class="sp-block py-4 py-md-5">
       <div class="container">
         <div class="py-3 py-md-5">
           <h1 class="p-3 h4 base-bg-color text-white fw-bold text-uppercase shadow mb-4">tin mavin</h1>
@@ -35,7 +27,7 @@
           </div>
           <div class="row row-cols-1 row-cols-md-3">
             <#list news as news>
-            <#if news?is_last?c == false>
+            <#if news?is_last?c == "false">
             <div class="col">
               <div class="bg-white shadow p-4 p-md-4 mb-4">
                 <div class="d-flex flex-column">
