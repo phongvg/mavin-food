@@ -6,13 +6,13 @@
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>35026ca3</objectGroupId>
 	<objectId>35026ca3-2f3a-4e0c-bad1-c7cb8be83ef4</objectId>
-	<internal-name>Nhân viên Kinh doanh Mavin Food (Văn phòng NĐ) 815821aa</internal-name>
-	<navLabel>Nhân viên Kinh doanh Mavin Food (Văn phòng NĐ)</navLabel>
-	<title_s>Nhân viên Kinh doanh Mavin Food (Văn phòng NĐ)</title_s>
+	<internal-name>Nhân viên Kinh doanh Mavin Food (Văn phòng ĐN)</internal-name>
+	<navLabel>Nhân viên Kinh doanh Mavin Food (Văn phòng ĐN)</navLabel>
+	<title_s>Nhân viên Kinh doanh Mavin Food (Văn phòng ĐN)</title_s>
 	<file-name>index.xml</file-name>
-	<folder-name>tin-3-815821aa</folder-name>
+	<folder-name>tin-4</folder-name>
 	<placeInNav>false</placeInNav>
-	<orderDefault_f>0.0</orderDefault_f>
+	<orderDefault_f>-1</orderDefault_f>
 	<content_html>&lt;ul class="list-unstyled" style="box-sizing: border-box; padding-left: 0px; margin-top: 0px; margin-bottom: 1rem; list-style: none; color: #212529; font-family: Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; background-color: #ffffff;"&gt;
 &lt;li class="mb-3" style="box-sizing: border-box; margin-bottom: 1rem !important;"&gt;
 &lt;p style="box-sizing: border-box; font-size: 18px; margin: 0px 0px 1rem; padding: 0px; font-family: Roboto, sans-serif; border: 0px; vertical-align: baseline; line-height: 1.5;"&gt;&lt;span style="box-sizing: border-box; margin: 0px; padding: 0px; font-weight: bolder; border: 0px; vertical-align: baseline;"&gt;Số lượng tuyển: 2 người&lt;/span&gt;&lt;/p&gt;
@@ -41,8 +41,8 @@
 &lt;/ul&gt;</content_html>
 	<createdDate>2021-06-17T04:26:07.346Z</createdDate>
 	<createdDate_dt>2021-06-17T04:26:07.346Z</createdDate_dt>
-	<lastModifiedDate>2021-06-17T04:28:19.727Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-06-17T04:28:19.727Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-06-17T04:29:00.739Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-17T04:29:00.739Z</lastModifiedDate_dt>
 	<date_dt>2021-06-17T04:00:00.000Z</date_dt>
 	<date_dt_tz>EST5EDT</date_dt_tz>
 </page>
