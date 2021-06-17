@@ -5,7 +5,7 @@
           <ul class="list-unstyled">
           <#list recuits as recuit>
             <li class="mb-3">
-              <a class="text-dark" href="${recuit.url}"><strong>${recuit.title}</strong> <br>${recuit.date?date}</a>
+              <a class="text-dark" href="${recuit.url}"><strong>${recuit.title}</strong> <br>${recuit.date}</a>
             </li>
           </#list>
           </ul>
