@@ -26,7 +26,7 @@
               <label for="" class="col-form-label">Họ tên</label>
             </div>
             <div class="col-sm-10">
-              <input type="text" placeholder="" class="form-control" aria-describedby="">
+              <input type="text" name="name" placeholder="" class="form-control" aria-describedby="">
             </div>
           </div>
           <div class="row mb-3 align-items-center">
@@ -34,15 +34,15 @@
               <label for="" class="col-form-label">Công ty</label>
             </div>
             <div class="col-sm-10">
-              <input type="text" placeholder="" class="form-control" aria-describedby="">
+              <input type="text" placeholder="" name="company" class="form-control" aria-describedby="">
             </div>
           </div>
           <div class="row mb-3 align-items-center">
             <div class="col-sm-2 col-form-label">
-              <label for="" class="col-form-label">Email</label>
+              <label for=""class="col-form-label">Email</label>
             </div>
             <div class="col-sm-10">
-              <input type="mail" placeholder="" class="form-control" aria-describedby="">
+              <input type="mail" placeholder="" name="email" class="form-control" aria-describedby="">
             </div>
           </div>
           <div class="row mb-3 align-items-center">
@@ -50,7 +50,7 @@
               <label for="" class="col-form-label">Điện thoại</label>
             </div>
             <div class="col-sm-10">
-              <input type="tel" placeholder="" class="form-control" aria-describedby="">
+              <input type="tel" placeholder="" name="phone" class="form-control" aria-describedby="">
             </div>
           </div>
           <div class="row mb-3 align-items-center">
@@ -58,7 +58,7 @@
               <label for="" class="col-form-label">Tiêu đề</label>
             </div>
             <div class="col-sm-10">
-              <input type="text" placeholder="" class="form-control" aria-describedby="">
+              <input type="text" placeholder="" name = "title" class="form-control" aria-describedby="">
             </div>
           </div>
           <div class="row mb-3 align-items-center">
@@ -66,7 +66,7 @@
               <label for="" class="col-form-label">Nội dung</label>
             </div>
             <div class="col-sm-10">
-              <textarea class="form-control"></textarea>
+              <textarea class="form-control" name ="content"></textarea>
             </div>
           </div>
           <div class="row mb-3 align-items-center">
