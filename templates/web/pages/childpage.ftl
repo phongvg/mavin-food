@@ -30,7 +30,7 @@
     <script src="/static-assets/vendor/jquery/dist/jquery.min.js"></script>
     <script src="/static-assets/vendor/bootstrap-5-0-1/dist/js/bootstrap.bundle.min.js"></script>
     <script src="/static-assets/vendor/slick-1-8-1/slick/slick.min.js"></script>
-    <script src="/static-assets/js/contact.js"></script>
+    
     <script type="text/javascript">
     
       $('.sp-1').slick({
@@ -91,7 +91,7 @@
         ]
       });
     </script>
-    
+    <script src="/static-assets/js/contact.js"></script>
   </body>
 </html>
 </html>
