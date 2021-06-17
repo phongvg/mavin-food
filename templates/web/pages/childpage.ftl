@@ -42,7 +42,7 @@
                         </p>
                     </div>
                     <div class="modal-footer">
-                        <button type="button" class="btn btn-sm btn-warning" data-dismiss="modal">Đóng</button>
+                        <button type="button" id="close-success" class="btn btn-sm btn-warning" data-dismiss="modal">Đóng</button>
                     </div>
                 </div>
             </div>
@@ -79,6 +79,11 @@
     <script src="/static-assets/vendor/slick-1-8-1/slick/slick.min.js"></script>
     
     <script type="text/javascript">
+        $(document).ready(function() {
+            $('#close-success').click(() => {
+                $('success-dialog').hide();
+            });
+        });
     
       $('.sp-1').slick({
         arrows: true,
