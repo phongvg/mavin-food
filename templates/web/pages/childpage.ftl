@@ -81,7 +81,7 @@
     <script type="text/javascript">
         $(document).ready(function() {
             $('#close-success').click(() => {
-                $('success-dialog').hide();
+                $('#success-dialog').hide();
             });
         });
     
