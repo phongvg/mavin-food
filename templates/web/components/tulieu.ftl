@@ -33,16 +33,16 @@
                 <div class="single-slider arrows-style">
                   <div class="item">
                     <div class="d-flex flex-column">
-                      <img class="img-thumbnail" src="dist/temp/media-1.jpg" alt="">
-                      <div class="fs-6 mt-3 mb-1">Gala tổng kết năm 2020</div>
-                      <div class="text-muted">04.01.2020</div>
+                      <img class="img-thumbnail" src="${contentModel.p1image_s}" alt="">
+                      <div class="fs-6 mt-3 mb-1">${contentModel.p1title_s}</div>
+                      <#--<div class="text-muted">04.01.2020</div>-->
                     </div>
                   </div>
                   <div class="item">
                     <div class="d-flex flex-column">
-                      <img class="img-thumbnail" src="dist/temp/media-1.jpg" alt="">
-                      <div class="fs-6 mt-3 mb-1">Gala tổng kết năm 2020</div>
-                      <div class="text-muted">04.01.2020</div>
+                      <img class="img-thumbnail" src="${contentModel.p2image_s}" alt="">
+                      <div class="fs-6 mt-3 mb-1">${contentModel.p1title_s}</div>
+                      
                     </div>
                   </div>
                 </div>
@@ -58,23 +58,23 @@
                 <div class="single-slider arrows-style">
                   <div class="item">
                     <div class="d-flex flex-column">
-                      <img class="img-thumbnail" src="dist/temp/media-1.jpg" alt="">
-                      <div class="fs-6 mt-3 mb-1">Phim giới thiệu về Mavin Food</div>
-                      <div>04.01.2020</div>
+                      <img class="img-thumbnail" src="${contentModel.v1image_s}" alt="">
+                      <div class="fs-6 mt-3 mb-1">${contentModel.v1title_s}</div>
+                      
                     </div>
                   </div>
                   <div class="item">
                     <div class="d-flex flex-column">
-                      <img class="img-thumbnail" src="dist/temp/media-1.jpg" alt="">
-                      <div class="fs-6 mt-3 mb-1">Phim giới thiệu về Mavin Food</div>
-                      <div>04.01.2020</div>
+                      <img class="img-thumbnail" src="${contentModel.v2image_s}" alt="">
+                      <div class="fs-6 mt-3 mb-1">${contentModel.v2title_s}</div>
+                      
                     </div>
                   </div>
                 </div>
               </div>
             </div>
             <div class="position-absolute bottom-0 end-0">
-              <img src="dist/images/crown.png" alt="" width="145" height="145">
+              <img src="/static-assets/dist/images/crown.png" alt="" width="145" height="145">
             </div>
           </div>
           <div class="bg-orange p-3 p-md-5 mb-4 base-color">
@@ -86,16 +86,16 @@
                 <div class="single-slider arrows-style">
                   <div class="item">
                     <div class="d-flex flex-column">
-                      <img class="img-thumbnail" src="dist/temp/media-1.jpg" alt="">
-                      <div class="fs-6 mt-3 mb-1">Profile giới thiệu công ty</div>
-                      <div class="text-muted">04.01.2020</div>
+                      <img class="img-thumbnail" src="${contentModel.d1image_s}" alt="">
+                      <div class="fs-6 mt-3 mb-1">${contentModel.d1title_s}</div>
+                      
                     </div>
                   </div>
                   <div class="item">
                     <div class="d-flex flex-column">
-                      <img class="img-thumbnail" src="dist/temp/media-1.jpg" alt="">
-                      <div class="fs-6 mt-3 mb-1">Profile giới thiệu công ty</div>
-                      <div class="text-muted">04.01.2020</div>
+                      <img class="img-thumbnail" src="${contentModel.d2image_s}" alt="">
+                      <div class="fs-6 mt-3 mb-1">${contentModel.p2title_s}</div>
+                      
                     </div>
                   </div>
                 </div>
