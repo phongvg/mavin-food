@@ -589,7 +589,7 @@
 				</field>
 				<field>
 					<type>input</type>
-					<id>d1title_s</id>
+					<id>d2title_s</id>
 					<iceId></iceId>
 					<title>D2title</title>
 					<description></description>
