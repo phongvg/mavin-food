@@ -71,8 +71,8 @@
           </div>
           <div class="row mb-3 align-items-center">
             <div class="col-auto ms-auto">
-              <button type="button" class="btn bg-orange base-color fw-bold">Huỷ</button>
-              <button type="button" class="btn base-bg-color text-white fw-bold">Gửi</button>
+              <button type="reset" class="btn bg-orange base-color fw-bold">Huỷ</button>
+              <button type="submit" class="btn base-bg-color text-white fw-bold">Gửi</button>
             </div>
           </div>
         </div>
