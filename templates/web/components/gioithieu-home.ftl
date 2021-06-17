@@ -18,16 +18,17 @@
               <p class="text-uppercase fw-bold fs-5 base-color">${contentModel.subtitle_s}</p>
             </div>
             <div class="row px-lg-4 mx-lg-4">
+                 <#if (contentModel.product_o.item)??>
+                        <#list contentModel.product_o.item as product>
               <div class="col-4 col-lg-4">
                 <div class="text-center">
-                    <#if (contentModel.product_o.item)??>
-                        <#list contentModel.product_o.item as product>
+                 
                             <img class="img-fluid" src="${product.image_s}" alt="">
                             <p class="text-uppercase text-muted fw-bold mt-3">${product.name_s}</p>
-                        </#list>
-                    </#if>
                 </div>
               </div>
+              </#list>
+                    </#if>
             </div>
           </div>
         </div>
