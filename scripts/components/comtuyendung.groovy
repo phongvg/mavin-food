@@ -1,7 +1,12 @@
 import org.craftercms.sites.editorial.RecuitSearchHelper
-def searchHelper = new RecuitSearchHelper(elasticsearch, urlTransformationService)
-def recuits = searchHelper.searchRecuit(null)
+import org.craftercms.sites.editorial.PolicySearchHelper
+def searchRecuit = new RecuitSearchHelper(elasticsearch, urlTransformationService)
+def searchPolicy = new PolicySearchHelper(elasticsearch, urlTransformationService)
+def recuits = searchRecuit.searchRecuit(null)
+def policies = searchPolicy.searchPolicy(null)
+
 println "Recuits:"
 print recuits
 
 templateModel.recuits = recuits
+templateModel.policies = policies
