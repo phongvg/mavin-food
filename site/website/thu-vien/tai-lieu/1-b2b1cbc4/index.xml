@@ -7,12 +7,12 @@
 	<objectGroupId>a582a2db</objectGroupId>
 	<objectId>a582a2db-fdf0-4275-8ac4-8f21a2f86740</objectId>
 	<file-name>index.xml</file-name>
-	<folder-name>1-b2b1cbc4</folder-name>
+	<folder-name>2</folder-name>
 	<placeInNav>false</placeInNav>
-	<orderDefault_f>0.0</orderDefault_f>
+	<orderDefault_f>-1</orderDefault_f>
 	<image_s>/static-assets/images/thu-vien/media-1.jpg</image_s>
-	<internal-name>TL1 b2b1cbc4</internal-name>
-	<navLabel>TL1</navLabel>
+	<internal-name>TL2</internal-name>
+	<navLabel>TL2</navLabel>
 	<name_s>Gala tổng kết năm 2020</name_s>
 	<isDisplay_b>true</isDisplay_b>
 	<pdffile_o item-list="true">	<item datasource="desktopFile">	<key>/static-assets/images/file/test.pdf</key>
@@ -22,6 +22,6 @@
 	</item></pdffile_o>
 	<createdDate>2021-06-18T03:44:23.124Z</createdDate>
 	<createdDate_dt>2021-06-18T03:44:23.124Z</createdDate_dt>
-	<lastModifiedDate>2021-06-18T03:44:23.124Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-06-18T03:44:23.124Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-06-18T03:52:48.864Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-18T03:52:48.864Z</lastModifiedDate_dt>
 </page>
