@@ -45,7 +45,7 @@ See https://github.com/adobe-type-tools/cmap-resources
     <script src="/static-assets/vendor/pdf-viewer-master/external/turn.min.js"></script>
     <link rel="stylesheet" href="/static-assets/vendor/pdf-viewer-master/pdf-turn/pdf-turn.css">
     <script src="/static-assets/vendor/pdf-viewer-master/pdf-turn/pdf-turn.js"></script>
-    <script  src="/static-assets/plugins/pdf-viewer-master/external/pdfjs-21266-dist/build/pdf.worker.js" ></script>
+    <script  src="/static-assets/vendor/pdf-viewer-master/external/pdfjs-21266-dist/build/pdf.worker.js" ></script>
   </head>
 
   <body tabindex="1" class="loadingInProgress">
