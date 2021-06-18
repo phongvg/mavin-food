@@ -57,7 +57,7 @@
     <script src="/static-assets/vendor/slick-1-8-1/slick/slick.min.js"></script>
     <script type="text/javascript">
       var numberOfFieldsNews = $("#videos .fields").length;
-         limitPerPage = 2;
+         limitPerPage = 4;
          $("#videos .fields:gt(" + (limitPerPage -1 )+")").hide();
          
          var totalPages2 = Math.round(numberOfFieldsNews / limitPerPage );
