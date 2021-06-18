@@ -29,22 +29,22 @@ See https://github.com/adobe-type-tools/cmap-resources
     <title>${contentModel.pdffile_o.item.key}</title>
 
 
-    <link rel="stylesheet" href="/static-assets/plugins/pdf-viewer-master/external/pdfjs-21266-dist/web/viewer.css">
+    <link rel="stylesheet" href="/static-assets/vendor/pdf-viewer-master/external/pdfjs-21266-dist/web/viewer.css">
 
 
 <!-- This snippet is used in production (included from viewer.html) -->
-<link rel="resource" type="application/l10n" href="/static-assets/plugins/pdf-viewer-master/external/pdfjs-21266-dist/web/locale/locale.properties">
-<script src="/static-assets/plugins/pdf-viewer-master/external/pdfjs-21266-dist/build/pdf.js"></script>
+<link rel="resource" type="application/l10n" href="/static-assets/vendor/pdf-viewer-master/external/pdfjs-21266-dist/web/locale/locale.properties">
+<script src="/static-assets/vendor/pdf-viewer-master/external/pdfjs-21266-dist/build/pdf.js"></script>
 
 
     <#--<script src="/static-assets/plugins/pdf-viewer-master/external/pdfjs-21266-dist/web/viewer.js"></script> -->
 
     <!-- $FB: additional files included -->
-    <script src="/static-assets/plugins/pdf-viewer-master/external/jquery-3.4.1.min.js"></script>
-    <script src="/static-assets/plugins/pdf-viewer-master/external/pdfjs-21266-dist/web/viewer.js"></script>
-    <script src="/static-assets/plugins/pdf-viewer-master/external/turn.min.js"></script>
-    <link rel="stylesheet" href="/static-assets/plugins/pdf-viewer-master/pdf-turn/pdf-turn.css">
-    <script src="/static-assets/plugins/pdf-viewer-master/pdf-turn/pdf-turn.js"></script>
+    <script src="/static-assets/vendor/pdf-viewer-master/external/jquery-3.4.1.min.js"></script>
+    <script src="/static-assets/vendor/pdf-viewer-master/external/pdfjs-21266-dist/web/viewer.js"></script>
+    <script src="/static-assets/vendor/pdf-viewer-master/external/turn.min.js"></script>
+    <link rel="stylesheet" href="/static-assets/vendor/pdf-viewer-master/pdf-turn/pdf-turn.css">
+    <script src="/static-assets/vendor/pdf-viewer-master/pdf-turn/pdf-turn.js"></script>
 
   </head>
 
