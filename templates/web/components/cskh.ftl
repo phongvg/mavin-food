@@ -18,7 +18,7 @@
             </div>
             <div class="col mb-3 base-color">
               <div class="d-flex align-items-center justify-content-center">
-                <img src="dist/images/phone-icon.png" alt="">
+                <img src="/static-assets/dist/images/phone-icon.png" alt="">
                 <div class="fw-bold fs-3 ms-3">024 3558 5666</div>
               </div>
             </div>
