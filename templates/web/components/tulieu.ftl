@@ -12,7 +12,7 @@
               <div class="col-lg-6">
                 <div class="single-slider arrows-style">
                   <div class="item">
-                  <a src="/thu-vien/hinh-anh" >
+                  <a href="/thu-vien/hinh-anh" >
                     <div class="d-flex flex-column">
                       <img class="img-thumbnail" src="${contentModel.p1image_s}" alt="">
                       <div class="fs-6 mt-3 mb-1">${contentModel.p1title_s}</div>
@@ -33,11 +33,12 @@
               <div class="col-lg-6">
                 <div class="single-slider arrows-style">
                   <div class="item">
+                  <a href="/thu-vien/video" >
                     <div class="d-flex flex-column">
                       <img class="img-thumbnail" src="${contentModel.v1image_s}" alt="">
                       <div class="fs-6 mt-3 mb-1">${contentModel.v1title_s}</div>
-                      
                     </div>
+                  </a>
                   </div>
                   
                 </div>
@@ -55,11 +56,12 @@
               <div class="col-lg-6">
                 <div class="single-slider arrows-style">
                   <div class="item">
+                  <a href="/thu-vien/tai-lieu" >
                     <div class="d-flex flex-column">
                       <img class="img-thumbnail" src="${contentModel.d1image_s}" alt="">
                       <div class="fs-6 mt-3 mb-1">${contentModel.d1title_s}</div>
-                      
                     </div>
+                  </a>
                   </div>
                   
                 </div>
