@@ -61,8 +61,8 @@
       <img class="img-fluid" src="/static-assets/dist/temp/8.jpg" alt="">
     </section>
     <script>
-        var numberOfFieldsNews = $("#field-news").find(".fields").length;
-         limitPerPage = 1;
+        var numberOfFieldsNews = $("#field-news .fields").length;
+         limitPerPage = 2;
          $("#field-news .fields:gt(" + (limitPerPage -1 )+")").hide();
          
          var totalPages2 = Math.round(numberOfFieldsNews / limitPerPage );
