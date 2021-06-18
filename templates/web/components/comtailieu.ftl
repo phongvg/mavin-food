@@ -4,7 +4,7 @@
           <h1 class="h4 base-color text-uppercase fw-bold mb-3">Thư viện hình ảnh</h1>
           <div class="bg-white p-3 p-md-5 mb-4 shadow">
             <div class="row row-cols-2">
-            <#list policies as doc>
+            <#list docs as doc>
               <div class="col">
                 <div class="d-flex flex-column mb-4">
                   <img class="img-fluid" src="${doc.image}" alt="">
