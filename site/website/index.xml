@@ -13,8 +13,8 @@
 	<folder-name/>
 	<createdDate>2017-1-31T16:18:14.000Z</createdDate>
 	<createdDate_dt>2017-1-31T16:18:14.000Z</createdDate_dt>
-	<lastModifiedDate>2021-06-18T03:43:34.847Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-06-18T03:43:34.847Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-06-18T03:59:45.959Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-18T03:59:45.959Z</lastModifiedDate_dt>
 	<title_t>Mavin-Food</title_t>
 	<sections_o item-list="true">	<item datasource="sections" inline="true">	<key>eae80de2-40f3-601d-7236-b66d34d383a1</key>
 	<value>Giới thiệu - Home</value>
@@ -72,8 +72,8 @@
 	<internal-name>Sản Phẩm - Home</internal-name>
 	<createdDate>2021-06-01T07:20:23.678Z</createdDate>
 	<createdDate_dt>2021-06-01T07:20:23.678Z</createdDate_dt>
-	<lastModifiedDate>2021-06-18T03:43:39.874Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-06-18T03:43:39.874Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-06-18T03:59:50.898Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-18T03:59:50.898Z</lastModifiedDate_dt>
 	<featPro_o item-list="true">	<item>	<link_s>#</link_s>
 	<image_s>/static-assets/images/home/2.jpg</image_s>
 	</item>	<item>	<link_s>#</link_s>
@@ -84,6 +84,8 @@
 	<image_s>/static-assets/images/home/5.jpg</image_s>
 	</item>	<item>	<link_s>#</link_s>
 	<image_s>/static-assets/images/home/6.jpg</image_s>
+	</item>	<item>	<link_s>#</link_s>
+	<image_s>/static-assets/images/home/2.jpg</image_s>
 	</item></featPro_o>
 </component>
 	</item>	<item datasource="sections" inline="true">	<key>10c713f1-c553-2b41-17f6-824cb28eabfd</key>
