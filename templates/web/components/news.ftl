@@ -28,7 +28,7 @@
           <div class="row row-cols-1 row-cols-md-3" id="field-news">
             <#list news as news>
             <#if news?is_last?c == "false">
-            <div class="col .field">
+            <div class="col fields">
               <div class="bg-white shadow p-4 p-md-4 mb-4">
                 <div class="d-flex flex-column">
                   <a href="${news.url}"><img class="img-fluid" src="${news.image}" alt=""></a>
