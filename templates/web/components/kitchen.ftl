@@ -13,7 +13,7 @@
               <img src="/static-assets/dist/images/logo-circle2.png" alt="">
             </div>
           </div>
-          <div class="row row-cols-1 row-cols-md-2 kitchen-news">
+          <div class="row row-cols-1 row-cols-md-2" id="kitchen-news">
             <#list recipes as arecipe>
             <div class="col mb-4 fields">
               <div class="d-flex flex-column">
