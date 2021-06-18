@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/pagechild</content-type>
+	<display-template>/templates/web/pages/childpage.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>b50d</objectGroupId>
+	<objectId>b50db2c1-edc8-5182-adfc-32d180c7fdd3</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>tai-lieu</folder-name>
+	<internal-name>Thư viện tài liệu</internal-name>
+	<navLabel>Thư viện tài liệu</navLabel>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="sections" inline="true">	<key>da0e4d48-5b2b-bfbc-2db9-bbffec642ac0</key>
+	<value>Thư viện tài liệu</value>
+<component id="da0e4d48-5b2b-bfbc-2db9-bbffec642ac0">
+	<content-type>/component/comtailieu</content-type>
+	<content-type>/component/comtailieu</content-type>
+	<display-template/>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>da0e</objectGroupId>
+	<objectId>da0e4d48-5b2b-bfbc-2db9-bbffec642ac0</objectId>
+	<file-name>da0e4d48-5b2b-bfbc-2db9-bbffec642ac0.xml</file-name>
+	<internal-name>Thư viện tài liệu</internal-name>
+	<createdDate>2021-06-18T03:43:58.626Z</createdDate>
+	<createdDate_dt>2021-06-18T03:43:58.626Z</createdDate_dt>
+	<lastModifiedDate>2021-06-18T03:43:58.626Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-18T03:43:58.626Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<createdDate>2021-06-18T03:43:33.649Z</createdDate>
+	<createdDate_dt>2021-06-18T03:43:33.649Z</createdDate_dt>
+	<lastModifiedDate>2021-06-18T03:43:33.649Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-18T03:43:33.649Z</lastModifiedDate_dt>
+</page>
