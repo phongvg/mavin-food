@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/thuvientailieu</content-type>
+	<display-template>/templates/web/pages/thuvientailieu.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>a2f5</objectGroupId>
+	<objectId>a2f5613c-f613-7a64-9549-34692e4f7fcf</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>1</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<image_s>/static-assets/images/thu-vien/media-1.jpg</image_s>
+	<internal-name>TL1</internal-name>
+	<navLabel>TL1</navLabel>
+	<name_s>Gala tổng kết năm 2020</name_s>
+	<isDisplay_b>true</isDisplay_b>
+	<pdffile_o item-list="true">	<item datasource="desktopFile">	<key>/static-assets/images/file/test.pdf</key>
+	<value>/static-assets/images/file/test.pdf</value>
+	<fileType_mvs>pdf</fileType_mvs>
+	<fileSize_s>10321224</fileSize_s>
+	</item></pdffile_o>
+	<createdDate>2021-06-18T03:44:23.124Z</createdDate>
+	<createdDate_dt>2021-06-18T03:44:23.124Z</createdDate_dt>
+	<lastModifiedDate>2021-06-18T03:44:23.124Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-18T03:44:23.124Z</lastModifiedDate_dt>
+</page>
