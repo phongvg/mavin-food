@@ -28,7 +28,7 @@
         </nav>
 <script>
         var numberOfFieldsNews = $("#products .fields").length;
-         limitPerPage = 5;
+         limitPerPage = 3;
          $("#products .fields:gt(" + (limitPerPage -1 )+")").hide();
          
          var totalPages2 = Math.round(numberOfFieldsNews / limitPerPage );
