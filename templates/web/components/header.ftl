@@ -8,6 +8,32 @@
               <a class="text-white" href="#"><i class="fas fa-search"></i></a>
             </div>
         </div> <!-- /Utilities -->
+        <div class="container">
+        <div class="position-relative vh-100 d-none d-lg-block">
+          <div class="position-absolute end-0 nav-top">
+            <ul class="nav flex-column">
+              <li class="nav-item">
+                <a class="nav-link px-2 py-1 text-muted active" aria-current="page" href="/tong-quan">Tổng quan</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link px-2 py-1 text-muted" href="/san-pham">Sản phẩm</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link px-2 py-1 text-muted" href="/ban-tin">Tin tức</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link px-2 py-1 text-muted" href="/he-thong-ban-hang">Hệ thống bán hàng</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link px-2 py-1 text-muted" href="/tuyen-dung">Tuyển dụng</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link px-2 py-1 text-muted" href="/lien-he">Liên hệ</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
     </section> <!-- /Background Wave -->
     
     <nav class="navbar navbar-mf navbar-expand-lg navbar-light bg-white">
