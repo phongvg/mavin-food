@@ -12,11 +12,13 @@
               <div class="col-lg-6">
                 <div class="single-slider arrows-style">
                   <div class="item">
+                  <a src="/thu-vien/hinh-anh" >
                     <div class="d-flex flex-column">
                       <img class="img-thumbnail" src="${contentModel.p1image_s}" alt="">
                       <div class="fs-6 mt-3 mb-1">${contentModel.p1title_s}</div>
                       <#--<div class="text-muted">04.01.2020</div>-->
                     </div>
+                  </a>
                   </div>
                   
                 </div>
