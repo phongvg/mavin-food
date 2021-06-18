@@ -6,14 +6,18 @@
               <h3 class="text-uppercase fw-bold fs-5 base-color">tin tức - sự kiện</h3>
               <a href="#"><img class="w-100 h-auto" src="/static-assets/dist/temp/7.jpg" alt=""></a>
               <div class="row g-0 mt-2 mb-3">
+              <#list news as news>
+              <#if news?is_last>
                 <div class="col">
-                  <a class="d-block px-3 py-2 base-bg-color fw-bold text-white" href="#">MAVIN FOODS - Mắt xích quan trọng  của chuỗi giá trị “Từ Nông trại tới Bàn ăn”</a>
+                  <a class="d-block px-3 py-2 base-bg-color fw-bold text-white" href="${news.title}">${news.title}</a>
                 </div>
                 <div class="col-auto">
-                  <a class="d-flex align-items-center h-100 px-3 py-2 bg-orange base-color" href="#">
+                  <a class="d-flex align-items-center h-100 px-3 py-2 bg-orange base-color" href="${news.title}">
                     <span>Xem tiếp</span>
                   </a>
                 </div>
+              </#if>
+              </#list>
               </div>
               
             </div>
