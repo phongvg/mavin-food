@@ -1,4 +1,4 @@
-import org.craftercms.blueprints.headless.DocumentPDFSearchHelper
+package org.craftercms.sites.editorial.DocumentPDFSearchHelper
 
 def searchPDFHelper = new DocumentPDFSearchHelper(elasticsearch, urlTransformationService)
 
