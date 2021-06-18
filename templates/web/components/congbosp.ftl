@@ -26,6 +26,7 @@
           </nav>
         </div>
       </div>
+      </div>
       <div class="container">
         <div class="back-link my-3 my-md-5">
           <a class="d-flex align-items-center justify-content-center" href="#">
