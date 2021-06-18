@@ -46,7 +46,7 @@
     </section>
     <script>
         var numberOfFieldsNews = $("#kitchen-news .fields").length;
-         limitPerPage = 1;
+         limitPerPage = 2;
          $("#kitchen-news .fields:gt(" + (limitPerPage -1 )+")").hide();
          
          var totalPages2 = Math.round(numberOfFieldsNews / limitPerPage );
