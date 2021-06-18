@@ -1,6 +1,8 @@
-package org.craftercms.sites.editorial.DocumentPDFSearchHelper
 
-def searchPDFHelper = new DocumentPDFSearchHelper(elasticsearch, urlTransformationService)
-def docsPDF = searchPDFHelper.searchdocs(true,0)
-templateModel.docsPDF = docsPDF
 
+import org.craftercms.sites.editorial.DocumentPDFSearchHelper
+def searchHelper = new DocumentPDFSearchHelper(elasticsearch, urlTransformationService)
+def news = searchHelper.searchNews(null)
+
+
+templateModel.docs = docs
