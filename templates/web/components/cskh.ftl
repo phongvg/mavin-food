@@ -11,6 +11,7 @@
                 </div>
                 </#list>
             </#if>
+         </div>    
           <div class="row row-cols-1 row-cols-md-2 mt-4">
             <div class="col mb-3 base-color">
               <p>Mavin Foods cam kết mang đến Quý Khách hàng những sản phẩm và dịch vụ tốt nhất. Chúng tôi luôn hỗ trợ, tư vấn và chia sẻ những thông tin, kiến thức, kinh nghiệm của mình.Hãy gọi cho chúng tôi để nhận được sự tư vấn, hỗ trợ kịp thời với chất lượng tốt nhất.</p>
@@ -24,5 +25,6 @@
           </div>
         </div>
       </div>
+      
     </section>
 <@studio.toolSupport />  
