@@ -8,7 +8,7 @@
 
     <!-- Site Stylesheet -->
     <link rel="stylesheet" href="/static-assets/vendor/bootstrap-5-0-1/dist/css/bootstrap.min.css">
-    <link rel="stylesheet" href="/static-assets/vendor/fontawesome-free-5.15-3-web/css/all.min.css">
+    <link rel="stylesheet" href="/static-assets/vendor/fontawesome-free-5-15-3-web/css/all.min.css">
     <link rel="stylesheet" href="/static-assets/dist/stylesheets/main.css">
     <link rel="stylesheet" href="/static-assets/vendor/slick-1-8-1/slick/slick.css">
     <link rel="stylesheet" href="/static-assets/vendor/slick-1-8-1/slick/slick-theme.css"> 
