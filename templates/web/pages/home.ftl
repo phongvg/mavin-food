@@ -114,7 +114,7 @@
         ]
       });
     </script>
-    
+    <script src="/static-assets/js/contact.js"></script>
   </body>
 </html>
 </html>
