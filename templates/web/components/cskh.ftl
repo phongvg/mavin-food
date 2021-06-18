@@ -27,4 +27,7 @@
       </div>
       
     </section>
+    <section class="home-block">
+      <img class="img-fluid" src="/static-assets/dist/temp/8.jpg" alt="">
+    </section>
 <@studio.toolSupport />  
