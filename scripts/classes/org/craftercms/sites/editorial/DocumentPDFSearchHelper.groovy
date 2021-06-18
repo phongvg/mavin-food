@@ -36,7 +36,6 @@ class DocumentPDFSearchHelper {
             .query(QueryBuilders.queryStringQuery(q))
             .from(start)
             .size(rows)
-            .sort(new FieldSortBuilder("createddate_dt").order(SortOrder.DESC))
         
         def result = elasticsearch.search(new SearchRequest().source(builder))
         
