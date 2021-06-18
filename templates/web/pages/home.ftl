@@ -16,6 +16,7 @@
     <link rel="icon" type="image/png" sizes="32x32" href="/static-assets/dist/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/static-assets/dist/favicon-16x16.png">
     <link rel="manifest" href="/static-assets/dist/site.webmanifest">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
     <title>Trang chủ</title>
   </head>
   <body>
