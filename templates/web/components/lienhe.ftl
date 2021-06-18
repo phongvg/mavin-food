@@ -12,7 +12,7 @@
               <div class="bg-white p-3 shadow mb-4">
                 <img class="img-fluid" src="${place.image_s}" alt="">
               </div>
-              <h2 class="h5 base-color mb-3">Văn phòng đại diện</h2>
+              <h2 class="h5 base-color mb-3">${place.title_s}</h2>
               ${place.content_html}
               <div class="bg-white p-3 shadow mb-4">
                 <p class="img-fluid"> ${place.map_s}</p>
