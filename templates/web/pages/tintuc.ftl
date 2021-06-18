@@ -43,7 +43,7 @@
       </div>
     </section>
     <section class="home-block">
-      <img class="img-fluid" src="dist/temp/8.jpg" alt="">
+      <img class="img-fluid" src="/static-assets/dist/images/temp/8.jpg" alt="">
     </section>
     <@renderComponent component=contentModel.footer_o.item />
     <!-- Site Javascript -->
