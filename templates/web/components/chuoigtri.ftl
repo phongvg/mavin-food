@@ -14,6 +14,6 @@
       </div>
     </section>
     <section class="home-block">
-      <img class="img-fluid" src="/static-access/dist/temp/10.jpg" alt="">
+      <img class="img-fluid" src="/static-assets/dist/temp/10.jpg" alt="">
     </section>
 <@studio.toolSupport />
