@@ -28,13 +28,13 @@
               <div class="d-flex flex-column-reverse">
                 <ul class="nav nav-pills nav-fill nav-tab-news mb-3 mt-2" id="pills-tab" role="tablist">
                   <li class="nav-item" role="presentation">
-                    <a class="nav-link active text-uppercase fw-bold" id="pills-gallery-tab" data-bs-toggle="pill" data-bs-target="#pills-gallery" type="button" role="tab" aria-controls="pills-gallery" aria-selected="true" href="/thu-vien/anh">Thư viện <br>ảnh</a>
+                    <a class="nav-link active text-uppercase fw-bold"   aria-selected="true" href="/thu-vien/anh">Thư viện <br>ảnh</a>
                   </li>
                   <li class="nav-item" role="presentation">
-                    <a class="nav-link text-uppercase fw-bold" id="pills-video-tab" data-bs-toggle="pill" data-bs-target="#pills-video" type="button" role="tab" aria-controls="pills-video" aria-selected="false" href="/thu-vien/video">Thư viện <br>video</a>
+                    <a class="nav-link text-uppercase fw-bold"  href="/thu-vien/video">Thư viện <br>video</a>
                   </li>
                   <li class="nav-item" role="presentation">
-                    <a class="nav-link text-uppercase fw-bold" id="pills-document-tab" data-bs-toggle="pill" data-bs-target="#pills-document" type="button" role="tab" aria-controls="pills-document" aria-selected="false" href="/thu-vien/tai-lieu">Thư viện <br>tài liệu</a>
+                    <a class="nav-link text-uppercase fw-bold" id="pills-document-tab"  href="/thu-vien/tai-lieu">Thư viện <br>tài liệu</a>
                   </li>
                 </ul>
                 <div class="tab-content" id="pills-tabContent">
