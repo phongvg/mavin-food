@@ -80,5 +80,5 @@
       </form>
     </section>
     <section class="home-block">
-      <img class="img-fluid" src="dist/temp/8.jpg" alt="">
+      <img class="img-fluid" src="/static-assets/dist/temp/8.jpg" alt="">
     </section>
