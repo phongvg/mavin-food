@@ -5,13 +5,16 @@
           <div class="bg-white p-3 p-md-5 mb-4 shadow">
             <div class="row row-cols-2">
             <#list docs as doc>
+            <a href="${doc.url}">
               <div class="col">
                 <div class="d-flex flex-column mb-4">
                   <img class="img-fluid" src="${doc.image}" alt="">
                   <div class="fs-6 mt-3 mb-1 base-color">${doc.name}</div>
                 </div>
               </div>
+            </a>
             </#list>
+            </div>
             <nav class="pagination-mf" aria-label="">
               <ul class="pagination justify-content-center">
                 <li class="page-item active"><a class="page-link" href="#">1</a></li>
