@@ -172,8 +172,6 @@
         ]
       });
     </script>
-    
   </body>
-</html>
 </html>
 <@studio.toolSupport />
