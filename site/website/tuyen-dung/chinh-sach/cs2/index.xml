@@ -17,6 +17,24 @@
 	<content_html>&lt;p&gt;&lt;span style="color: #212529; font-family: Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; background-color: #ffffff;"&gt;C&amp;ocirc;ng ty TNHH Li&amp;ecirc;n doanh Thực phẩm Mavin đặc biệt ch&amp;uacute; trọng đến c&amp;ocirc;ng t&amp;aacute;c ph&amp;aacute;t triển nguồn nh&amp;acirc;n lực th&amp;ocirc;ng qua việc triển khai hiệu quả ch&amp;iacute;nh s&amp;aacute;ch đ&amp;agrave;o tạo, n&amp;acirc;ng cao hiểu biết, tr&amp;igrave;nh độ nghiệp vụ cho CBNV. Kh&amp;ocirc;ng chỉ được tham gia c&amp;aacute;c kh&amp;oacute;a đ&amp;agrave;o tạo kỹ năng&lt;/span&gt;&lt;/p&gt;</content_html>
 	<createdDate>2021-06-17T04:18:08.030Z</createdDate>
 	<createdDate_dt>2021-06-17T04:18:08.030Z</createdDate_dt>
-	<lastModifiedDate>2021-06-17T04:24:26.748Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-06-17T04:24:26.748Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-06-21T09:35:08.335Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-21T09:35:08.335Z</lastModifiedDate_dt>
+	<slide_o item-list="true">	<item datasource="slide" inline="true">	<key>e2fd34ba-000b-2dcb-40e9-4c51d61a244d</key>
+	<value>S</value>
+<component id="e2fd34ba-000b-2dcb-40e9-4c51d61a244d">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>e2fd</objectGroupId>
+	<objectId>e2fd34ba-000b-2dcb-40e9-4c51d61a244d</objectId>
+	<file-name>e2fd34ba-000b-2dcb-40e9-4c51d61a244d.xml</file-name>
+	<internal-name>S</internal-name>
+	<image_s>/static-assets/images/header/bg-app1.jpg</image_s>
+	<createdDate>2021-06-21T09:35:14.458Z</createdDate>
+	<createdDate_dt>2021-06-21T09:35:14.458Z</createdDate_dt>
+	<lastModifiedDate>2021-06-21T09:35:14.458Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-21T09:35:14.458Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
 </page>
