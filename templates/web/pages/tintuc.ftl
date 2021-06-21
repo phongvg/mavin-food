@@ -19,6 +19,10 @@
     <title>Trang MavinFood</title>
   </head>
   <body>
+    <section class="bg-wave bg-crown d-none d-lg-block">
+    <#list (contentModel.slide_o.item)![] as slide>
+            <@renderComponent parent=contentModel component=slide />
+    </#list>
     <@renderComponent component=contentModel.header_o.item />
     <section class="sp-block py-4 py-md-5">
       <div class="container">
