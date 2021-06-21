@@ -27,9 +27,27 @@
 &lt;p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; color: #ffffff; font-family: Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; background-color: #d22234;"&gt;CHẾ BIẾN M&amp;Oacute;N NGON: X&amp;uacute;c x&amp;iacute;ch chi&amp;ecirc;n bơ, x&amp;uacute;c x&amp;iacute;ch x&amp;agrave;o chua ngọt, x&amp;uacute;c x&amp;iacute;ch nướng ti&amp;ecirc;u đen......&lt;/p&gt;</content_html>
 	<createdDate>2021-06-16T07:55:00.827Z</createdDate>
 	<createdDate_dt>2021-06-16T07:55:00.827Z</createdDate_dt>
-	<lastModifiedDate>2021-06-16T09:17:32.110Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-06-16T09:17:32.110Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-06-21T09:39:51.502Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-21T09:39:51.502Z</lastModifiedDate_dt>
 	<kl_s>500g</kl_s>
 	<price_s>45.000đ</price_s>
 	<isHot_b>true</isHot_b>
+	<slide_o item-list="true">	<item datasource="slide" inline="true">	<key>b1cddcf4-7f18-694b-ac1a-2d7e80e93073</key>
+	<value>S</value>
+<component id="b1cddcf4-7f18-694b-ac1a-2d7e80e93073">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>b1cd</objectGroupId>
+	<objectId>b1cddcf4-7f18-694b-ac1a-2d7e80e93073</objectId>
+	<file-name>b1cddcf4-7f18-694b-ac1a-2d7e80e93073.xml</file-name>
+	<internal-name>S</internal-name>
+	<image_s>/static-assets/images/header/bg-app1.jpg</image_s>
+	<createdDate>2021-06-21T09:39:59.061Z</createdDate>
+	<createdDate_dt>2021-06-21T09:39:59.061Z</createdDate_dt>
+	<lastModifiedDate>2021-06-21T09:39:59.061Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-21T09:39:59.061Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
 </page>
