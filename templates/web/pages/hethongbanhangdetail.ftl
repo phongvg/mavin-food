@@ -17,6 +17,7 @@
     <title>Hệ thống cửa hàng</title>
   </head>
   <body>
+  <section class="bg-wave bg-crown d-none d-lg-block">
      <#list (contentModel.slide_o.item)![] as slide>
         <@renderComponent parent=contentModel component=slide />
     </#list>
