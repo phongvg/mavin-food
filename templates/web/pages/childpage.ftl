@@ -20,6 +20,10 @@
     <title>Trang chủ</title>
   </head>
   <body>
+    <section class="bg-wave bg-crown d-none d-lg-block">
+    <#list (contentModel.slide_o.item)![] as slide>
+            <@renderComponent parent=contentModel component=slide />
+    </#list>
     <@renderComponent component=contentModel.header_o.item />
     <section>
         <#list (contentModel.section_o.item)![] as section>
