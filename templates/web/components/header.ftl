@@ -1,7 +1,7 @@
 <#import "/templates/system/common/cstudio-support.ftl" as studio />
     
     <section class="bg-wave bg-crown d-none d-lg-block">
-        <div class ="app1"></div>
+        <div class ="bg-wave app1"></div>
         <div class="utilities">
             <a class="u-logo d-block" href="#"><img src="${contentModel.image_s}" alt="Logo"></a></a>
             <div class="d-flex justify-content-between align-items-center py-2">
