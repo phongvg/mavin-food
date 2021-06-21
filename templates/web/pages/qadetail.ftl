@@ -36,6 +36,9 @@
         </div>
       </div>
     </section>
+    <section class="home-block">
+      <img class="img-fluid" src="/static-assets/dist/temp/8.jpg" alt="">
+    </section>
     <@renderComponent component=contentModel.footer_o.item />
     <!-- Site Javascript -->
     <script src="/static-assets/vendor/jquery/dist/jquery.min.js"></script>
