@@ -20,7 +20,9 @@
   </head>
   <body>
     <section class="bg-wave bg-crown d-none d-lg-block">
-    <@renderComponent component=contentModel.slide_o.item />
+    <#list (contentModel.slide_o.item)![] as slide>
+            <@renderComponent parent=contentModel component=slide />
+    </#list>
     <@renderComponent component=contentModel.header_o.item />
     <main>
         <#list (contentModel.sections_o.item)![] as section>
