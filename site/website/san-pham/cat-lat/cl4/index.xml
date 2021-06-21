@@ -29,6 +29,25 @@
 &lt;p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; color: #ffffff; font-family: Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; background-color: #d22234;"&gt;CHẾ BIẾN M&amp;Oacute;N NGON: X&amp;uacute;c x&amp;iacute;ch chi&amp;ecirc;n bơ, x&amp;uacute;c x&amp;iacute;ch x&amp;agrave;o chua ngọt, x&amp;uacute;c x&amp;iacute;ch nướng ti&amp;ecirc;u đen......&lt;/p&gt;</content_html>
 	<createdDate>2021-06-16T08:20:29.461Z</createdDate>
 	<createdDate_dt>2021-06-16T08:20:29.461Z</createdDate_dt>
-	<lastModifiedDate>2021-06-16T08:22:32.315Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-06-16T08:22:32.315Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-06-21T09:22:24.048Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-21T09:22:24.048Z</lastModifiedDate_dt>
+	<isHot_b>false</isHot_b>
+	<slide_o item-list="true">	<item datasource="slide" inline="true">	<key>94a24f04-4e23-9115-614e-6d67f88d54bd</key>
+	<value>S</value>
+<component id="94a24f04-4e23-9115-614e-6d67f88d54bd">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>94a2</objectGroupId>
+	<objectId>94a24f04-4e23-9115-614e-6d67f88d54bd</objectId>
+	<file-name>94a24f04-4e23-9115-614e-6d67f88d54bd.xml</file-name>
+	<internal-name>S</internal-name>
+	<image_s>/static-assets/images/header/bg-app1.jpg</image_s>
+	<createdDate>2021-06-21T09:22:32.009Z</createdDate>
+	<createdDate_dt>2021-06-21T09:22:32.009Z</createdDate_dt>
+	<lastModifiedDate>2021-06-21T09:22:32.009Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-21T09:22:32.009Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
 </page>
