@@ -20,6 +20,24 @@
 &lt;p class="fw-bold" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; color: #212529; font-family: Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 700 !important;"&gt;2. Hạn chế tối đa người ra v&amp;agrave;o trại, 100% người v&amp;agrave;o trại cần phải bỏ to&amp;agrave;n bộ quần &amp;aacute;o thường ng&amp;agrave;y tại vị tr&amp;iacute; quy định, đi qua s&amp;aacute;t tr&amp;ugrave;ng, tắm sạch v&amp;agrave; thay quần &amp;aacute;o bảo hộ lao động, đi ủng bảo hộ trước khi v&amp;agrave;o khu vực chăn nu&amp;ocirc;i.&lt;/p&gt;</content_html>
 	<createdDate>2021-06-17T09:15:26.981Z</createdDate>
 	<createdDate_dt>2021-06-17T09:15:26.981Z</createdDate_dt>
-	<lastModifiedDate>2021-06-17T09:15:26.981Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-06-17T09:15:26.981Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-06-21T09:11:55.176Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-21T09:11:55.176Z</lastModifiedDate_dt>
+	<slide_o item-list="true">	<item datasource="slide" inline="true">	<key>d400716a-11b0-c00e-af2c-e420a6ee373b</key>
+	<value>Slide</value>
+<component id="d400716a-11b0-c00e-af2c-e420a6ee373b">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>d400</objectGroupId>
+	<objectId>d400716a-11b0-c00e-af2c-e420a6ee373b</objectId>
+	<internal-name>Slide</internal-name>
+	<image_s>/static-assets/images/header/bg-app1.jpg</image_s>
+	<file-name>d400716a-11b0-c00e-af2c-e420a6ee373b.xml</file-name>
+	<createdDate>2021-06-21T09:12:01.370Z</createdDate>
+	<createdDate_dt>2021-06-21T09:12:01.370Z</createdDate_dt>
+	<lastModifiedDate>2021-06-21T09:12:01.370Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-21T09:12:01.370Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
 </page>
