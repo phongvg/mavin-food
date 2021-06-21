@@ -19,6 +19,8 @@
     <title>Trang chủ</title>
   </head>
   <body>
+    <section class="bg-wave bg-crown d-none d-lg-block">
+    <@renderComponent component=contentModel.slide_o.item />
     <@renderComponent component=contentModel.header_o.item />
     <main>
         <#list (contentModel.sections_o.item)![] as section>
