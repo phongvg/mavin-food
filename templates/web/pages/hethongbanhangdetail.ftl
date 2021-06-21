@@ -22,7 +22,7 @@
     <section class="sp-block py-4 py-md-5">
       <div class="container">
         <div class="py-3 py-md-5">
-          <h1 class="h4 base-color text-uppercase fw-bold mb-3">Hệ thống bán hàng</h1>
+          <h1 class="h4 base-color text-uppercase fw-bold mb-3"></h1>
           <h2 class="h5 base-color fw-bold mb-3">Hệ thống Đại lý - Nhà phân phối</h2>
           <div class="d-flex mb-4">
             <div class="me-2">
