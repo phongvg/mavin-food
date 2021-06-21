@@ -10,14 +10,14 @@
                 <div class="d-flex justify-content-between mb-4">
                   <div class="me-2 flex-fill">
                     <label for="" class="form-label fw-bold">Tỉnh / Thành phố</label>
-                    <input class="form-control form-control-sm" type="text" placeholder="" aria-label="">
+                    <input class="form-control form-control-sm" id="txtCity" type="text" placeholder="" aria-label="">
                   </div>
                   <div class="me-2 flex-fill">
                     <label for="" class="form-label fw-bold">Quận / Huyện</label>
-                    <input class="form-control form-control-sm" type="text" placeholder="" aria-label="">
+                    <input class="form-control form-control-sm" id="txtDistrict" type="text" placeholder="" aria-label="">
                   </div>
                   <div class="mt-auto">
-                    <button type="button" class="btn btn-sm base-color"><i class="fas fa-search fa-lg"></i></button>
+                    <button type="button" onclick="search()" class="btn btn-sm base-color"><i class="fas fa-search fa-lg"></i></button>
                   </div>
                 </div>
                 <p>Hiện tại hệ thống Đại lý - NPP các sản phẩm của Công ty TNHH Liên doanh Thực phẩm Mavin đã có mặt tại các tỉnh thành miền Bắc, miền Trung (từ Nghệ An trở ra) bao gồm: Hà Giang, Cao Bằng, Lào Cai, Bắc Kạn, Lạng Sơn, Tuyên Quang, Yên Bái, Thái Nguyên, Phú Thọ, Bắc Giang, Lai Châu, Điện Biên, Sơn La, Hòa Bình, Hà Nội, Hải Phòng, Hải Dương, Bắc Ninh, Vĩnh Phúc, Hưng Yên, Thái Bình, Nam Định, Hà Nam, Ninh Bình, Quảng Ninh, Thanh Hóa, Nghệ An.</p>
