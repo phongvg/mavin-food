@@ -17,6 +17,9 @@
     <title>Hệ thống cửa hàng</title>
   </head>
   <body>
+     <#list (contentModel.slide_o.item)![] as slide>
+        <@renderComponent parent=contentModel component=slide />
+    </#list>
     <@renderComponent component=contentModel.header_o.item />
     <!--The div element for the map -->
     <section class="sp-block py-4 py-md-5">
