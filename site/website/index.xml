@@ -13,8 +13,8 @@
 	<folder-name/>
 	<createdDate>2017-1-31T16:18:14.000Z</createdDate>
 	<createdDate_dt>2017-1-31T16:18:14.000Z</createdDate_dt>
-	<lastModifiedDate>2021-06-18T04:05:19.803Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-06-18T04:05:19.803Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-06-21T08:50:49.424Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-21T08:50:49.424Z</lastModifiedDate_dt>
 	<title_t>Mavin-Food</title_t>
 	<sections_o item-list="true">	<item datasource="sections" inline="true">	<key>eae80de2-40f3-601d-7236-b66d34d383a1</key>
 	<value>Giới thiệu - Home</value>
@@ -112,6 +112,23 @@
 	<createdDate_dt>2021-06-01T08:17:53.780Z</createdDate_dt>
 	<lastModifiedDate>2021-06-02T08:09:15.043Z</lastModifiedDate>
 	<lastModifiedDate_dt>2021-06-02T08:09:15.043Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>cf95a65e-6124-dbd7-43d5-8aa49ad44d33</key>
+	<value>Slide</value>
+<component id="cf95a65e-6124-dbd7-43d5-8aa49ad44d33">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>cf95</objectGroupId>
+	<objectId>cf95a65e-6124-dbd7-43d5-8aa49ad44d33</objectId>
+	<file-name>cf95a65e-6124-dbd7-43d5-8aa49ad44d33.xml</file-name>
+	<internal-name>Slide</internal-name>
+	<image_s>/static-assets/images/header/bg-app1.jpg</image_s>
+	<createdDate>2021-06-21T08:51:07.302Z</createdDate>
+	<createdDate_dt>2021-06-21T08:51:07.302Z</createdDate_dt>
+	<lastModifiedDate>2021-06-21T08:51:07.302Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-21T08:51:07.302Z</lastModifiedDate_dt>
 </component>
 	</item></sections_o>
 	<description_t>Trang chủ của mavin-food</description_t>
