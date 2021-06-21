@@ -28,6 +28,24 @@
 &lt;/div&gt;</content_html>
 	<createdDate>2021-06-01T10:30:53.471Z</createdDate>
 	<createdDate_dt>2021-06-01T10:30:53.471Z</createdDate_dt>
-	<lastModifiedDate>2021-06-17T08:45:36.928Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-06-17T08:45:36.928Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-06-21T09:15:08.708Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-21T09:15:08.708Z</lastModifiedDate_dt>
+	<slide_o item-list="true">	<item datasource="slide" inline="true">	<key>4aa26b5a-7b22-c1a4-ebb4-7043ab0e5b3b</key>
+	<value>S</value>
+<component id="4aa26b5a-7b22-c1a4-ebb4-7043ab0e5b3b">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>4aa2</objectGroupId>
+	<objectId>4aa26b5a-7b22-c1a4-ebb4-7043ab0e5b3b</objectId>
+	<file-name>4aa26b5a-7b22-c1a4-ebb4-7043ab0e5b3b.xml</file-name>
+	<internal-name>S</internal-name>
+	<image_s>/static-assets/images/header/bg-app1.jpg</image_s>
+	<createdDate>2021-06-21T09:15:15.745Z</createdDate>
+	<createdDate_dt>2021-06-21T09:15:15.745Z</createdDate_dt>
+	<lastModifiedDate>2021-06-21T09:15:15.745Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-21T09:15:15.745Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
 </page>
