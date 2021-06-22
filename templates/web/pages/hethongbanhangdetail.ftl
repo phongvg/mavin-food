@@ -84,7 +84,7 @@
 
     <!-- Async script executes immediately and must be after any DOM elements used in callback. -->
    <script
-      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDmcY627pR2nJHUAmXeHf7_rWwG3YKSr9M&callback=initMap&libraries=places&v=weekly"
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDmcY627pR2nJHUAmXeHf7_rWwG3YKSr9M&callback=initMap&libraries=places"
       async defer
     ></script>
     <script>
