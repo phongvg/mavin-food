@@ -92,19 +92,20 @@
       // Initialize and add the map
       function initMap() {
         // The location of Uluru
+        var palce = new google.maps.LatLng(20.97059410488552,105.84046558199387);
         // The map, centered at Uluru
         map = new google.maps.Map(document.getElementById("map_canvas"), {
           zoom: 15,
-          center: { lat: 20.97059410488552, lng: 105.84046558199387 },
+          center: place,
         });
         // The marker, positioned at Uluru
         var request = {
-            location: map.getCenter(),
+            location: place,
             radius: 8047,
             types: ['cafe']
           }
         var service = new google.maps.places.PlacesService(map);
-        service.nearbySearch(request, callback);
+        service.textSearch(request, callback);
       }
       function callback(results, status) {
           if (status == google.maps.places.PlacesServiceStatus.OK) {
