@@ -104,7 +104,7 @@
             types: ['cafe']
           }
         var service = new google.maps.places.PlacesService(map);
-        service.textSearch(request, callback);
+        service.nearBySearch(request, callback);
       }
       function callback(results, status) {
           if (status == google.maps.places.PlacesServiceStatus.OK) {
