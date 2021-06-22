@@ -92,7 +92,7 @@
       // Initialize and add the map
       function initMap() {
         // The location of Uluru
-        var place = new google.maps.LatLng(20.97059410488552,105.84046558199387);
+        var place1 = new google.maps.LatLng(20.97059410488552,105.84046558199387);
         // The map, centered at Uluru
         map = new google.maps.Map(document.getElementById("map_canvas"), {
           zoom: 15,
@@ -100,7 +100,7 @@
         });
         // The marker, positioned at Uluru
         var request = {
-            location: place,
+            location: place1,
             radius: 8047,
             types: ['cafe']
           }
