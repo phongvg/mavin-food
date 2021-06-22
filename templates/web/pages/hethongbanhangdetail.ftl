@@ -84,7 +84,7 @@
 
     <!-- Async script executes immediately and must be after any DOM elements used in callback. -->
    <script
-      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDmcY627pR2nJHUAmXeHf7_rWwG3YKSr9M&libraries=places&callback=initMap"
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDmcY627pR2nJHUAmXeHf7_rWwG3YKSr9M&callback=initMap&libraries=places"
       async defer
     ></script>
     <script>
@@ -92,7 +92,7 @@
       // Initialize and add the map
       function initMap() {
         // The location of Uluru
-        var palce = new google.maps.LatLng(20.97059410488552,105.84046558199387);
+        var place = new google.maps.LatLng(20.97059410488552,105.84046558199387);
         // The map, centered at Uluru
         map = new google.maps.Map(document.getElementById("map_canvas"), {
           zoom: 15,
