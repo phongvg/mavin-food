@@ -88,37 +88,40 @@
       async defer
     ></script>
     <script>
-     function initMap(){
-         var map;
-        var infowindow;
-        var myPlace = {lat: 20.97059410488552, lng: 105.84046558199387};
-        
+      // Initialize and add the map
+      function initMap() {
+        // The location of Uluru
+        var myplace = { lat: 20.97059410488552, lng: 105.84046558199387 };
+        // The map, centered at Uluru
+        var map = new google.maps.Map(document.getElementById("map_canvas"), {
+          zoom: 15,
+          center: myplace,
+        });
+        // The marker, positioned at Uluru
+        var request = {
+            location: map.getCenter(),
+            radius: 8047,
+            types: ['cafe']
+          }
         var service = new google.maps.places.PlacesService(map);
-            service.nearbySearch({
-                location : myPlace,
-                radius : 5500,
-                type : [ 'restaurant' ]
-            }, callback);
-     }
-     function callback(results, status) {
-            if (status === google.maps.places.PlacesServiceStatus.OK) {
-                for (var i = 0; i < results.length; i++) {
-                    createMarker(results[i]);
-                }
+        service.nearbySearch(request, callback);
+      }
+      function callback(results, status) {
+          if (status == google.maps.places.PlacesServiceStatus.OK) {
+            console.log(results.length);
+            for (var i = 0; i < results.length; i++) {
+              createMarker(results[i]);
             }
+          }
         }
-
-    function createMarker(place) {
-            var placeLoc = place.geometry.location;
-            var marker = new google.maps.Marker({
-                map : map,
-                position : place.geometry.location
-            });
-
-            google.maps.event.addListener(marker, 'click', function() {
-                infowindow.setContent(place.name);
-                infowindow.open(map, this);
-            });
+        
+        function createMarker(place) {
+          var placeLoc = place.geometry.location;
+          var marker = new google.maps.Marker({
+            map: map,
+            position: place.geometry.location,
+            title: place.name
+          })
         }
     </script>
   </body>
