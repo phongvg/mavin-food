@@ -100,9 +100,9 @@
         map = new google.maps.Map(document.getElementById("map_canvas"), {
           zoom: 15,
           center: {
-              lat:40.0519752,
-            lng: -76.314270999999
-          },
+              lat:20.97059410488552,
+              lng: 105.84046558199387
+          }
         });
         // The marker, positioned at Uluru
         var request = {
