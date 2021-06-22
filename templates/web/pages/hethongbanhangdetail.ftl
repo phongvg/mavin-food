@@ -31,7 +31,7 @@
           <div class="d-flex mb-4">
             <div class="me-2">
               <label for="" class="form-label fw-bold">Tỉnh / Thành phố</label>
-              <input class="form-control form-control-sm" type="text" placeholder="" aria-label="">
+              <input class="form-control form-control-sm" id="searchTextField" type="text" placeholder="" aria-label="">
             </div>
             <div class="me-2">
               <label for="" class="form-label fw-bold">Quận / Huyện</label>
@@ -83,21 +83,14 @@
     <@renderComponent component=contentModel.footer_o.item />
 
     <!-- Async script executes immediately and must be after any DOM elements used in callback. -->
-   <script type="text/javascript"
-            src="http://maps.google.com/maps/api/js?sensor=true">
-    </script>
-
-
-    <script>
-        window.onload = function WindowLoad(event) {
-            var myLatlng = new google.maps.LatLng(21.0225715, 105.7842851);
-            var myOptions = {
-                zoom: 8,
-                center: myLatlng,
-                mapTypeId: google.maps.MapTypeId.ROADMAP
-            }
-            var map = new google.maps.Map(document.getElementById("map_canvas"), myOptions);
-        }
-    </script>
+   <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false&libraries=places"></script>
+   <script>
+    function initialize() {
+      var input = document.getElementById('searchTextField');
+      new google.maps.places.Autocomplete(input);
+    }
+    
+    google.maps.event.addDomListener(window, 'load', initialize);
+   </script>
   </body>
 </html>
