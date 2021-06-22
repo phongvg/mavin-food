@@ -83,14 +83,26 @@
     <@renderComponent component=contentModel.footer_o.item />
 
     <!-- Async script executes immediately and must be after any DOM elements used in callback. -->
-   <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false&libraries=places"></script>
-   <script>
-    function initialize() {
-      var input = document.getElementById('searchTextField');
-      new google.maps.places.Autocomplete(input);
-    }
-    
-    google.maps.event.addDomListener(window, 'load', initialize);
-   </script>
+   <script
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDmcY627pR2nJHUAmXeHf7_rWwG3YKSr9M&callback=initMap&libraries=&v=weekly"
+      async
+    ></script>
+    <script>
+      // Initialize and add the map
+      function initMap() {
+        // The location of Uluru
+        const uluru = { lat: -25.344, lng: 131.036 };
+        // The map, centered at Uluru
+        const map = new google.maps.Map(document.getElementById("map_canvas"), {
+          zoom: 4,
+          center: uluru,
+        });
+        // The marker, positioned at Uluru
+        const marker = new google.maps.Marker({
+          position: uluru,
+          map: map,
+        });
+      }
+    </script>
   </body>
 </html>
