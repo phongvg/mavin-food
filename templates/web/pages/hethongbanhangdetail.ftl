@@ -84,25 +84,50 @@
 
     <!-- Async script executes immediately and must be after any DOM elements used in callback. -->
    <script
-      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDmcY627pR2nJHUAmXeHf7_rWwG3YKSr9M&callback=initMap&libraries=&v=weekly"
-      async
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDmcY627pR2nJHUAmXeHf7_rWwG3YKSr9M&callback=initMap&libraries=places&v=weekly"
+      async defer
     ></script>
     <script>
-      // Initialize and add the map
-      function initMap() {
-        // The location of Uluru
-        const uluru = { lat: 20.97059410488552, lng: 105.84046558199387 };
-        // The map, centered at Uluru
+     function initMap(){
+         var map;
+        var infowindow;
+        var myPlace = {lat: 20.97059410488552, lng: 105.84046558199387};
         const map = new google.maps.Map(document.getElementById("map_canvas"), {
           zoom: 15,
-          center: uluru,
+          center: myPlace,
         });
         // The marker, positioned at Uluru
         const marker = new google.maps.Marker({
-          position: uluru,
+          position: myPlace,
           map: map,
         });
-      }
+        var service = new google.maps.places.PlacesService(map);
+            service.nearbySearch({
+                location : myPlace,
+                radius : 5500,
+                type : [ 'restaurant' ]
+            }, callback);
+     }
+     function callback(results, status) {
+            if (status === google.maps.places.PlacesServiceStatus.OK) {
+                for (var i = 0; i < results.length; i++) {
+                    createMarker(results[i]);
+                }
+            }
+        }
+
+    function createMarker(place) {
+            var placeLoc = place.geometry.location;
+            var marker = new google.maps.Marker({
+                map : map,
+                position : place.geometry.location
+            });
+
+            google.maps.event.addListener(marker, 'click', function() {
+                infowindow.setContent(place.name);
+                infowindow.open(map, this);
+            });
+        }
     </script>
   </body>
 </html>
