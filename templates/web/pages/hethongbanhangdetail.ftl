@@ -91,11 +91,15 @@
         var map;
       // Initialize and add the map
       function initMap() {
+         var map;
+      // Initialize and add the map
+      function initMap() {
         // The location of Uluru
+        var h = new google.maps.LatLng(20.97059410488552,105.84046558199387);
         // The map, centered at Uluru
         map = new google.maps.Map(document.getElementById("map_canvas"), {
           zoom: 15,
-          center: {lat: 20.97059410488552,lng: 105.84046558199387},
+          center: h,
         });
         // The marker, positioned at Uluru
         var request = {
@@ -104,7 +108,7 @@
             types: ['cafe']
           }
         var service = new google.maps.places.PlacesService(map);
-        service.textSearch(request, callback);
+        service.nearbySearch(request, callback);
       }
       function callback(results, status) {
           if (status == google.maps.places.PlacesServiceStatus.OK) {
@@ -116,10 +120,11 @@
         }
         
         function createMarker(place) {
+          var placeLoc = place.geometry.location;
           var marker = new google.maps.Marker({
             map: map,
-            position: place,
-            icon: 'https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png'
+            position: place.geometry.location,
+            title: place.name
           })
         }
     </script>
