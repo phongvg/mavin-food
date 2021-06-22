@@ -117,11 +117,10 @@
         }
         
         function createMarker(place) {
-          var placeLoc = place.geometry.location;
           var marker = new google.maps.Marker({
             map: map,
-            position: place.geometry.location,
-            title: place.name
+            position: place,
+            icon: 'https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png'
           })
         }
     </script>
