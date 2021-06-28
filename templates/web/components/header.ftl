@@ -7,7 +7,7 @@
               <a class="text-white" href="#"><i class="fas fa-search"></i></a>
             </div>
         </div> <!-- /Utilities -->
-        
+        </section>
         <div class="container">
         <div class="position-relative vh-100 d-none d-lg-block">
           <div class="position-absolute end-0 nav-top">
@@ -34,7 +34,7 @@
           </div>
         </div>
       </div>
-      </section>
+      
     <!-- /Background Wave -->
     
      <!-- /Navbar -->
