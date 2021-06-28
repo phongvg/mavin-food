@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/pagehethongbanhangchitiet</content-type>
+	<display-template>/templates/web/pages/hethongbanhangdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>ab16</objectGroupId>
+	<objectId>ab16df31-1186-0a88-2562-22c06fd387b2</objectId>
+	<internal-name>Hệ thống bán hàng siêu thị </internal-name>
+	<navLabel>Hệ thống bán hàng siêu thị </navLabel>
+	<title_s>Hệ thống siêu thị</title_s>
+	<file-name>index.xml</file-name>
+	<folder-name>he-thong-ban-hang-sieu-thi</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<slide_o item-list="true">	<item datasource="slide" inline="true">	<key>7a362f16-334e-d1c5-c66b-aca83ae071e8</key>
+	<value>Slide</value>
+<component id="7a362f16-334e-d1c5-c66b-aca83ae071e8">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>7a36</objectGroupId>
+	<objectId>7a362f16-334e-d1c5-c66b-aca83ae071e8</objectId>
+	<file-name>7a362f16-334e-d1c5-c66b-aca83ae071e8.xml</file-name>
+	<internal-name>Slide</internal-name>
+	<image_s>/static-assets/images/header/bg-app8.jpg</image_s>
+	<createdDate>2021-06-28T02:48:24.861Z</createdDate>
+	<createdDate_dt>2021-06-28T02:48:24.861Z</createdDate_dt>
+	<lastModifiedDate>2021-06-28T02:48:24.861Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-28T02:48:24.861Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+	<createdDate>2021-06-28T02:43:11.825Z</createdDate>
+	<createdDate_dt>2021-06-28T02:43:11.825Z</createdDate_dt>
+	<lastModifiedDate>2021-06-28T02:43:11.825Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-28T02:43:11.825Z</lastModifiedDate_dt>
+</page>
