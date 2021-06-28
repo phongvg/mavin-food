@@ -22,6 +22,7 @@
         <@renderComponent parent=contentModel component=slide />
     </#list>
     <@renderComponent component=contentModel.header_o.item />
+    </section
     <!--The div element for the map -->
     <section class="sp-block py-4 py-md-5">
       <div class="container">
