@@ -26,7 +26,7 @@ See https://github.com/adobe-type-tools/cmap-resources
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="google" content="notranslate">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>${contentModel.pDFfile_o.item.key}</title>
+    <title>${contentModel.pdffile_o.item.key}</title>
 
 
     <link rel="stylesheet" href="/static-assets/plugins/pdf-viewer-master/external/pdfjs-21266-dist/web/viewer.css">
@@ -49,7 +49,7 @@ See https://github.com/adobe-type-tools/cmap-resources
   </head>
 
   <body tabindex="1" class="loadingInProgress">
-    <input hidden value="${contentModel.pDFfile_o.item.key}" id="pdf-file"/>
+    <input hidden value="${contentModel.pdffile_o.item.key}" id="pdf-file"/>
     <div id="outerContainer">
       <div id="sidebarContainer">
         <div id="toolbarSidebar">
