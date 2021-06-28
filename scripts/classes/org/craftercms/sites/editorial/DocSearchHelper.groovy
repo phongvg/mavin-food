@@ -8,7 +8,7 @@ import org.elasticsearch.search.builder.SearchSourceBuilder
 import org.elasticsearch.search.sort.FieldSortBuilder
 import org.elasticsearch.search.sort.SortOrder
 
-class NewsSearchHelper{
+class DocSearchHelper{
     static final String NEWS_CONTENT_TYPE ="content-type:\"/page/thuvientailieu\" "
     static final int DEFAULT_START = 0
     static final int DEFAULT_ROWS  = 1000
@@ -16,12 +16,12 @@ class NewsSearchHelper{
     def elasticsearch
     UrlTransformationService UrlTransformationService
     
-    NewsSearchHelper(elasticsearch, UrlTransformationService urlTransformationService) {
+    DocSearchHelper(elasticsearch, UrlTransformationService urlTransformationService) {
         this.elasticsearch = elasticsearch
         this.urlTransformationService = urlTransformationService
     }
     
-    def searchNews(categories, start = DEFAULT_START, rows = DEFAULT_ROWS, additionalCriteria = null){
+    def searchDoc(categories, start = DEFAULT_START, rows = DEFAULT_ROWS, additionalCriteria = null){
         def q = "${NEWS_CONTENT_TYPE}"
         if(categories){
             def categoriesQuery = getFieldQueryWithMultipleValues("categories_o.item.key",categories)
@@ -40,12 +40,12 @@ class NewsSearchHelper{
         def result = elasticsearch.search(new SearchRequest().source(builder))
 
         if(result){
-            return processNewsListingResults(result)
+            return processDocListingResults(result)
         }else{
             return[]
         }
     }
-    def processNewsListingResults(result){
+    def processDocListingResults(result){
         def docs= []
         def documents = result.hits.hits*.getSourceAsMap()
         if (documents){
