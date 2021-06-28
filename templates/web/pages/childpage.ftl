@@ -84,6 +84,13 @@
     <script src="/static-assets/vendor/slick-1-8-1/slick/slick.min.js"></script>
     
     <script type="text/javascript">
+        $('.single-slider').slick({
+        arrows: true,
+        infinite: true,
+        speed: 300,
+        slidesToShow: 1,
+        adaptiveHeight: true
+      });
         $(document).ready(function() {
             $('#close-success').click(() => {
                 $('#success-dialog').hide();
