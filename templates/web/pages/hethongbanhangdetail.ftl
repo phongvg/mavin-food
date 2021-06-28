@@ -27,8 +27,8 @@
     <section class="sp-block py-4 py-md-5">
       <div class="container">
         <div class="py-3 py-md-5">
-          <h1 class="h4 base-color text-uppercase fw-bold mb-3">${contentModel.title_s}</h1>
-          <h2 class="h5 base-color fw-bold mb-3">Hệ thống Đại lý - Nhà phân phối</h2>
+          <h1 class="h4 base-color text-uppercase fw-bold mb-3">Hệ thống bán hàng</h1>
+          <h2 class="h5 base-color fw-bold mb-3">${contentModel.title_s}</h2>
           <div class="d-flex mb-4">
             <div class="me-2">
               <label for="" class="form-label fw-bold">Tỉnh / Thành phố</label>
