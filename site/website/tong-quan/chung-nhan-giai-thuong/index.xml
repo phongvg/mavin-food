@@ -38,8 +38,8 @@
 	</item></section_o>
 	<createdDate>2021-06-14T07:20:04.450Z</createdDate>
 	<createdDate_dt>2021-06-14T07:20:04.450Z</createdDate_dt>
-	<lastModifiedDate>2021-06-21T09:37:03.570Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-06-21T09:37:03.570Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-06-21T11:13:56.050Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-21T11:13:56.050Z</lastModifiedDate_dt>
 	<slide_o item-list="true">	<item datasource="sections" inline="true">	<key>7f73c6ea-078d-3765-fcb5-399d713ade9c</key>
 	<value>S</value>
 <component id="7f73c6ea-078d-3765-fcb5-399d713ade9c">
@@ -51,11 +51,11 @@
 	<objectId>7f73c6ea-078d-3765-fcb5-399d713ade9c</objectId>
 	<internal-name>S</internal-name>
 	<file-name>7f73c6ea-078d-3765-fcb5-399d713ade9c.xml</file-name>
-	<image_s>/static-assets/images/header/bg-app1.jpg</image_s>
+	<image_s>/static-assets/images/header/bg-app2.jpg</image_s>
 	<createdDate>2021-06-21T09:37:09.606Z</createdDate>
 	<createdDate_dt>2021-06-21T09:37:09.606Z</createdDate_dt>
-	<lastModifiedDate>2021-06-21T09:37:09.606Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-06-21T09:37:09.606Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-06-21T11:14:01.031Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-21T11:14:01.031Z</lastModifiedDate_dt>
 </component>
 	</item></slide_o>
 </page>
