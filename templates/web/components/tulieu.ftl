@@ -15,12 +15,15 @@
                       <div class="fs-6 mt-3 mb-1">${contentModel.p1title_s}</div>
                       <#--<div class="text-muted">04.01.2020</div>-->
                     </div>
+                  </div>
+                  <div class="item">
                      <div class="d-flex flex-column">
                       <img class="img-thumbnail" src="${contentModel.p2image_s}" alt="">
                       <div class="fs-6 mt-3 mb-1">${contentModel.p2title_s}</div>
                       <#--<div class="text-muted">04.01.2020</div>-->
                     </div>
                   </div>
+                 </div>
 
                 </div>
               </div>
