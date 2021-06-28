@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/thuvienanh</content-type>
+	<display-template>/templates/web/pages/thuvienanh.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>a424</objectGroupId>
+	<objectId>a42482f6-cb0a-bebc-7279-c84d3f2f7ea4</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>hinh-anh</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<internal-name>Thư viện hình ảnh</internal-name>
+	<navLabel>Thư viện hình ảnh</navLabel>
+	<title_s>Thư viện hình ảnh</title_s>
+	<lib_o item-list="true">	<item>	<name_s>Galo tổng kết năm 2021</name_s>
+	<image_s>/static-assets/images/thu-vien/media-1.jpg</image_s>
+	<date_dt>2020-01-04T05:00:00.000Z</date_dt>
+	<date_dt_tz>EST5EDT</date_dt_tz>
+	</item>	<item>	<name_s>Galo tổng kết năm 2021</name_s>
+	<image_s>/static-assets/images/thu-vien/media-1.jpg</image_s>
+	<date_dt>2020-01-04T05:00:00.000Z</date_dt>
+	<date_dt_tz>EST5EDT</date_dt_tz>
+	</item>	<item>	<name_s>Galo tổng kết năm 2021</name_s>
+	<image_s>/static-assets/images/thu-vien/media-1.jpg</image_s>
+	<date_dt>2020-01-04T05:00:00.000Z</date_dt>
+	<date_dt_tz>EST5EDT</date_dt_tz>
+	</item>	<item>	<name_s>Galo tổng kết năm 2021</name_s>
+	<image_s>/static-assets/images/thu-vien/media-1.jpg</image_s>
+	<date_dt>2020-01-04T05:00:00.000Z</date_dt>
+	<date_dt_tz>EST5EDT</date_dt_tz>
+	</item>	<item>	<name_s>Galo tổng kết năm 2021</name_s>
+	<image_s>/static-assets/images/thu-vien/media-1.jpg</image_s>
+	<date_dt>2020-01-04T05:00:00.000Z</date_dt>
+	<date_dt_tz>EST5EDT</date_dt_tz>
+	</item>	<item>	<name_s>Galo tổng kết năm 2021</name_s>
+	<image_s>/static-assets/images/thu-vien/media-1.jpg</image_s>
+	<date_dt>2020-01-04T05:00:00.000Z</date_dt>
+	<date_dt_tz>EST5EDT</date_dt_tz>
+	</item></lib_o>
+	<createdDate>2021-06-28T04:28:20.852Z</createdDate>
+	<createdDate_dt>2021-06-28T04:28:20.852Z</createdDate_dt>
+	<lastModifiedDate>2021-06-28T04:28:20.852Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-28T04:28:20.852Z</lastModifiedDate_dt>
+</page>
