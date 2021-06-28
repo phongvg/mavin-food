@@ -73,7 +73,7 @@
                   </div>
                   <div class="item">
                     <div class="d-flex flex-column">
-                      <img class="img-thumbnail" src="${contentModel.d2image_s}" alt="">
+                      <img class="img-thumbnail" src="${contentModel.d2Image_s}" alt="">
                       <div class="fs-6 mt-3 mb-1">${contentModel.d2title_s}</div>
                       
                     </div>
