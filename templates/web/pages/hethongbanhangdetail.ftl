@@ -71,7 +71,7 @@
               </div>
             </div>
             <div class="col">
-              <div id="map_canvas" style="width:484px;height:800px;"></div>
+              <img class="img-fluid" src="/static-assets/dist/images/g-map.jpg">
             </div>
           </div>
         </div>
