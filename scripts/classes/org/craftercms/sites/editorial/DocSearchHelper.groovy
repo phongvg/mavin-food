@@ -51,7 +51,7 @@ class DocSearchHelper{
         if (documents){
             documents.each { doc ->
                 def adoc = [:]
-                    adoc.title = doc.name_s
+                    adoc.name = doc.name_s
                     adoc.image = doc.image_s
                     adoc.url = urlTransformationService.transform("storeUrlToRenderUrl", doc.localId)
                 docs << adoc
