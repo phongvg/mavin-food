@@ -43,6 +43,13 @@
                       
                     </div>
                   </div>
+                  <div class="item">
+                    <div class="d-flex flex-column">
+                      <img class="img-thumbnail" src="${contentModel.v2image_s}" alt="">
+                      <div class="fs-6 mt-3 mb-1">${contentModel.v2title_s}</div>
+                      
+                    </div>
+                  </div>
                 </div>
               </div>
             </div>
@@ -64,6 +71,13 @@
                       
                     </div>
                   </div>
+                  <div class="item">
+                    <div class="d-flex flex-column">
+                      <img class="img-thumbnail" src="${contentModel.d2image_s}" alt="">
+                      <div class="fs-6 mt-3 mb-1">${contentModel.d2title_s}</div>
+                      
+                    </div>
+                  </div>
                 </div>
               </div>
             </div>
@@ -71,12 +85,4 @@
         </div>
       </div>
     </section>
-    <script type="text/javascript">
-      $('.single-slider').slick({
-        arrows: true,
-        infinite: true,
-        speed: 300,
-        slidesToShow: 1,
-        adaptiveHeight: true
-      });
-    </script>
+    
