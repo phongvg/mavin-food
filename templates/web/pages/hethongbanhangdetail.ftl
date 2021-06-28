@@ -83,50 +83,5 @@
     <@renderComponent component=contentModel.footer_o.item />
 
     <!-- Async script executes immediately and must be after any DOM elements used in callback. -->
-   <script
-      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCuSQW7frGCKJ7Z4aU3azFKR9iMel18Nl4&callback=initMap&libraries=places"
-      async defer
-    ></script>
-    <script>
-        var map;
-      // Initialize and add the map
-      function initMap() {
-        // The location of Uluru
-        var h = new google.maps.LatLng(20.97059410488552,105.84046558199387);
-        // The map, centered at Uluru
-        map = new google.maps.Map(document.getElementById("map_canvas"), {
-          zoom: 15,
-          center: {
-              lat:20.97059410488552,
-              lng: 105.84046558199387
-          }
-        });
-        // The marker, positioned at Uluru
-        var request = {
-            location: map.getCenter(),
-            radius: 8047,
-            types: ['cafe']
-          }
-        var service = new google.maps.places.PlacesService(map);
-        service.nearbySearch(request, callback);
-      }
-      function callback(results, status) {
-          if (status == google.maps.places.PlacesServiceStatus.OK) {
-            console.log(results.length);
-            for (var i = 0; i < results.length; i++) {
-              createMarker(results[i]);
-            }
-          }
-        }
-        
-        function createMarker(place) {
-          var placeLoc = place.geometry.location;
-          var marker = new google.maps.Marker({
-            map: map,
-            position: place.geometry.location,
-            title: place.name
-          })
-        }
-    </script>
   </body>
 </html>
