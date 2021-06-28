@@ -71,3 +71,12 @@
         </div>
       </div>
     </section>
+    <script type="text/javascript">
+      $('.single-slider').slick({
+        arrows: true,
+        infinite: true,
+        speed: 300,
+        slidesToShow: 1,
+        adaptiveHeight: true
+      });
+    </script>
