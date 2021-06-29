@@ -13,8 +13,8 @@
 	<folder-name/>
 	<createdDate>2017-1-31T16:18:14.000Z</createdDate>
 	<createdDate_dt>2017-1-31T16:18:14.000Z</createdDate_dt>
-	<lastModifiedDate>2021-06-29T11:12:22.235Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-06-29T11:12:22.235Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-06-29T11:17:27.526Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-29T11:17:27.526Z</lastModifiedDate_dt>
 	<title_t>Mavin-Food</title_t>
 	<sections_o item-list="true">	<item datasource="sections" inline="true">	<key>eae80de2-40f3-601d-7236-b66d34d383a1</key>
 	<value>Giới thiệu - Home</value>
@@ -54,32 +54,32 @@
 	<objectId>602a4487-a099-b354-32fc-4bb84ddede22</objectId>
 	<products_o item-list="true">	<item>	<name_s>Xúc xích</name_s>
 	<image_s>/static-assets/images/home/xuc-xich.png</image_s>
-	<link_s>page=/san-pham/xuc-xich&amp;site=mavin-food-2</link_s>
+	<link_s>/san-pham/xuc-xich</link_s>
 	</item>	<item>	<name_s>Đồ viên</name_s>
 	<image_s>/static-assets/images/home/do-vien.png</image_s>
-	<link_s>#</link_s>
+	<link_s>/san-pham/do-vien</link_s>
 	</item>	<item>	<name_s>Giò chả</name_s>
 	<image_s>/static-assets/images/home/gio-cha.png</image_s>
-	<link_s>#</link_s>
+	<link_s>/san-pham/gio-cha</link_s>
 	</item>	<item>	<name_s>Cắt lát</name_s>
 	<image_s>/static-assets/images/home/cat-lat.png</image_s>
 	<link_s>#</link_s>
 	</item>	<item>	<name_s>Sản phẩm khác</name_s>
 	<image_s>/static-assets/images/home/sp-khac.png</image_s>
-	<link_s>#</link_s>
+	<link_s>/san-pham/cat-lat</link_s>
 	</item>	<item>	<name_s>Xúc xích</name_s>
 	<image_s>/static-assets/images/home/cat-lat.png</image_s>
-	<link_s>#</link_s>
+	<link_s>/san-pham/xuc-xich</link_s>
 	</item>	<item>	<name_s>Xúc xích</name_s>
 	<image_s>/static-assets/images/home/sp-khac.png</image_s>
-	<link_s/>
+	<link_s>/san-pham/sp-khac</link_s>
 	</item></products_o>
 	<file-name>602a4487-a099-b354-32fc-4bb84ddede22.xml</file-name>
 	<internal-name>Sản Phẩm - Home</internal-name>
 	<createdDate>2021-06-01T07:20:23.678Z</createdDate>
 	<createdDate_dt>2021-06-01T07:20:23.678Z</createdDate_dt>
-	<lastModifiedDate>2021-06-29T11:12:28.452Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-06-29T11:12:28.452Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-06-29T11:17:31.586Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-29T11:17:31.586Z</lastModifiedDate_dt>
 	<featPro_o item-list="true">	<item>	<link_s>#</link_s>
 	<image_s>/static-assets/images/home/2.jpg</image_s>
 	</item>	<item>	<link_s>#</link_s>
