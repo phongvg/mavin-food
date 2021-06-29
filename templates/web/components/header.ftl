@@ -37,7 +37,7 @@
               <a class="nav-link" href="/he-thong-ban-hang">Hệ thống bán hàng</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="/tuyen-dunng">Tuyển dụng</a>
+              <a class="nav-link" href="/tuyen-dung">Tuyển dụng</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="/lien-he">Liên hệ</a>
