@@ -22,25 +22,25 @@
         <div class="collapse navbar-collapse justify-content-center" id="navbar-mf">
           <ul class="navbar-nav mb-2 mb-lg-0">
             <li class="nav-item">
-              <a class="nav-link active" aria-current="page" href="#">Trang chủ</a>
+              <a class="nav-link active" aria-current="page" href="/">Trang chủ</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Tổng quan</a>
+              <a class="nav-link" href="/tong-quan">Tổng quan</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Sản phẩm</a>
+              <a class="nav-link" href="/san-pham">Sản phẩm</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Tin tức</a>
+              <a class="nav-link" href="/ban-tin">Tin tức</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Hệ thống bán hàng</a>
+              <a class="nav-link" href="/he-thong-ban-hang">Hệ thống bán hàng</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Tuyển dụng</a>
+              <a class="nav-link" href="/tuyen-dunng">Tuyển dụng</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Liên hệ</a>
+              <a class="nav-link" href="/lien-he">Liên hệ</a>
             </li>
           </ul>
         </div>
