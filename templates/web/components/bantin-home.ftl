@@ -7,7 +7,7 @@
               <a href="#"><img class="w-100 h-auto" src="/static-assets/dist/temp/7.jpg" alt=""></a>
               <div class="row g-0 mt-2 mb-3">
                 <div class="col">
-                  <a class="d-block px-3 py-2 base-bg-color fw-bold text-white" href="#">MAVIN FOODS - Mắt xích quan trọng  của chuỗi giá trị “Từ Nông trại tới Bàn ăn”</a>
+                  <a class="d-block px-3 py-2 base-bg-color fw-bold text-white" href="/ban-tin">MAVIN FOODS - Mắt xích quan trọng  của chuỗi giá trị “Từ Nông trại tới Bàn ăn”</a>
                 </div>
                 <div class="col-auto">
                   <a class="d-flex align-items-center h-100 px-3 py-2 bg-orange base-color" href="#">
@@ -17,19 +17,19 @@
               </div>
               <ul class="list-unstyled list-mf mb-0">
                 <li>
-                  <a class="text-muted" href="#">
+                  <a class="text-muted" href="/ban-tin/tin1">
                     <span class="d-block text-uppercase">ERP MAVIN FOODS</span>
                     Triển khai ứng dụng hệ thống phần mềm ERP cho ngành thực phẩm chế biến
                   </a>
                 </li>
                 <li>
-                  <a class="text-muted" href="#">
+                  <a class="text-muted" href="/ban-tin/tin1">
                     <span class="d-block text-uppercase">ERP MAVIN FOODS</span>
                     Triển khai ứng dụng hệ thống phần mềm ERP cho ngành thực phẩm chế biến
                   </a>
                 </li>
                 <li>
-                  <a class="text-muted" href="#">
+                  <a class="text-muted" href="/ban-tin/tin1">
                     <span class="d-block text-uppercase">ERP MAVIN FOODS</span>
                     Triển khai ứng dụng hệ thống phần mềm ERP cho ngành thực phẩm chế biến
                   </a>
@@ -55,7 +55,7 @@
                 <div class="tab-content" id="pills-tabContent">
                   <div class="tab-pane fade show active" id="pills-gallery" role="tabpanel" aria-labelledby="pills-gallery-tab">
                     <div class="content">
-                      <a href="#"><img class="w-100 h-auto" src="/static-assets/dist/temp/7.jpg" alt=""></a>
+                      <a href="/thu-vien"><img class="w-100 h-auto" src="/static-assets/dist/temp/7.jpg" alt=""></a>
                     </div>
                   </div>
                   <div class="tab-pane fade" id="pills-video" role="tabpanel" aria-labelledby="pills-video-tab">Video</div>
@@ -64,19 +64,19 @@
               </div>
               <ul class="list-unstyled list-mf mb-0">
                 <li>
-                  <a class="text-muted" href="#">
+                  <a class="text-muted" href="/thu-vien/hinh-anh">
                     <span class="d-block text-uppercase">ERP MAVIN FOODS</span>
                     Triển khai ứng dụng hệ thống phần mềm ERP cho ngành thực phẩm chế biến
                   </a>
                 </li>
                 <li>
-                  <a class="text-muted" href="#">
+                  <a class="text-muted" href="/thu-vien/tai-lieu">
                     <span class="d-block text-uppercase">ERP MAVIN FOODS</span>
                     Triển khai ứng dụng hệ thống phần mềm ERP cho ngành thực phẩm chế biến
                   </a>
                 </li>
                 <li>
-                  <a class="text-muted" href="#">
+                  <a class="text-muted" href="/thu-vien/video">
                     <span class="d-block text-uppercase">ERP MAVIN FOODS</span>
                     Triển khai ứng dụng hệ thống phần mềm ERP cho ngành thực phẩm chế biến
                   </a>
