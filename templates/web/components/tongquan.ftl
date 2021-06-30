@@ -82,8 +82,8 @@
               <a href="/tong-quan/tam-nhin-su-menh"><img src="/static-assets/dist/temp/tam-nhin.jpg" alt="" class="img-thumbnail shadow-sm"></a>
             </div>
             <div class="col-md-6 mb-4 mb-md-0">
-              <h3 class="h5"><a class="text-uppercase fw-bold base-color" href="#">sứ mệnh</a></h3>
-              <a href="#"><img src="/static-assets/dist/temp/su-menh.jpg" alt="" class="img-thumbnail shadow-sm"></a>
+              <h3 class="h5"><a class="text-uppercase fw-bold base-color" href="/tong-quan/tam-nhin-su-menh">sứ mệnh</a></h3>
+              <a href="/tong-quan/tam-nhin-su-menh"><img src="/static-assets/dist/temp/su-menh.jpg" alt="" class="img-thumbnail shadow-sm"></a>
             </div>
           </div>
         </div>
