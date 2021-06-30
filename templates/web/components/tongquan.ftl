@@ -65,21 +65,21 @@
           </div>
           <div class="row">
             <div class="col-md-4">
-              <a class="btn btn-lg w-100 text-white rounded-0 base-bg-color text-uppercase fw-bold mb-4 mb-md-0" href="#">quy trình sản xuất</a>
+              <a class="btn btn-lg w-100 text-white rounded-0 base-bg-color text-uppercase fw-bold mb-4 mb-md-0" href="/tong-quan/quy-trinh-ss">quy trình sản xuất</a>
             </div>
             <div class="col-md-4">
-              <a class="btn btn-lg w-100 text-white rounded-0 base-bg-color text-uppercase fw-bold mb-4 mb-md-0" href="#">chứng chỉ - giải thưởng</a>
+              <a class="btn btn-lg w-100 text-white rounded-0 base-bg-color text-uppercase fw-bold mb-4 mb-md-0" href="/tong-quan/chung-nhan-giai-thuong">chứng chỉ - giải thưởng</a>
             </div>
             <div class="col-md-4">
-              <a class="btn btn-lg w-100 text-white rounded-0 base-bg-color text-uppercase fw-bold mb-4 mb-md-0" href="#">công bố sản phẩm</a>
+              <a class="btn btn-lg w-100 text-white rounded-0 base-bg-color text-uppercase fw-bold mb-4 mb-md-0" href="/tong-quan/cong-bo-san-pham">công bố sản phẩm</a>
             </div>
           </div>
         </div>
         <div class="py-3 pt-md-5">
           <div class="row">
             <div class="col-md-6 mb-4 mb-md-0">
-              <h3 class="h5"><a class="text-uppercase fw-bold base-color" href="#">tầm nhìn</a></h3>
-              <a href="#"><img src="/static-assets/dist/temp/tam-nhin.jpg" alt="" class="img-thumbnail shadow-sm"></a>
+              <h3 class="h5"><a class="text-uppercase fw-bold base-color" href="/tong-quan/tam-nhin-su-menh">tầm nhìn</a></h3>
+              <a href="/tong-quan/tam-nhin-su-menh"><img src="/static-assets/dist/temp/tam-nhin.jpg" alt="" class="img-thumbnail shadow-sm"></a>
             </div>
             <div class="col-md-6 mb-4 mb-md-0">
               <h3 class="h5"><a class="text-uppercase fw-bold base-color" href="#">sứ mệnh</a></h3>
