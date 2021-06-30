@@ -10,26 +10,26 @@
                   <a class="d-block px-3 py-2 base-bg-color fw-bold text-white" href="/ban-tin">MAVIN FOODS - Mắt xích quan trọng  của chuỗi giá trị “Từ Nông trại tới Bàn ăn”</a>
                 </div>
                 <div class="col-auto">
-                  <a class="d-flex align-items-center h-100 px-3 py-2 bg-orange base-color" href="#">
+                  <a class="d-flex align-items-center h-100 px-3 py-2 bg-orange base-color" href="/ban-tin">
                     <span>Xem tiếp</span>
                   </a>
                 </div>
               </div>
               <ul class="list-unstyled list-mf mb-0">
                 <li>
-                  <a class="text-muted" href="/ban-tin/tin1">
+                  <a class="text-muted" href="#">
                     <span class="d-block text-uppercase">ERP MAVIN FOODS</span>
                     Triển khai ứng dụng hệ thống phần mềm ERP cho ngành thực phẩm chế biến
                   </a>
                 </li>
                 <li>
-                  <a class="text-muted" href="/ban-tin/tin1">
+                  <a class="text-muted" href="#">
                     <span class="d-block text-uppercase">ERP MAVIN FOODS</span>
                     Triển khai ứng dụng hệ thống phần mềm ERP cho ngành thực phẩm chế biến
                   </a>
                 </li>
                 <li>
-                  <a class="text-muted" href="/ban-tin/tin1">
+                  <a class="text-muted" href="#">
                     <span class="d-block text-uppercase">ERP MAVIN FOODS</span>
                     Triển khai ứng dụng hệ thống phần mềm ERP cho ngành thực phẩm chế biến
                   </a>
