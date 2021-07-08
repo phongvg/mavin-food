@@ -43,23 +43,31 @@
               <div class="d-flex flex-column-reverse">
                 <ul class="nav nav-pills nav-fill nav-tab-news mb-3 mt-2" id="pills-tab" role="tablist">
                   <li class="nav-item" role="presentation">
-                    <button class="nav-link active text-uppercase fw-bold" id="pills-gallery-tab" data-bs-toggle="pill" data-bs-target="#pills-gallery" type="button" role="tab" aria-controls="pills-gallery" aria-selected="true">Thư viện <br>ảnh</button>
+                    <button class="nav-link text-uppercase fw-bold" id="pills-gallery-tab" data-bs-toggle="pill" data-bs-target="#pills-gallery" type="button" role="tab" aria-controls="pills-gallery" aria-selected="true">Thư viện <br>ảnh</button>
                   </li>
                   <li class="nav-item" role="presentation">
-                    <button class="nav-link text-uppercase fw-bold" id="pills-video-tab" data-bs-toggle="pill" data-bs-target="#pills-video" type="button" role="tab" aria-controls="pills-video" aria-selected="false">Thư viện <br>video</button>
+                    <button class="nav-link active text-uppercase fw-bold" id="pills-video-tab" data-bs-toggle="pill" data-bs-target="#pills-video" type="button" role="tab" aria-controls="pills-video" aria-selected="false">Thư viện <br>video</button>
                   </li>
                   <li class="nav-item" role="presentation">
                     <button class="nav-link text-uppercase fw-bold" id="pills-document-tab" data-bs-toggle="pill" data-bs-target="#pills-document" type="button" role="tab" aria-controls="pills-document" aria-selected="false">Thư viện <br>tài liệu</button>
                   </li>
                 </ul>
                 <div class="tab-content" id="pills-tabContent">
-                  <div class="tab-pane fade show active" id="pills-gallery" role="tabpanel" aria-labelledby="pills-gallery-tab">
+                  <div class="tab-pane fade" id="pills-gallery" role="tabpanel" aria-labelledby="pills-gallery-tab">
                     <div class="content">
                       <a href="/thu-vien"><img class="w-100 h-auto" src="/static-assets/dist/temp/7.jpg" alt=""></a>
                     </div>
                   </div>
-                  <div class="tab-pane fade" id="pills-video" role="tabpanel" aria-labelledby="pills-video-tab">Video</div>
-                  <div class="tab-pane fade" id="pills-document" role="tabpanel" aria-labelledby="pills-document-tab">Tài liệu</div>
+                  <div class="tab-pane fade show active" id="pills-video" role="tabpanel" aria-labelledby="pills-video-tab">
+                    <div class="content">
+                        <a href="/thu-vien"><img class="w-100 h-auto" src="/static-assets/dist/temp/7.jpg" alt=""></a>
+                    </div>
+                  </div>
+                  <div class="tab-pane fade" id="pills-document" role="tabpanel" aria-labelledby="pills-document-tab">
+                    <div class="content">
+                        <a href="/thu-vien"><img class="w-100 h-auto" src="/static-assets/dist/temp/7.jpg" alt=""></a>
+                    </div>
+                  </div>
                 </div>
               </div>
               <ul class="list-unstyled list-mf mb-0">
@@ -75,7 +83,7 @@
                     Triển khai ứng dụng hệ thống phần mềm ERP cho ngành thực phẩm chế biến
                   </a>
                 </li>
-               <li>
+                <li>
                   <a class="text-muted" href="#">
                     <span class="d-block text-uppercase">ERP MAVIN FOODS</span>
                     Triển khai ứng dụng hệ thống phần mềm ERP cho ngành thực phẩm chế biến
