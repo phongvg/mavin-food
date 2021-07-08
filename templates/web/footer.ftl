@@ -17,14 +17,14 @@
             <div class="row">
               <div class="col-sm-4 col-lg-3">
                 <div class="fw-bold mb-3">Kết nối với Mavin Foods</div>
-                <div class="d-flex mb-3">
+                <div class="d-flex mb-3" style="justify-content:center;">
                 <#list contentModel.socialMedia_o.item as social>
                   <a href="${social.link_s}"><img src="${social.logo_s}" alt=""></a>
                 </#list>
                 </div>
                 <div class="fw-bold">
-                  <div>Chăm sóc Khách hàng</div>
-                  <div class="fs-5">${contentModel.carephone_s}</div>
+                  <p class="fs-7">Chăm sóc Khách hàng</p>
+                  <p class="fs-4">${contentModel.carephone_s}</p>
                 </div>
               </div>
               <div class="col-sm-4 col-lg-5">
@@ -41,7 +41,7 @@
                   <div class="flex-shrink-0">
                     <img class="img-fluid" src="/static-assets/dist/images/dathongbao.png" width="110" alt="">
                   </div>
-                  <div class="text-right small">
+                  <div class="text-right small" style="text-align: end;">
                     Bản quyền thuộc về <br>Mavin Foods 2021
                   </div>
                 </div>
