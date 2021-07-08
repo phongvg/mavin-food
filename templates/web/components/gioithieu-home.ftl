@@ -38,7 +38,7 @@
         $(document).ready(function(){
            const foodArr = $('#food').val();
            $('.food-text').text(foodArr[0]+foodArr[1]);
-           $('.food-text')append('<br><span>' + foodArr[2]+foodArr[3]+foodArr[4]+foodArr[5]+foodArr[6] + '</span>');
+           $('.food-text').append('<br><span>' + foodArr[2]+foodArr[3]+foodArr[4]+foodArr[5]+foodArr[6] + '</span>');
         });
         
     </script>
