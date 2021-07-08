@@ -19,7 +19,7 @@
                 <div class="fw-bold mb-3">Kết nối với Mavin Foods</div>
                 <div class="d-flex mb-3" style="justify-content:center;">
                 <#list contentModel.socialMedia_o.item as social>
-                  <a href="${social.link_s}"><img src="${social.logo_s}" alt=""></a>
+                  <a class="px-1" href="${social.link_s}"><img src="${social.logo_s}" alt=""></a>
                 </#list>
                 </div>
                 <div class="fw-bold">
