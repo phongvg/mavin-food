@@ -24,7 +24,7 @@
                 <div class="text-center">
                  
                             <img class="img-fluid" src="${product.image_s}" alt="">
-                            <p class="text-uppercase text-muted fw-bold mt-3">${product.name_s}</p>
+                            <p class="text-uppercase text-muted fw-bold mt-3 food-text" id="food">${product.name_s}</p>
                 </div>
               </div>
               </#list>
@@ -34,4 +34,12 @@
         </div>
       </div>
     </section>
+    <script>
+        $(document).ready(function(){
+           const foodArr = $('#food').val();
+           $('.food-text').text(foodArr[0]+foodArr[1]);
+           $('.food-text')append('<br><span>' + foodArr[2]+foodArr[3]+foodArr[4]+foodArr[5]+foodArr[6] + '</span>');
+        });
+        
+    </script>
 <@studio.toolSupport />
