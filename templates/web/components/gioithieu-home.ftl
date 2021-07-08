@@ -22,9 +22,8 @@
                         <#list contentModel.product_o.item as product>
               <div class="col-4 col-lg-4">
                 <div class="text-center">
-                 
-                            <img class="img-fluid" src="${product.image_s}" alt="">
-                            <p class="text-uppercase text-muted fw-bold mt-3 food-text" id="food">${product.name_s}</p>
+                    <img class="img-fluid" src="${product.image_s}" alt="" style="border: .5rem solid white;border-radius:7rem;">
+                    <p class="text-uppercase text-muted fw-bold mt-3 food-text" id="food">${product.name_s}</p>
                 </div>
               </div>
               </#list>
