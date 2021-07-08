@@ -335,6 +335,9 @@ a {
  .menu-item{
      padding-right: 4rem;
  }
+ .content{
+     margin-top: 8.5rem!important;
+ }
 
 @media (max-width: 768px) {
   .navbar-mf {
