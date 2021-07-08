@@ -4,9 +4,9 @@
         <div class="row content">
           <div class="col-lg-4">
             <h1 class="base-color fst-italic">
-              <span class="fw-light fs-2 d-block">Chuỗi giá trị</span>
-              <span>"Sạch từ nguồn"</span>
-              <span class="fw-light fs-2 d-block">của Mavin</span>
+              <span class="fw-light d-block" style="font-size: 1.5rem!important;">Chuỗi giá trị</span>
+              <span style="font-size: 2.5rem!important;">"Sạch từ nguồn"</span>
+              <span class="fw-light d-block mb-4" style="font-size: 1.5rem!important;">của Mavin</span>
             </h1>
             <p class="fst-italic text-muted text-recommend">
               ${contentModel.content_html}
