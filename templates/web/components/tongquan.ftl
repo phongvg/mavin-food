@@ -7,7 +7,7 @@
             <div class="flex-shrink-0 text-center text-md-start mb-3 mb-md-0">
               <img src="${contentModel.image_s}" alt="">
             </div>
-            <div class="flex-grow-1 ms-md-3" style="text-align: justify;">
+            <div class="flex-grow-1" style="text-align: justify;margin-left:3rem!important;">
               ${contentModel.content_html}
             </div>
           </div>
