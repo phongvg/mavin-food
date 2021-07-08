@@ -54,19 +54,13 @@
                 </ul>
                 <div class="tab-content" id="pills-tabContent">
                   <div class="tab-pane fade" id="pills-gallery" role="tabpanel" aria-labelledby="pills-gallery-tab">
-                    <div class="content">
                       <a href="/thu-vien"><img class="w-100 h-auto" src="/static-assets/dist/temp/7.jpg" alt=""></a>
-                    </div>
                   </div>
                   <div class="tab-pane fade show active" id="pills-video" role="tabpanel" aria-labelledby="pills-video-tab">
-                    <div class="content">
                         <a href="/thu-vien"><img class="w-100 h-auto" src="/static-assets/dist/temp/7.jpg" alt=""></a>
-                    </div>
                   </div>
                   <div class="tab-pane fade" id="pills-document" role="tabpanel" aria-labelledby="pills-document-tab">
-                    <div class="content">
                         <a href="/thu-vien"><img class="w-100 h-auto" src="/static-assets/dist/temp/7.jpg" alt=""></a>
-                    </div>
                   </div>
                 </div>
               </div>
