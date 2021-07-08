@@ -8,8 +8,8 @@
               <span>"Sạch từ nguồn"</span>
               <span class="fw-light fs-2 d-block">của Mavin</span>
             </h1>
-            <p class="fst-italic text-muted text-recommend">
-              <p>${contentModel.content_html}</p>
+            <p class="fst-italic text-muted">
+              <p class="text-recommend">${contentModel.content_html}</p>
             </p>
           </div>
           <div class="col-lg-8">
