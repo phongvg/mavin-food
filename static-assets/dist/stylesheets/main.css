@@ -331,6 +331,10 @@ a {
 .footer {
   color: white;
   background-color: #d22234; }
+  
+ .menu-item{
+     padding-right: 4rem;
+ }
 
 @media (max-width: 768px) {
   .navbar-mf {
