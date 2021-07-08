@@ -1,7 +1,7 @@
 <#import "/templates/system/common/cstudio-support.ftl" as studio />
     <section class="home-block about-us py-4 py-md-5">
       <div class="container">
-        <div class="row">
+        <div class="row content">
           <div class="col-lg-4">
             <h1 class="base-color fst-italic">
               <span class="fw-light fs-2 d-block">Chuỗi giá trị</span>
