@@ -338,6 +338,9 @@ a {
  .content{
      margin-top: 8.5rem!important;
  }
+ .text-recommend{
+    padding-left: 5rem;
+ }
 
 @media (max-width: 768px) {
   .navbar-mf {
