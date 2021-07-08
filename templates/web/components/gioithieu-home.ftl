@@ -23,7 +23,7 @@
               <div class="col-4 col-lg-4">
                 <div class="text-center">
                     <img class="img-fluid" src="${product.image_s}" alt="" style="border: .5rem solid white;border-radius:7rem;">
-                    <p class="text-uppercase text-muted fw-bold mt-3" id="food">${product.name_s}<span>${product.name2_s}</span></p>
+                    <p class="text-uppercase text-muted fw-bold mt-3" id="food">${product.name_s}<br><span>${product.name2_s}</span></p>
                     
                 </div>
               </div>
