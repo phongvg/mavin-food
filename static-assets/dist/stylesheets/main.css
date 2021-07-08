@@ -358,8 +358,8 @@ a {
     padding-top: 1.5rem;
     padding-bottom: 1.5rem; }
   .arrows-style .slick-prev {
-    left: -10px; }
+    left: -100px; }
   .arrows-style .slick-next {
-    right: -10px; }
+    right: -100px; }
   .footer.bg-crown:before {
     display: none; } }
