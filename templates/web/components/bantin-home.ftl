@@ -10,8 +10,8 @@
                   <a class="d-block px-3 py-2 base-bg-color fw-bold text-white" href="/ban-tin">MAVIN FOODS - Mắt xích quan trọng  của chuỗi giá trị “Từ Nông trại tới Bàn ăn”</a>
                 </div>
                 <div class="col-auto">
-                  <a class="d-flex align-items-center h-100 px-3 py-2 bg-orange base-color" href="/ban-tin">
-                    <span>Xem tiếp</span>
+                  <a class="d-flex align-items-center h-100 px-1 py-2 bg-orange base-color" href="/ban-tin">
+                    <span style="font-weight: bold;font-size: small;">Xem tiếp</span>
                   </a>
                 </div>
               </div>
