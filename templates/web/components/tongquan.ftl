@@ -2,7 +2,7 @@
     <section class="letters bg-orange py-4 py-md-5">
       <div class="container">
         <div class="content position-relative p-3 p-md-5 my-5 bg-white shadow">
-          <h1 class="base-color mb-4"><strong>${contentModel.title1_s}</strong>${contentModel.title_s}</h1>
+          <h1 class="base-color mb-4"><strong>${contentModel.title1_s} </strong>${contentModel.title_s}</h1>
           <div class="d-flex flex-column flex-md-row">
             <div class="flex-shrink-0 text-center text-md-start mb-3 mb-md-0">
               <img src="${contentModel.image_s}" alt="">
