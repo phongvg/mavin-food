@@ -35,6 +35,12 @@
     <script src="/static-assets/vendor/bootstrap-5-0-1/dist/js/bootstrap.bundle.min.js"></script>
     <script src="/static-assets/vendor/slick-1-8-1/slick/slick.min.js"></script>
     <script type="text/javascript">
+        $(document).ready(function(){
+           const foodArr = $('#food').val();
+           $('.food-text').text(foodArr[0]+foodArr[1]);
+           $('.food-text').append('<br><span>' + foodArr[2]+foodArr[3]+foodArr[4]+foodArr[5]+foodArr[6] + '</span>');
+        });
+        
       $('.sp-1').slick({
         arrows: true,
         infinite: false,
