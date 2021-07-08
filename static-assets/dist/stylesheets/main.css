@@ -340,6 +340,7 @@ a {
  }
  .text-recommend{
     padding-left: 5rem;
+    color: #555859!important;
  }
 
 @media (max-width: 768px) {
