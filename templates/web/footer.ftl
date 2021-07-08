@@ -8,7 +8,7 @@
               <li>${contentModel.address_s}</li>
               <li>Nhà máy: ${contentModel.factorysAdd_s}</li>
               <li>ĐT: ${contentModel.phone_s}  - Fax: ${contentModel.fax_s}</li>
-              <li>Email: ${contentModel.address_s}  -  Website: ${contentModel.address_s}</li>
+              <li>Email: ${contentModel.email_s}  -  Website: ${contentModel.web_s}</li>
               <li>Chứng nhận Đăng ký Kinh doanh số: ${contentModel.cerId_s}</li>
               <li>Ngày cấp: ${contentModel.cerDate_s} - Nơi cấp: ${contentModel.cerPlace_s}</li>
             </ul>
