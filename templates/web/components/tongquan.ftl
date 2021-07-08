@@ -7,12 +7,12 @@
             <div class="flex-shrink-0 text-center text-md-start mb-3 mb-md-0">
               <img src="${contentModel.image_s}" alt="">
             </div>
-            <div class="flex-grow-1 ms-md-3">
+            <div class="flex-grow-1 ms-md-3" style="text-align: justify;">
               ${contentModel.content_html}
             </div>
           </div>
           <div class="position-absolute bottom-0 end-0 d-none d-md-block">
-            <img src="/static-assets/dist/images/crown.png" width="170" height="170">
+            <img src="/static-assets/dist/images/crown.png" width="140" height="140">
           </div>
         </div>
       </div>
