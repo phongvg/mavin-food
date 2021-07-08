@@ -15,7 +15,26 @@
                   </a>
                 </div>
               </div>
-              
+              <ul class="list-unstyled list-mf mb-0">
+                <li>
+                  <a class="text-muted" href="#">
+                    <span class="d-block text-uppercase">ERP MAVIN FOODS</span>
+                    Triển khai ứng dụng hệ thống phần mềm ERP cho ngành thực phẩm chế biến
+                  </a>
+                </li>
+                <li>
+                  <a class="text-muted" href="#">
+                    <span class="d-block text-uppercase">ERP MAVIN FOODS</span>
+                    Triển khai ứng dụng hệ thống phần mềm ERP cho ngành thực phẩm chế biến
+                  </a>
+                </li>
+                <li>
+                  <a class="text-muted" href="#">
+                    <span class="d-block text-uppercase">ERP MAVIN FOODS</span>
+                    Triển khai ứng dụng hệ thống phần mềm ERP cho ngành thực phẩm chế biến
+                  </a>
+                </li>
+              </ul>
             </div>
           </div>
           <div class="col">
@@ -43,7 +62,21 @@
                   <div class="tab-pane fade" id="pills-document" role="tabpanel" aria-labelledby="pills-document-tab">Tài liệu</div>
                 </div>
               </div>
-              
+              <ul class="list-unstyled list-mf mb-0">
+                <li>
+                  <a class="text-muted" href="#">
+                    <span class="d-block text-uppercase">ERP MAVIN FOODS</span>
+                    Triển khai ứng dụng hệ thống phần mềm ERP cho ngành thực phẩm chế biến
+                  </a>
+                </li>
+                <li>
+                  <a class="text-muted" href="#">
+                    <span class="d-block text-uppercase">ERP MAVIN FOODS</span>
+                    Triển khai ứng dụng hệ thống phần mềm ERP cho ngành thực phẩm chế biến
+                  </a>
+                </li>
+               
+              </ul>
             </div>
           </div>
         </div>
