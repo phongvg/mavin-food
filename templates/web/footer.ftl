@@ -4,7 +4,7 @@
         <div class="row">
           <div class="col-lg-4">
             <ul class="list-unstyled small">
-              <li class="text-uppercase fw-bold"><p>${contentModel.name_s}</p></li>
+              <li class="text-uppercase fw-bold">${contentModel.name_s}</li>
               <li>${contentModel.address_s}</li>
               <li>Nhà máy: ${contentModel.factorysAdd_s}</li>
               <li>ĐT: ${contentModel.phone_s}  - Fax: ${contentModel.fax_s}</li>
