@@ -52,9 +52,9 @@
             <div class="col-md-6">
               <img src="/static-assets/dist/temp/company.jpg" alt="" class="img-thumbnail shadow-sm mb-3 mb-md-0">
             </div>
-            <div class="col-md-6">
+            <div class="col-md-6" style="text-align: justify;display: flex;flex-direction: column;justify-content: space-between;">
               <p>Công ty TNHH Liên doanh Thực phẩm Mavin là một thành viên của Tập đoàn Mavin. Chúng tôi là một trong số rất ít các doanh nghiệp tại Việt Nam, áp dụng được mô hình sản xuất “Từ Nông trại tới Bàn ăn”, với chuỗi giá trị khép kín, từ khâu thức ăn chăn nuôi, con giống, chăn nuôi cho đến chế biến và cung cấp thực phẩm chất lượng cao, đảm bảo yêu cầu vệ sinh an toàn đến tay người tiêu dùng.</p>
-              <p>Nhà máy hiện tại của Mavin có quy mô gần 10.000 tấn sản phẩm/năm, được đặt tại Khu Công nghiệp Đồng Văn II, xã Bạch Thượng, huyện Duy Tiên, tỉnh Hà Nam với diện tích 10.000 m2, được đầu tư đồng bộ và hiện đại với hệ thống sản xuất hoàn toàn theo công nghệ hiện đại của Cộng hòa Liên bang Đức. Dây chuyền hiện đại của nhà máy giúp đảm bảo tạo ra các sản phẩm chất lượng cao và tuyệt đối an toàn vệ sinh thực phẩm. Với khẩu hiệu “Bí quyết Châu Âu. Đậm sâu vị Á.” Mavin sẽ mạnh mẽ phát triển và chinh phục những người tiêu dùng tại...</p>
+              <br>Nhà máy hiện tại của Mavin có quy mô gần 10.000 tấn sản phẩm/năm, được đặt tại Khu Công nghiệp Đồng Văn II, xã Bạch Thượng, huyện Duy Tiên, tỉnh Hà Nam với diện tích 10.000 m2, được đầu tư đồng bộ và hiện đại với hệ thống sản xuất hoàn toàn theo công nghệ hiện đại của Cộng hòa Liên bang Đức. Dây chuyền hiện đại của nhà máy giúp đảm bảo tạo ra các sản phẩm chất lượng cao và tuyệt đối an toàn vệ sinh thực phẩm. Với khẩu hiệu “Bí quyết Châu Âu. Đậm sâu vị Á.” Mavin sẽ mạnh mẽ phát triển và chinh phục những người tiêu dùng tại...
               <div class="view-more">
                 <a class="d-flex align-items-center" href="#">
                   <span class="fw-bold text-muted pe-2 small">Xem tiếp</span>
