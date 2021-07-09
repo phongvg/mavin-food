@@ -65,13 +65,13 @@
           </div>
           <div class="row" style="margin-top: 6.5rem!important;">
             <div class="col-md-4">
-              <h3><a class="btn btn-lg w-100 text-white rounded-0 base-bg-color text-uppercase fw-bold mb-4 mb-md-0 p-3" href="/tong-quan/quy-trinh-ss">quy trình sản xuất</a</h3>
+              <a class="btn btn-lg w-100 text-white rounded-0 base-bg-color text-uppercase fw-bold mb-4 mb-md-0 p-3" href="/tong-quan/quy-trinh-ss">quy trình sản xuất</a>
             </div>
             <div class="col-md-4">
-              <h3><a class="btn btn-lg w-100 text-white rounded-0 base-bg-color text-uppercase fw-bold mb-4 mb-md-0 p-3" href="/tong-quan/chung-nhan-giai-thuong">chứng chỉ - giải thưởng</a></h3>
+              <a class="btn btn-lg w-100 text-white rounded-0 base-bg-color text-uppercase fw-bold mb-4 mb-md-0 p-3" href="/tong-quan/chung-nhan-giai-thuong">chứng chỉ - giải thưởng</a>
             </div>
             <div class="col-md-4">
-              <h3><a class="btn btn-lg w-100 text-white rounded-0 base-bg-color text-uppercase fw-bold mb-4 mb-md-0 p-3" href="/tong-quan/cong-bo-san-pham">công bố sản phẩm</a></h3>
+              <a class="btn btn-lg w-100 text-white rounded-0 base-bg-color text-uppercase fw-bold mb-4 mb-md-0 p-3" href="/tong-quan/cong-bo-san-pham">công bố sản phẩm</a>
             </div>
           </div>
         </div>
