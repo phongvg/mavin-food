@@ -7,7 +7,7 @@
                   ${contentModel.content_html}
         </div>
       </div>
-      <div class="container-fluid" style="margin-top: 4rem;">
+      <div class="container-fluid" style="margin-top: 6rem;">
         <#if (contentModel.groupproduct_o.item)??>
         <#list (contentModel.groupproduct_o.item)![] as section>
             <div>
