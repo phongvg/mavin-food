@@ -3,8 +3,14 @@
       <div class="container">
         <div class="mb-3 mb-md-5">
           <h1 class="base-color fw-bold">${contentModel.title_s}</h1>
-          <p class="text-center"><img class="img-fluid" src="${contentModel.image_s}" alt=""></p>
-          ${contentModel.content_html}
+          <div class="row row-cols-2 row-cols-lg-5">
+              <div class="col mb-4"></div>
+              <div class="col mb-4">
+                  <p class="text-center"><img class="img-fluid" src="${contentModel.image_s}" alt=""></p>
+                  ${contentModel.content_html}
+              </div>
+              <div class="col mb-4"></div>
+          </div>
         </div>
       </div>
       <div class="container-fluid">
