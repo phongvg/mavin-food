@@ -47,7 +47,7 @@
           </div>
         </div>
         <div class="hof-mf py-3 pt-md-5">
-          <h2 class="fw-bold text-uppercase base-color h4">lịch sử hình thành</h2>
+          <h3 class="fw-bold text-uppercase base-color h4">lịch sử hình thành</h3>
           <div class="row mb-5">
             <div class="col-md-6">
               <img src="/static-assets/dist/temp/company.jpg" alt="" class="img-thumbnail shadow-sm mb-3 mb-md-0">
@@ -65,13 +65,13 @@
           </div>
           <div class="row" style="margin-top: 6.5rem!important;">
             <div class="col-md-4">
-              <a class="btn btn-lg w-100 text-white rounded-0 base-bg-color text-uppercase fw-bold mb-4 mb-md-0 p-3" href="/tong-quan/quy-trinh-ss">quy trình sản xuất</a>
+              <h3><a class="btn btn-lg w-100 text-white rounded-0 base-bg-color text-uppercase fw-bold mb-4 mb-md-0 p-3" href="/tong-quan/quy-trinh-ss">quy trình sản xuất</a</h3>
             </div>
             <div class="col-md-4">
-              <a class="btn btn-lg w-100 text-white rounded-0 base-bg-color text-uppercase fw-bold mb-4 mb-md-0 p-3" href="/tong-quan/chung-nhan-giai-thuong">chứng chỉ - giải thưởng</a>
+              <h3><a class="btn btn-lg w-100 text-white rounded-0 base-bg-color text-uppercase fw-bold mb-4 mb-md-0 p-3" href="/tong-quan/chung-nhan-giai-thuong">chứng chỉ - giải thưởng</a></h3>
             </div>
             <div class="col-md-4">
-              <a class="btn btn-lg w-100 text-white rounded-0 base-bg-color text-uppercase fw-bold mb-4 mb-md-0 p-3" href="/tong-quan/cong-bo-san-pham">công bố sản phẩm</a>
+              <h3><a class="btn btn-lg w-100 text-white rounded-0 base-bg-color text-uppercase fw-bold mb-4 mb-md-0 p-3" href="/tong-quan/cong-bo-san-pham">công bố sản phẩm</a></h3>
             </div>
           </div>
         </div>
