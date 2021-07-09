@@ -3,9 +3,8 @@
       <div class="container">
         <div class="py-3 py-md-5">
           <h1 class="h4 base-color text-uppercase fw-bold mb-3">Liên hệ</h1>
-          <h2 class="h5 base-color fw-bold mb-3">${contentModel.name_s}</h2>
-          <p>${contentModel.bank_s}</p>
-          <p>${contentModel.tax_s}</p>
+          <p><span class="h5 base-color fw-bold mb-3">${contentModel.name_s}</span><br>
+          ${contentModel.bank_s}<br>${contentModel.tax_s}<span></p>
           <div class="row row-cols-1 row-cols-md-2">
             <#list contentModel.place_o.item as place>
             <div class="col mb-4">
