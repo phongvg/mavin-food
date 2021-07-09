@@ -20,7 +20,7 @@
                     <button type="button" onclick="search()" class="btn btn-sm base-color"><i class="fas fa-search fa-lg"></i></button>
                   </div>
                 </div>
-                <p>Hiện tại hệ thống Đại lý - NPP các sản phẩm của Công ty TNHH Liên doanh Thực phẩm Mavin đã có mặt tại các tỉnh thành miền Bắc, miền Trung (từ Nghệ An trở ra) bao gồm: Hà Giang, Cao Bằng, Lào Cai, Bắc Kạn, Lạng Sơn, Tuyên Quang, Yên Bái, Thái Nguyên, Phú Thọ, Bắc Giang, Lai Châu, Điện Biên, Sơn La, Hòa Bình, Hà Nội, Hải Phòng, Hải Dương, Bắc Ninh, Vĩnh Phúc, Hưng Yên, Thái Bình, Nam Định, Hà Nam, Ninh Bình, Quảng Ninh, Thanh Hóa, Nghệ An.</p>
+                <p style="font-weight: inherit;">Hiện tại hệ thống Đại lý - NPP các sản phẩm của Công ty TNHH Liên doanh Thực phẩm Mavin đã có mặt tại các tỉnh thành miền Bắc, miền Trung (từ Nghệ An trở ra) bao gồm: Hà Giang, Cao Bằng, Lào Cai, Bắc Kạn, Lạng Sơn, Tuyên Quang, Yên Bái, Thái Nguyên, Phú Thọ, Bắc Giang, Lai Châu, Điện Biên, Sơn La, Hòa Bình, Hà Nội, Hải Phòng, Hải Dương, Bắc Ninh, Vĩnh Phúc, Hưng Yên, Thái Bình, Nam Định, Hà Nam, Ninh Bình, Quảng Ninh, Thanh Hóa, Nghệ An.</p>
                 <p class="text-center">
                   <img class="img-fluid" src="/static-assets/dist/images/vietnam-map.png" alt="">
                 </p>
@@ -42,7 +42,7 @@
                     <button type="button" class="btn btn-sm base-color"><i class="fas fa-search fa-lg"></i></button>
                   </div>
                 </div>
-                <p>Hiện tại hệ thống Đại lý - NPP các sản phẩm của Công ty TNHH Liên doanh Thực phẩm Mavin đã có mặt tại các tỉnh thành miền Bắc, miền Trung (từ Nghệ An trở ra) bao gồm: Hà Giang, Cao Bằng, Lào Cai, Bắc Kạn, Lạng Sơn, Tuyên Quang, Yên Bái, Thái Nguyên, Phú Thọ, Bắc Giang, Lai Châu, Điện Biên, Sơn La, Hòa Bình, Hà Nội, Hải Phòng, Hải Dương, Bắc Ninh, Vĩnh Phúc, Hưng Yên, Thái Bình, Nam Định, Hà Nam, Ninh Bình, Quảng Ninh, Thanh Hóa, Nghệ An.</p>
+                <p style="font-weight: inherit;">Hiện tại hệ thống Đại lý - NPP các sản phẩm của Công ty TNHH Liên doanh Thực phẩm Mavin đã có mặt tại các tỉnh thành miền Bắc, miền Trung (từ Nghệ An trở ra) bao gồm: Hà Giang, Cao Bằng, Lào Cai, Bắc Kạn, Lạng Sơn, Tuyên Quang, Yên Bái, Thái Nguyên, Phú Thọ, Bắc Giang, Lai Châu, Điện Biên, Sơn La, Hòa Bình, Hà Nội, Hải Phòng, Hải Dương, Bắc Ninh, Vĩnh Phúc, Hưng Yên, Thái Bình, Nam Định, Hà Nam, Ninh Bình, Quảng Ninh, Thanh Hóa, Nghệ An.</p>
                 <div class="position-relative base-bg-color p-3 pb-5">
                   <div class="row row-cols-2 row-cols-md-3 gx-3 mb-5">
                     <div class="col mb-3">
