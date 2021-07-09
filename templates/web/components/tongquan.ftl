@@ -22,9 +22,9 @@
         <div class="base-bg-color px-3 px-md-0 py-3 py-md-5 text-white">
           <div class="row justify-content-center">
             <div class="col-md-11">
-              <div class="d-flex flex-column fw-bold mb-4">
+              <div class="d-flex flex-column fw-bold mb-4" style="margin-left: 4rem;">
                 <div class="fs-5">Chuỗi giá trị</div>
-                <div class="fs-2">“Sạch từ nguồn” <span class="fs-5">của Mavin</span></div>
+                <div class="fs-1">“Sạch từ nguồn” <span class="fs-5">của Mavin</span></div>
               </div>
               <div class="row row-cols-2 row-cols-md-auto gx-0 justify-content-center">
                 <div class="col text-center">
