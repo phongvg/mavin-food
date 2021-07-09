@@ -33,7 +33,7 @@
       <div class="container">
         <div class="d-flex flex-column flex-md-row align-items-center">
           <div class="flex-shrink-0 me-3 mb-3 mb-md-0"><img class="img-fluid" src="${contentModel.image_s}" alt=""></div>
-          <div class="flex-grow-1">
+          <div class="flex-grow-1 fs-6" style="text-align: justify;padding: 2.5rem!important;margin-right: 2rem;">
             ${contentModel.content_html}
           </div>
         </div>
@@ -44,7 +44,7 @@
           <div class="mb-3 mb-md-0">
             <img src="/static-assets/dist/images/logo-circle2.png" alt="" width="185" height="185">
           </div>
-          <div>
+          <div class="fs-7">
             <p>Cách 1: <strong>Dùng điện thoại quét mã QR in trên bao bì</strong></p>
             <p>Cách 2: <strong>Nhập mã số mã vạch in trên bao bì vào ô bên dưới để tra cứu thông tin</strong></p>
             <div class="row g-3 align-items-center">
