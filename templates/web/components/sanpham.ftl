@@ -42,7 +42,7 @@
             TRUY XUẤT <br>NGUỒN GỐC <br>SẢN PHẨM
           </div>
           <div class="mb-3 mb-md-0">
-            <img src="/static-assets/dist/images/logo-circle2.png" alt="" width="185" height="185">
+            <img src="/static-assets/dist/images/logo-circle2.png" alt="" width="155" height="155">
           </div>
           <div class="fs-7">
             <p>Cách 1: <strong>Dùng điện thoại quét mã QR in trên bao bì</strong></p>
