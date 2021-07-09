@@ -12,8 +12,10 @@
                 <div class="mb-3 mb-md-0"><img class="img-fluid" src="${news.image}" alt=""></div>
               </div>
               <div class="col" style="display: flex;flex-direction: column;justify-content: space-between;">
-                <h3 class="fs-6 fw-bold base-color">MAVIN FOODS <br>Mắt xích quan trọng trong chuỗi giá trị “Từ Nông trại tới Bàn ăn”</h3>
-                <p>ERP MAVIN FOODS <br>${news.title}</p>
+                <div>
+                    <h3 class="fs-6 fw-bold base-color">MAVIN FOODS <br>Mắt xích quan trọng trong chuỗi giá trị “Từ Nông trại tới Bàn ăn”</h3>
+                    <p>ERP MAVIN FOODS <br>${news.title}</p>
+                </div>
                 <div class="view-more">
                   <a class="d-flex align-items-center" href="${news.url}">
                     <span class="fw-bold text-muted pe-2 small">Xem tiếp</span>
