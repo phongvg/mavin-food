@@ -5,7 +5,7 @@
           <h1 class="base-color fw-bold">${contentModel.title_s}</h1>
           <div class="row row-cols-2 row-cols-lg-5">
               <div class="col mb-4"></div>
-              <div class="col mb-4">
+              <div class="col mb-12">
                   <p class="text-center"><img class="img-fluid" src="${contentModel.image_s}" alt=""></p>
                   ${contentModel.content_html}
               </div>
