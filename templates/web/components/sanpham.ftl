@@ -7,7 +7,7 @@
             <#list contentModel.groupProduct_o.item as group>
             <a class="d-block text-white" href="${group.url_s}">
               <img class="img-fluid mx-auto" src="${group.image_s}" alt="">
-              <span class="d-block fs-6">${group.name_s}</span>
+              <span class="d-block fs-6 mt-3">${group.name_s}</span>
             </a>
             </#list>
           </div>
