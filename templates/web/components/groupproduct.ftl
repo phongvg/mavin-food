@@ -1,9 +1,9 @@
 <#import "/templates/system/common/cstudio-support.ftl" as studio />
     <section class="sp-block py-4 py-md-5">
       <div class="container-fluid">
-        <div class="row" style="margin-top: 5rem!important;">
+        <div class="row">
             <div class="col-lg-2 mb-4" style="flex: 0 0 auto;width: 19.6667%;"></div>
-            <div class="col-lg-8 mb-12" style="text-align: justify;flex: 0 0 auto; width: 59.6667%;">
+            <div class="col-lg-8 mb-12" style="text-align: justify;flex: 0 0 auto; width: 59.6667%;margin-top: 8rem!important;>
                 <h1 class="base-color fw-bold">${contentModel.title_s}</h1>
                   <p class="text-center" style="margin-bottom: 3rem;"><img class="img-fluid" src="${contentModel.image_s}" alt=""></p>
                   ${contentModel.content_html}
