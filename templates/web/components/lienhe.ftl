@@ -22,7 +22,7 @@
           <h3 class="h5 base-color fw-bold mb-3">Ý kiến đóng góp của bạn</h3>
           <div class="row mb-3 align-items-center">
             <div class="col-sm-2 col-form-label">
-              <label for="" class="col-form-label fw-bold">Họ tên</label>
+              <label for="" class="col-form-label fw-bold" style="color: #adadad;">Họ tên</label>
             </div>
             <div class="col-sm-10">
               <input type="text" name="name" placeholder="" class="form-control" aria-describedby="">
@@ -30,7 +30,7 @@
           </div>
           <div class="row mb-3 align-items-center">
             <div class="col-sm-2 col-form-label">
-              <label for="" class="col-form-label">Công ty</label>
+              <label for="" class="col-form-label fw-bold" style="color: #adadad;">Công ty</label>
             </div>
             <div class="col-sm-10">
               <input type="text" placeholder="" name="company" class="form-control" aria-describedby="">
@@ -38,7 +38,7 @@
           </div>
           <div class="row mb-3 align-items-center">
             <div class="col-sm-2 col-form-label">
-              <label for=""class="col-form-label">Email</label>
+              <label for=""class="col-form-label fw-bold" style="color: #adadad;">Email</label>
             </div>
             <div class="col-sm-10">
               <input type="mail" placeholder="" name="email" class="form-control" aria-describedby="">
@@ -46,7 +46,7 @@
           </div>
           <div class="row mb-3 align-items-center">
             <div class="col-sm-2 col-form-label">
-              <label for="" class="col-form-label">Điện thoại</label>
+              <label for="" class="col-form-label fw-bold" style="color: #adadad;">Điện thoại</label>
             </div>
             <div class="col-sm-10">
               <input type="tel" placeholder="" name="phone" class="form-control" aria-describedby="">
@@ -54,7 +54,7 @@
           </div>
           <div class="row mb-3 align-items-center">
             <div class="col-sm-2 col-form-label">
-              <label for="" class="col-form-label">Tiêu đề</label>
+              <label for="" class="col-form-label fw-bold" style="color: #adadad;">Tiêu đề</label>
             </div>
             <div class="col-sm-10">
               <input type="text" placeholder="" name = "title" class="form-control" aria-describedby="">
@@ -62,7 +62,7 @@
           </div>
           <div class="row mb-3 align-items-center">
             <div class="col-sm-2 col-form-label">
-              <label for="" class="col-form-label">Nội dung</label>
+              <label for="" class="col-form-label fw-bold" style="color: #adadad;">Nội dung</label>
             </div>
             <div class="col-sm-10">
               <textarea class="form-control" name ="content"></textarea>
