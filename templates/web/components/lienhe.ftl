@@ -3,7 +3,7 @@
       <div class="container">
         <div class="py-3 py-md-5">
           <h1 class="h4 base-color text-uppercase fw-bold mb-3">Liên hệ</h1>
-          <p style="margin-top: 3rem !important;"><span class="h5 base-color fw-bold mb-3">${contentModel.name_s}</span><br>
+          <p style="margin-top: 3rem !important;"><span class="h5 base-color fw-bold mb-3">${contentModel.name_s}</span style="color: #adadad;"><br>
           ${contentModel.bank_s}<br>${contentModel.tax_s}<span></p>
           <div class="row row-cols-1 row-cols-md-2">
             <#list contentModel.place_o.item as place>
@@ -12,7 +12,7 @@
                 <img class="img-fluid" src="${place.image_s}" alt="">
               </div>
               <h2 class="h5 base-color mb-3">${place.title_s}</h2>
-              ${place.content_html}
+              <span style="color: #adadad;">${place.content_html}</span>
               <div class="bg-white p-3 shadow mb-4">
                 <p class="img-fluid"> ${place.map_s}</p>
               </div>
