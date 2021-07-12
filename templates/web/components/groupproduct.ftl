@@ -2,13 +2,13 @@
     <section class="sp-block py-4 py-md-5">
       <div class="container-fluid">
         <div class="row">
-            <div class="col-lg-3 mb-4"></div>
-            <div class="col-lg-6 mb-12">
+            <div class="col-lg-2 mb-4"></div>
+            <div class="col-lg-8 mb-12">
                 <h1 class="base-color fw-bold">${contentModel.title_s}</h1>
                   <p class="text-center" style="margin-bottom: 3rem;"><img class="img-fluid" src="${contentModel.image_s}" alt=""></p>
                   ${contentModel.content_html}
             </div>
-            <div class="col-lg-3 mb-4"></div>
+            <div class="col-lg-2 mb-4"></div>
         </div>
       </div>
       <div class="container-fluid" style="margin-top: 6rem;">
