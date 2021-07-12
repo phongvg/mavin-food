@@ -3,7 +3,7 @@
         <#if (products)??>
         <#list products as product>
           <div class="col mb-4 fields">
-            <div class="bg-white shadow p-3 p-md-4" style="height: 358px;">
+            <div class="bg-white shadow p-3 p-md-4" style="height: 358px;display: flex;align-items: center;">
               <div class="position-relative">
                 <div class="d-flex align-items-center justify-content-center">
                   <a href="#"><img class="img-fluid" src="${product.image1}" alt=""></a>
