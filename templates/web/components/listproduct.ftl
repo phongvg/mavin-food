@@ -15,7 +15,7 @@
             </div>
             <div class="base-bg-color shadow p-2 text-center">
               <a class="d-block text-white fw-bold" href="${product.url}">${product.name}</a>
-              <div>${product.kl}</div>
+              <div class="text-white">${product.kl}</div>
               <div class="text-orange">${product.price}</div>
             </div>
           </div>
