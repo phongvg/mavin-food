@@ -1,7 +1,7 @@
 <#import "/templates/system/common/cstudio-support.ftl" as studio />
     <section class="sp-block py-4 py-md-5">
       <div class="container-fluid">
-        <div class="row row-cols-2 row-cols-lg-5">
+        <div class="row row-cols-2 row-cols-lg-3">
             <div class="col mb-4"></div>
             <div class="col mb-12">
                 <h1 class="base-color fw-bold">${contentModel.title_s}</h1>
