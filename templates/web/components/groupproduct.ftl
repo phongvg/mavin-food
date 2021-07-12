@@ -3,13 +3,11 @@
       <div class="container-fluid">
         <div class="row row-cols-2 row-cols-lg-5">
             <div class="col mb-4"></div>
-            <div class="col mb-4">
+            <div class="col mb-12">
                 <h1 class="base-color fw-bold">${contentModel.title_s}</h1>
                   <p class="text-center" style="margin-bottom: 3rem;"><img class="img-fluid" src="${contentModel.image_s}" alt=""></p>
                   ${contentModel.content_html}
             </div>
-            <div class="col mb-4"></div>
-            <div class="col mb-4"></div>
             <div class="col mb-4"></div>
         </div>
       </div>
