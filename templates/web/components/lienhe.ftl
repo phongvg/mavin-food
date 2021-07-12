@@ -68,7 +68,7 @@
               <textarea class="form-control" name ="content"></textarea>
             </div>
           </div>
-          <div class="row mb-3 align-items-center">
+          <div class="row mb-3 align-items-center" style="margin-top: 3.5rem !important;">
             <div class="col-auto ms-auto">
               <button type="reset" class="btn bg-orange base-color fw-bold btn-circle btn-sm">Huỷ</button>
               <button type="submit" onclick="openSpinner()"  class="btn base-bg-color text-white fw-bold btn-circle btn-sm">Gửi</button>
