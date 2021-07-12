@@ -22,7 +22,7 @@
           <h3 class="h5 base-color fw-bold mb-3">Ý kiến đóng góp của bạn</h3>
           <div class="row mb-3 align-items-center">
             <div class="col-sm-2 col-form-label">
-              <label for="" class="col-form-label">Họ tên</label>
+              <label for="" class="col-form-label fw-bold">Họ tên</label>
             </div>
             <div class="col-sm-10">
               <input type="text" name="name" placeholder="" class="form-control" aria-describedby="">
