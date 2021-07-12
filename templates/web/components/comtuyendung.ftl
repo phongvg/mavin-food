@@ -22,8 +22,8 @@
                 <div class="d-flex flex-column mb-4">
                   <a class="mb-3" href="${policy.url}"><img class="img-thumbnail shadow-sm" src="${policy.image}" alt=""></a>
                   <a class="fs-6 fw-bold base-color" href="#">${policy.title}</a>
-                  <p class="mb-1">${policy.content}</p>
-                  <a class="base-color" href="${policy.url}">Xem tiếp <i class="fas fa-caret-right text-orange"></i></a>
+                  <p class="mb-1" style="text-align: justify;">${policy.content}</p>
+                  <a class="base-color" href="${policy.url}">Xem tiếp <i class="fas fa-caret-right text-orange" style="margin-left: .5rem;"></i></a>
                 </div>
               </div>
               </#list>
