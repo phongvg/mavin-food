@@ -5,7 +5,7 @@
           <ul class="list-unstyled" id="recruit-news">
           <#list recuits as recuit>
             <li class="mb-3 fields">
-              <a class="text-dark" href="${recuit.url}"><strong style="font-weight: 800;font-size: large;">${recuit.title}</strong> <br>${recuit.date?datetime?string('dd-MM-yyyy')}</a>
+              <a class="text-dark" href="${recuit.url}"><strong style="font-weight: 800;font-size: large;color: #adadad;">${recuit.title}</strong> <br>${recuit.date?datetime?string('dd-MM-yyyy')}</a>
             </li>
           </#list>
           </ul>
