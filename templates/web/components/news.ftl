@@ -27,16 +27,16 @@
             </#if>
             </#list>
           </div>
-          <div class="row row-cols-1 row-cols-md-3" id="field-news" style="margin-top: 3.5rem!important;">
+          <div class="row row-cols-1 row-cols-md-3" id="field-news" style="margin-top: 3.5rem!important;height: 430px;">
             <#list news as news>
             <#if news?is_last?c == "false">
-            <div class="col fields">
-              <div class="bg-white shadow p-4 p-md-4 mb-4">
+            <div class="col fields d-flex">
+              <div class="bg-white shadow p-4 p-md-4 mb-4" style="position: relative;">
                 <div class="d-flex flex-column">
                   <a href="${news.url}"><img class="img-fluid" src="${news.image}" alt=""></a>
                   <h4 class="fs-6 my-3"><a class="fw-bold base-color" href="${news.url}">${news.title}</a></h4>
                   <div class="view-more">
-                    <a class="d-flex align-items-center" href="${news.url}">
+                    <a class="d-flex align-items-center" href="${news.url}" style="position: absolute;bottom: 20px;">
                       <span class="fw-bold text-muted pe-2 small">Xem tiếp</span>
                       <span class="icon-vm d-flex justify-content-center align-items-center bg-white rounded-circle base-color"><i class="fas fa-caret-right fa-lg"></i></span>
                     </a>
