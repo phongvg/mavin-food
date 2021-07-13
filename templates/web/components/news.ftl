@@ -4,12 +4,12 @@
       <div class="container">
         <div class="py-3 py-md-5">
           <h1 class="p-3 h4 base-bg-color text-white fw-bold text-uppercase shadow mb-4">tin mavin</h1>
-          <div class="bg-white shadow p-3 p-md-4">
+          <div class="bg-white shadow p-3" style="height: 420px;">
             <#list news as news>
             <#if news?is_last>
             <div class="row row-cols-1 row-cols-md-2">
               <div class="col">
-                <div class="mb-3 mb-md-0"><img class="img-fluid" src="${news.image}" alt=""></div>
+                <div class="mb-3 mb-md-0"><img class="img-fluid h-100" style="width: -webkit-fill-available;" src="${news.image}" alt=""></div>
               </div>
               <div class="col" style="display: flex;flex-direction: column;justify-content: space-between;">
                 <div>
