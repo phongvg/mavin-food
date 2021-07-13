@@ -61,24 +61,14 @@
                 </div>
               </div>
               <ul class="list-unstyled list-mf mb-0">
+                <#list docs as docs>
                 <li>
-                  <a class="text-muted" href="#">
+                  <a class="text-muted" href="${docs.url}">
                     <span class="d-block text-uppercase">ERP MAVIN FOODS</span>
-                    Triển khai ứng dụng hệ thống phần mềm ERP cho ngành thực phẩm chế biến
+                    ${docs.title}
                   </a>
                 </li>
-                <li>
-                  <a class="text-muted" href="#">
-                    <span class="d-block text-uppercase">ERP MAVIN FOODS</span>
-                    Triển khai ứng dụng hệ thống phần mềm ERP cho ngành thực phẩm chế biến
-                  </a>
-                </li>
-                <li>
-                  <a class="text-muted" href="#">
-                    <span class="d-block text-uppercase">ERP MAVIN FOODS</span>
-                    Triển khai ứng dụng hệ thống phần mềm ERP cho ngành thực phẩm chế biến
-                  </a>
-                </li>
+                </#list>
               </ul>
             </div>
           </div>
