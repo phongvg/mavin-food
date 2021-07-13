@@ -20,7 +20,7 @@
             <#if (contentModel.featPro_o.item)??>
                 <#list contentModel.featPro_o.item as feat>
                     <div class="slide-item">
-                      <a class="d-block text-muted" href="${feat.url}">
+                      <a class="d-block text-muted" href="${feat.link_s}">
                         <img class="img-fluid mx-auto mb-3" src="${feat.image_s}" alt="">
                         <span class="d-block fs-6">Xem chi tiết</span>
                       </a>
