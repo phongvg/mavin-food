@@ -8,7 +8,7 @@
                     <#list contentModel.products_o.item as products>
                         <a class="d-block text-white" href="${products.link_s}">
                         <img class="img-fluid mx-auto" src="${products.image_s}" alt="">
-                        <span class="d-block fs-6 mt-3">${products.name_s}</span>
+                        <span class="d-block mt-3" style="font-size: 15px; !important">${products.name_s}</span> </a>
                     </#list>
                 </#if>
             </a>
