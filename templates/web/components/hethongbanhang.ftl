@@ -63,6 +63,15 @@
                     <div class="col mb-3">
                       <img class="img-fluid" src="/static-assets/dist/temp/logo-partner.jpg" alt="">
                     </div>
+                    <div class="col mb-3">
+                      <img class="img-fluid" src="/static-assets/dist/temp/logo-partner.jpg" alt="">
+                    </div>
+                    <div class="col mb-3">
+                      <img class="img-fluid" src="/static-assets/dist/temp/logo-partner.jpg" alt="">
+                    </div>
+                    <div class="col mb-3">
+                      <img class="img-fluid" src="/static-assets/dist/temp/logo-partner.jpg" alt="">
+                    </div>
                   </div>
                   <div class="position-absolute bottom-0 end-0">
                     <img src="/static-assets/dist/images/crown.png" alt="" width="90" height="90">
