@@ -36,10 +36,10 @@ a {
       color: white; }
 
 .arrows-style .slick-prev {
-  left: -100px; }
+  left: -60px; }
 
 .arrows-style .slick-next {
-  right: -100px; }
+  right: -60px; }
 
 .arrows-style .slick-prev:before, .arrows-style .slick-next:before {
   font-family: 'Font Awesome 5 Free';
