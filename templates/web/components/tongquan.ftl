@@ -28,19 +28,19 @@
               </div>
               <div class="row row-cols-2 row-cols-md-auto gx-0 justify-content-center">
                 <div class="col text-center">
-                  <img class="img-b10w" src="/static-assets/dist/temp/1-1.png" alt="">
+                  <a href="/tong-quan/chuoi-gia-tri"> <img class="img-b10w" src="/static-assets/dist/temp/1-1.png" alt=""> </a>
                 </div>
                 <div class="col text-center">
-                  <img class="img-b10w" src="/static-assets/dist/temp/1-2.png" alt="">
+                  <a href="/tong-quan/chuoi-gia-tri-1"> <img class="img-b10w" src="/static-assets/dist/temp/1-2.png" alt=""> </a>
                 </div>
                 <div class="col text-center">
-                  <img class="img-b10w" src="/static-assets/dist/temp/1-4.png" alt="">
+                  <a href="/tong-quan/chuoi-gia-tri-2"> <img class="img-b10w" src="/static-assets/dist/temp/1-4.png" alt=""> </a>
                 </div>
                 <div class="col text-center">
-                  <img class="img-b10w" src="/static-assets/dist/temp/1-3.png" alt="">
+                  <a href="/tong-quan/chuoi-gia-tri-3"> <img class="img-b10w" src="/static-assets/dist/temp/1-3.png" alt=""> </a>
                 </div>
                 <div class="col text-center">
-                  <img class="img-b10w" src="/static-assets/dist/temp/1-5.png" alt="">
+                  <a href="/tong-quan/chuoi-gia-tri-4"> <img class="img-b10w" src="/static-assets/dist/temp/1-5.png" alt=""> </a>
                 </div>
               </div>
             </div>
