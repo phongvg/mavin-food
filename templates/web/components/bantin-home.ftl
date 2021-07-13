@@ -20,10 +20,11 @@
                 </#if>
               </#list>
               <ul class="list-unstyled list-mf mb-0">
+              <#list news as news>
+                <#if news?is_last?c == "false">
                 <li>
-                  <a class="text-muted" href="#">
-                    <span class="d-block text-uppercase">ERP MAVIN FOODS</span>
-                    Triển khai ứng dụng hệ thống phần mềm ERP cho ngành thực phẩm chế biến
+                  <a class="text-muted" href="${news.url}">
+                    ${news.title}
                   </a>
                 </li>
               </ul>
