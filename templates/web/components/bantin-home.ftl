@@ -27,6 +27,8 @@
                     ${news.title}
                   </a>
                 </li>
+                </#if>
+                </#list>
               </ul>
             </div>
           </div>
