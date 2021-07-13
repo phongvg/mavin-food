@@ -18,7 +18,7 @@
                     </div>
                   </div>
                 </#if>
-              </#list
+              </#list>
               <ul class="list-unstyled list-mf mb-0">
                 <li>
                   <a class="text-muted" href="#">
