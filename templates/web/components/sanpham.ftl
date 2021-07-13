@@ -13,14 +13,14 @@
           </div>
         </div>
         <div class="slider-product mb-md-4 mt-5 pt-5 text-center">
-          <h2 class="base-color fw-bold mb-3">sản phẩm tiêu biểu</h2>
+          <h2 class="base-color fw-bold mb-3">Sản phẩm tiêu biểu</h2>
           <div class="sp-2 slide-centerMode arrows-style">
             <#if (products)??>
     	    <#list products as product>
             <div class="slide-item">
               <a class="d-block text-muted" href="${product.url}">
                 <img class="img-fluid mx-auto mb-3" src="${product.image1}" alt="">
-                <span class="d-block fs-6">Xem chi tiết</span>
+                <span class="d-block" style="font-size: 22px !important ;">Xem chi tiết</span>
               </a>
             </div>
             </#list>
