@@ -22,18 +22,6 @@
                     Triển khai ứng dụng hệ thống phần mềm ERP cho ngành thực phẩm chế biến
                   </a>
                 </li>
-                <li>
-                  <a class="text-muted" href="#">
-                    <span class="d-block text-uppercase">ERP MAVIN FOODS</span>
-                    Triển khai ứng dụng hệ thống phần mềm ERP cho ngành thực phẩm chế biến
-                  </a>
-                </li>
-                <li>
-                  <a class="text-muted" href="#">
-                    <span class="d-block text-uppercase">ERP MAVIN FOODS</span>
-                    Triển khai ứng dụng hệ thống phần mềm ERP cho ngành thực phẩm chế biến
-                  </a>
-                </li>
               </ul>
             </div>
           </div>
