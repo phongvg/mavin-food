@@ -24,6 +24,7 @@
                 <#if news?is_last?c == "false">
                 <li>
                   <a class="text-muted" href="${news.url}">
+                    <span class="d-block text-uppercase">ERP MAVIN FOODS</span>
                     ${news.title}
                   </a>
                 </li>
