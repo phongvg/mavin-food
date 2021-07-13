@@ -27,7 +27,7 @@
               </div>
             </div>
             <div class="col mb-4">
-              <div class="bg-white p-3 shadow">
+              <div class="bg-white p-3 shadow" style="height: 100%;">
                 <h2 class="h5 base-color fw-bold mb-3">Hệ thống Siêu thị</h2>
                 <div class="d-flex justify-content-between mb-4">
                   <div class="me-2 flex-fill">
