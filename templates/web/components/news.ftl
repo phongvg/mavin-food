@@ -64,7 +64,7 @@
     </section>
     <script>
         var numberOfFieldsNews = $("#field-news .fields").length;
-         limitPerPage = 3;
+         limitPerPage = 2;
          $("#field-news .fields:gt(" + (limitPerPage -1 )+")").hide();
          
          var totalPages2 = Math.round(numberOfFieldsNews / limitPerPage );
