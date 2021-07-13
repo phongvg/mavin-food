@@ -4,17 +4,21 @@
           <div class="col">
             <div class="bg-white p-3 p-md-5 mb-4 shadow">
               <h3 class="text-uppercase fw-bold fs-5 base-color">tin tức - sự kiện</h3>
-              <a href="/ban-tin"><img class="w-100 h-auto" src="/static-assets/dist/temp/7.jpg" alt=""></a>
-              <div class="row g-0 mt-2 mb-3">
-                <div class="col">
-                  <a class="d-block px-3 py-2 base-bg-color fw-bold text-white" href="/ban-tin">MAVIN FOODS - Mắt xích quan trọng  của chuỗi giá trị “Từ Nông trại tới Bàn ăn”</a>
-                </div>
-                <div class="col-auto">
-                  <a class="d-flex align-items-center h-100 px-1 py-2 bg-orange base-color" href="/ban-tin">
-                    <span style="font-weight: bold;font-size: small;">Xem tiếp</span>
-                  </a>
-                </div>
-              </div>
+              <#list news as news>
+                <#if news?is_last>
+                  <a href="/ban-tin"><img class="w-100 h-auto" src="/static-assets/dist/temp/7.jpg" alt=""></a>
+                  <div class="row g-0 mt-2 mb-3">
+                    <div class="col">
+                      <a class="d-block px-3 py-2 base-bg-color fw-bold text-white" href="/ban-tin">MAVIN FOODS - Mắt xích quan trọng  của chuỗi giá trị “Từ Nông trại tới Bàn ăn”</a>
+                    </div>
+                    <div class="col-auto">
+                      <a class="d-flex align-items-center h-100 px-1 py-2 bg-orange base-color" href="/ban-tin">
+                        <span style="font-weight: bold;font-size: small;">Xem tiếp</span>
+                      </a>
+                    </div>
+                  </div>
+                </#if>
+              </#list
               <ul class="list-unstyled list-mf mb-0">
                 <li>
                   <a class="text-muted" href="#">
