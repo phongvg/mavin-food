@@ -22,8 +22,9 @@
                     <div class="slide-item">
                       <a class="d-block text-muted" href="${feat.link_s}">
                         <img class="img-fluid mx-auto mb-3" src="${feat.image_s}" alt="">
+                        <span class="d-block" style="font-size: 18px !important ; transform: scale(1) !important;">Xem chi tiết</span>
                       </a>
-                      <span class="d-block" style="font-size: 18px !important ; transform: scale(1) !important;">Xem chi tiết</span>
+                      
                     </div>
                 </#list>
             </#if>
