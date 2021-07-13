@@ -9,7 +9,7 @@
               <span class="fw-light d-block mb-4" style="font-size: 1.5rem!important;">của Mavin</span>
             </h1>
             <p class="fst-italic text-muted text-recommend">
-              ${contentModel.content_html}
+              <span style="margin-left: 3rem;">${contentModel.content_html}</span>
             </p>
           </div>
           <div class="col-lg-8">
