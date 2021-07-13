@@ -4,7 +4,7 @@
       <div class="container">
         <div class="py-3 py-md-5">
           <h1 class="p-3 h4 base-bg-color text-white fw-bold text-uppercase shadow mb-4">tin mavin</h1>
-          <div class="bg-white shadow p-3 p-md-4 mb-4">
+          <div class="bg-white shadow p-3 p-md-4">
             <#list news as news>
             <#if news?is_last>
             <div class="row row-cols-1 row-cols-md-2">
@@ -27,7 +27,7 @@
             </#if>
             </#list>
           </div>
-          <div class="row row-cols-1 row-cols-md-3" id="field-news" style="margin-top: 3.5rem!important;height: 430px;">
+          <div class="row row-cols-1 row-cols-md-3" id="field-news" style="margin-top: 3.5rem!important;height: 420px;">
             <#list news as news>
             <#if news?is_last?c == "false">
             <div class="col fields d-flex">
