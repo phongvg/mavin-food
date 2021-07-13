@@ -15,7 +15,7 @@
           </div>
         </div>
         <div class="slider-product mb-md-4 mt-5 pt-5 text-center">
-          <h2 class="base-color fw-bold mb-3">sản phẩm tiêu biểu</h2>
+          <h2 class="base-color fw-bold mb-3">Sản phẩm tiêu biểu</h2>
           <div class="sp-2 slide-centerMode arrows-style">
             <#if (contentModel.featPro_o.item)??>
                 <#list contentModel.featPro_o.item as feat>
