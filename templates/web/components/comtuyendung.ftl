@@ -37,7 +37,7 @@
     </section>
     <script>
         var numberOfFieldsNews = $("#recruit-news .fields").length;
-         limitPerPage = 4;
+         limitPerPage = 5;
          $("#recruit-news .fields:gt(" + (limitPerPage -1 )+")").hide();
          
          var totalPages2 = Math.round(numberOfFieldsNews / limitPerPage );
