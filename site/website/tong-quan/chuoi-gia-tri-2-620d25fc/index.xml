@@ -7,11 +7,11 @@
 	<objectGroupId>57b44bd5</objectGroupId>
 	<objectId>57b44bd5-bcc9-43be-a55d-52dbd61e655f</objectId>
 	<file-name>index.xml</file-name>
-	<folder-name>chuoi-gia-tri-2-620d25fc</folder-name>
-	<internal-name>Chuỗi giá trị 2 620d25fc</internal-name>
-	<navLabel>Chuỗi giá trị 2</navLabel>
+	<folder-name>chuoi-gia-tri-3</folder-name>
+	<internal-name>Chuỗi giá trị 3</internal-name>
+	<navLabel>Chuỗi giá trị 3</navLabel>
 	<placeInNav>false</placeInNav>
-	<orderDefault_f>0.0</orderDefault_f>
+	<orderDefault_f>-1</orderDefault_f>
 	<section_o item-list="true">	<item datasource="sections" inline="true">	<key>35265d0f-6f55-7f1e-5ee7-383bc9e43f3d</key>
 	<value>Tổng quan chuỗi giá trị</value>
 <component id="35265d0f-6f55-7f1e-5ee7-383bc9e43f3d">
@@ -60,8 +60,8 @@
 	</item></section_o>
 	<createdDate>2021-06-13T16:24:35.686Z</createdDate>
 	<createdDate_dt>2021-06-13T16:24:35.686Z</createdDate_dt>
-	<lastModifiedDate>2021-07-13T07:12:57.552Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-07-13T07:12:57.552Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-07-13T07:13:25.802Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-07-13T07:13:25.802Z</lastModifiedDate_dt>
 	<slide_o item-list="true">	<item datasource="sections" inline="true">	<key>7272c9c6-8dc0-a626-6b47-6d15b6c2ff77</key>
 	<value>S</value>
 <component id="7272c9c6-8dc0-a626-6b47-6d15b6c2ff77">
