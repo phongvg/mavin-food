@@ -13,8 +13,8 @@
 	<folder-name/>
 	<createdDate>2017-1-31T16:18:14.000Z</createdDate>
 	<createdDate_dt>2017-1-31T16:18:14.000Z</createdDate_dt>
-	<lastModifiedDate>2021-07-08T05:04:19.175Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-07-08T05:04:19.175Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-07-13T07:27:05.718Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-07-13T07:27:05.718Z</lastModifiedDate_dt>
 	<title_t>Mavin-Food</title_t>
 	<sections_o item-list="true">	<item datasource="sections" inline="true">	<key>eae80de2-40f3-601d-7236-b66d34d383a1</key>
 	<value>Giới thiệu - Home</value>
@@ -81,17 +81,17 @@
 	<internal-name>Sản Phẩm - Home</internal-name>
 	<createdDate>2021-06-01T07:20:23.678Z</createdDate>
 	<createdDate_dt>2021-06-01T07:20:23.678Z</createdDate_dt>
-	<lastModifiedDate>2021-06-29T11:22:53.097Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-06-29T11:22:53.097Z</lastModifiedDate_dt>
-	<featPro_o item-list="true">	<item>	<link_s>#</link_s>
+	<lastModifiedDate>2021-07-13T07:27:09.693Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-07-13T07:27:09.693Z</lastModifiedDate_dt>
+	<featPro_o item-list="true">	<item>	<link_s>san-pham/xuc-xich/xx5</link_s>
 	<image_s>/static-assets/images/home/2.jpg</image_s>
-	</item>	<item>	<link_s>#</link_s>
+	</item>	<item>	<link_s>san-pham/xuc-xich/xx4</link_s>
 	<image_s>/static-assets/images/home/3.jpg</image_s>
-	</item>	<item>	<link_s>#</link_s>
+	</item>	<item>	<link_s>san-pham/xuc-xich/xx3</link_s>
 	<image_s>/static-assets/images/home/4.jpg</image_s>
-	</item>	<item>	<link_s>#</link_s>
+	</item>	<item>	<link_s>san-pham/xuc-xich/xx2</link_s>
 	<image_s>/static-assets/images/home/5.jpg</image_s>
-	</item>	<item>	<link_s>#</link_s>
+	</item>	<item>	<link_s>san-pham/xuc-xich/xx1</link_s>
 	<image_s>/static-assets/images/home/6.jpg</image_s>
 	</item>	<item>	<link_s>#</link_s>
 	<image_s>/static-assets/images/home/2.jpg</image_s>
