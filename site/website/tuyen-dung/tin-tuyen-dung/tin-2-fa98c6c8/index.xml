@@ -6,13 +6,13 @@
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>41d8d9cb</objectGroupId>
 	<objectId>41d8d9cb-0332-4144-a53d-81d2396f47e0</objectId>
-	<internal-name>Nhân viên Kinh doanh Mavin Food (Văn phòng HCM) fa98c6c8</internal-name>
-	<navLabel>Nhân viên Kinh doanh Mavin Food (Văn phòng HCM)</navLabel>
-	<title_s>Nhân viên Kinh doanh Mavin Food (Văn phòng HCM)</title_s>
+	<internal-name>Nhân viên Kinh doanh Mavin Food (Văn phòng NA)</internal-name>
+	<navLabel>Nhân viên Kinh doanh Mavin Food (Văn phòng NA)</navLabel>
+	<title_s>Nhân viên Kinh doanh Mavin Food (Văn phòng NA)</title_s>
 	<file-name>index.xml</file-name>
-	<folder-name>tin-2-fa98c6c8</folder-name>
+	<folder-name>tin-6</folder-name>
 	<placeInNav>false</placeInNav>
-	<orderDefault_f>0.0</orderDefault_f>
+	<orderDefault_f>-1</orderDefault_f>
 	<content_html>&lt;ul class="list-unstyled" style="box-sizing: border-box; padding-left: 0px; margin-top: 0px; margin-bottom: 1rem; list-style: none; color: #212529; font-family: Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; background-color: #ffffff;"&gt;
 &lt;li class="mb-3" style="box-sizing: border-box; margin-bottom: 1rem !important;"&gt;
 &lt;p style="box-sizing: border-box; font-size: 18px; margin: 0px 0px 1rem; padding: 0px; font-family: Roboto, sans-serif; border: 0px; vertical-align: baseline; line-height: 1.5;"&gt;&lt;span style="box-sizing: border-box; margin: 0px; padding: 0px; font-weight: bolder; border: 0px; vertical-align: baseline;"&gt;Số lượng tuyển: 2 người&lt;/span&gt;&lt;/p&gt;
@@ -41,8 +41,8 @@
 &lt;/ul&gt;</content_html>
 	<createdDate>2021-06-17T04:26:07.346Z</createdDate>
 	<createdDate_dt>2021-06-17T04:26:07.346Z</createdDate_dt>
-	<lastModifiedDate>2021-06-21T11:10:38.121Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-06-21T11:10:38.121Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-07-13T07:46:21.514Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-07-13T07:46:21.514Z</lastModifiedDate_dt>
 	<date_dt>2021-06-17T04:00:00.000Z</date_dt>
 	<date_dt_tz>EST5EDT</date_dt_tz>
 	<slide_o item-list="true">	<item datasource="slide" inline="true">	<key>728fc45e-3ea2-2d1f-15ce-1d66055b52d4</key>
