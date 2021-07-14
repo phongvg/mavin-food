@@ -7,8 +7,8 @@
               <#list news as news>
                 <#if news?is_last>
                   <a href="${news.url}"><img class="w-100 h-auto" src="${news.image}" alt=""></a>
-                  <div class="row g-0 mt-2 mb-4">
-                    <div class="col" style="padding-bottom: .8rem;">
+                  <div class="row g-0 mt-2 mb-4" style="padding-bottom: .8rem;">
+                    <div class="col">
                       <a class="d-block px-3 py-2 base-bg-color fw-bold text-white" href="${news.url}">${news.title}</a>
                     </div>
                     <div class="col-auto">
