@@ -176,6 +176,9 @@ a {
 
 .slide-centerMode .slick-center a {
   transform: scale(1); }
+  
+.slide-centerMode .slick-center a span{
+  transform: scale(0.6); }
 
 .slide-centerMode a img {
   width: 100%;
