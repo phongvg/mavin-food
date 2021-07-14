@@ -38,7 +38,7 @@
          limitPerPage = 6;
          $("#products .fields:gt(" + (limitPerPage -1 )+")").hide();
          
-         var totalPages2 = Math.round(numberOfFieldsNews / limitPerPage );
+         var totalPages2 = Math.ceil(numberOfFieldsNews / limitPerPage );
          $('.pagi2').append("<li class='page-item current-page active'><a class='page-link' href='javacript:void(0)'>"+ 1+"</a></li>");
          for (let i=2; i<= totalPages2;i++){
          $(".pagi2").append("<li class='page-item current-page'><a class='page-link' href='javascript:void(0)'>"+ i +"</a></li>");
