@@ -26,7 +26,7 @@
     <@renderComponent component=contentModel.header_o.item />
     <section class="sp-block py-4 py-md-5">
       <div class="container">
-        <div class="py-1 py-md-3">
+        <div class="py-3 py-md-5">
           <h1 class="h1 base-color fw-bold text-uppercase mb-8">tin mavin</h1>
           <div class="bg-white shadow p-3 p-md-4 mb-4">
             <h2 class="h2 base-color fw-bold mb-12" >${contentModel.title_s}</h2>
