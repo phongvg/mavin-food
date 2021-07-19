@@ -29,7 +29,7 @@
         <div class="py-3 py-md-5">
           <h1 class="h1 base-color fw-bold text-uppercase mb-8">tin mavin</h1>
           <div class="bg-white shadow p-3 p-md-4 mb-4">
-            <h6 class="h6 base-color fw-bold mb-12">${contentModel.title_s}</h6>
+            <h6 class="h6 base-color fw-bold mb-12" style="font-size:30px;">${contentModel.title_s}</h6>
             <div class="mb-4"><img src="/static-assets/dist/images/share.jpg"></div>
             <p class="text-center"><img class="img-fluid" src="${contentModel.image_s}" alt=""></p>
             <p>${contentModel.content_html}</p>
