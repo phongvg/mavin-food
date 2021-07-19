@@ -31,7 +31,7 @@
           <div class="bg-white shadow p-3 p-md-4 mb-4">
             <h2 class="h2 base-color fw-bold mb-12" >${contentModel.title_s}</h2>
             <div class="mb-4"><img src="/static-assets/dist/images/share.jpg"></div>
-            <p class="text-center"><img class="img-fluid mb-12 col-sm-8 " src="${contentModel.image_s}" alt=""></p>
+            <p class="text-center"><img class="img-fluid mb-12 col-sm-12 " src="${contentModel.image_s}" alt=""></p>
             <p>${contentModel.content_html}</p>
           </div>
           <ul class="list-unstyled list-mf mb-0">
