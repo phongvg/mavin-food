@@ -27,7 +27,7 @@
     <section class="sp-block py-4 py-md-5">
       <div class="container">
         <div class="py-3 py-md-5">
-          <h4 class="h4 base-color fw-bold text-uppercase mb-8">tin mavin</h4>
+          <h4 class="h4 base-color fw-bold text-uppercase mb-12">tin mavin</h4>
           <div class="bg-white shadow p-3 p-md-4 mb-4">
             <h1 class="h4 base-color fw-bold mb-3">${contentModel.title_s}</h1>
             <div class="mb-3"><img src="/static-assets/dist/images/share.jpg"></div>
