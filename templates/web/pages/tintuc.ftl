@@ -24,7 +24,7 @@
             <@renderComponent parent=contentModel component=slide />
     </#list>
     <@renderComponent component=contentModel.header_o.item />
-    <section class="sp-block py-2 py-md-5">
+    <section class="sp-block py-1 py-md-3">
       <div class="container">
         <div class="py-3 py-md-5">
           <h1 class="h1 base-color fw-bold text-uppercase mb-8">tin mavin</h1>
