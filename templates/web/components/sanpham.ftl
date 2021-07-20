@@ -44,7 +44,7 @@
           <div class="mb-3 mb-md-0">
             <img src="/static-assets/dist/images/logo-circle2.png" alt="" width="155" height="155">
           </div>
-          <div class="fs-7">
+          <div class="fs-6">
             <p>Cách 1: <strong>Dùng điện thoại quét mã QR in trên bao bì</strong></p>
             <p>Cách 2: <strong>Nhập mã số mã vạch in trên bao bì vào ô bên dưới để tra cứu thông tin</strong></p>
             <div class="row g-3 align-items-center">
