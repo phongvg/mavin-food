@@ -9,7 +9,7 @@
             <#if news?is_last>
             <div class="row row-cols-1 row-cols-md-2">
               <div class="col">
-                <div class="mb-3 p-4 mb-md-0"><img class="img-fluid h-100" style="width: -webkit-fill-available;" src="${news.image}" alt=""></div>
+                <div class="mb-3 p-3 mb-md-0"><img class="img-fluid h-100" style="width: -webkit-fill-available;" src="${news.image}" alt=""></div>
               </div>
               <div class="col" style="display: flex;flex-direction: column;justify-content: space-between;">
                 <div>
