@@ -24,7 +24,7 @@
             <div class="col-md-11">
               <div class="d-flex flex-column fw-bold mb-4" style="margin-left: 4rem;">
                 <div class="fs-5">Chuỗi giá trị</div>
-                <div class="fs-1"><h1>“Sạch từ nguồn” <span class="fs-3">của Mavin</span> </h1></div>
+                <div class="fs-1"><h1>“Sạch từ nguồn” <span class="fs-3">&nbsp;của Mavin</span> </h1></div>
               </div>
               <div class="row row-cols-2 row-cols-md-auto gx-0 justify-content-center">
                 <div class="col text-center">
