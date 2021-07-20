@@ -27,7 +27,7 @@
             </#if>
             </#list>
           </div>
-          <div class="row row-cols-1 row-cols-md-3" id="field-news" style="margin-top: 3.5rem!important;height: 390px;">
+          <div class="row row-cols-1 row-cols-md-3" id="field-news" style="margin-top: 2.5rem!important;height: 390px;">
             <#list news as news>
             <#if news?is_last?c == "false">
             <div class="col fields">
