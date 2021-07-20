@@ -47,7 +47,7 @@
             </#if>
             </#list>
           </div>
-          <nav class="pagination-mf" aria-label="" style="margin-top: 5.5rem!important;" >
+          <nav class="pagination-mf" aria-label="" style="margin-top: 3.5rem!important;" >
             <ul class="pagination pagi2 justify-content-center">
               <li id="previous-page2" class="page-item"><a class="page-link" href="javacript:void(0)"><span class="fas fa-angle-left"></a></li>
               
