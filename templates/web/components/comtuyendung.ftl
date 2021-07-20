@@ -1,7 +1,7 @@
     <section class="sp-block py-4 py-md-5">
       <div class="container">
         <div class="py-3 py-md-5">
-          <h1 class="h4 base-color fw-bold text-uppercase mb-3">tin tuyển dụng</h1>
+          <h1 class="h4 base-color fw-bold text-uppercase mb-3 p-3">tin tuyển dụng</h1>
           <ul class="list-unstyled" id="recruit-news">
           <#list recuits as recuit>
             <li class="mb-3 fields">
@@ -9,7 +9,7 @@
             </li>
           </#list>
           </ul>
-          <nav class="pagination-mf" aria-label="">
+          <nav class="pagination-mf py-4" aria-label="">
             <ul class="pagination pagi2 justify-content-center">
               <li id="previous-page2" class="page-item"><a class="page-link" href="javacript:void(0)"><span class="fas fa-angle-left"></a></li>
             </ul>
@@ -21,9 +21,9 @@
               <div class="col">
                 <div class="d-flex flex-column mb-4">
                   <a class="mb-3" href="${policy.url}"><img class="img-thumbnail shadow-sm" src="${policy.image}" alt=""></a>
-                  <a class="fs-6 fw-bold base-color" href="#">${policy.title}</a>
+                  <a class="fs-6 fw-bold base-color py-3" href="#">${policy.title}</a>
                   <p class="mb-1" style="text-align: justify;">${policy.content}</p>
-                  <a class="base-color" href="${policy.url}">Xem tiếp <i class="fas fa-caret-right text-orange" style="margin-left: .5rem;"></i></a>
+                  <a class="base-color py-3" href="${policy.url}">Xem tiếp <i class="fas fa-caret-right text-orange" style="margin-left: .5rem;"></i></a>
                 </div>
               </div>
               </#list>
