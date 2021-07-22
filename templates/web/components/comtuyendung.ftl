@@ -14,7 +14,7 @@
               <li id="previous-page2" class="page-item"><a class="page-link" href="javacript:void(0)"><span class="fas fa-angle-left"></a></li>
             </ul>
           </nav>
-          <div>
+          <div style="margin-top: 3rem;">
             <h2 class="h4 base-color fw-bold text-uppercase mb-3">chính sách nhân sự</h2>
             <div class="row row-cols-1 row-cols-md-2 gx-5">
               <#list policies as policy>
