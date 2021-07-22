@@ -252,9 +252,11 @@ a {
     background-color: #d22234; }
 
 .list-mf li {
-  position: relative;
-  margin-bottom: 0.7rem;
-  padding-bottom: 0.7rem; }
+    position: relative;
+    margin-bottom: 0.7rem;
+    padding-bottom: 0.7rem; 
+    margin: 2rem 0;
+}
   .list-mf li:before {
     position: absolute;
     content: "";
