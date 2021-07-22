@@ -33,7 +33,7 @@
       <div class="container">
         <div class="d-flex flex-column flex-md-row align-items-center">
           <div class="flex-shrink-0 me-3 mb-3 mb-md-0"><img class="img-fluid" src="${contentModel.image_s}" alt=""></div>
-          <div class="flex-grow-1" style="text-align: justify;padding: 1.8rem!important;margin-right: 3.5rem;color: #6c757d!important;font-size: 17px;">
+          <div class="flex-grow-1" style="text-align: justify;padding: 1.8rem!important;margin-right: 3.5rem;font-weight: 700;">
             ${contentModel.content_html}
           </div>
         </div>
