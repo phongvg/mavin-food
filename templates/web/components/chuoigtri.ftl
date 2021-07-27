@@ -2,7 +2,7 @@
 <section class="sp-block bg-cgts">
       <div class="container">
         <div class="bg-white shadow p-3 p-md-5">
-          <div class="mb-3"><img class="img-fluid" src="${contentModel.image_s}"></div>
+          <div class="mb-4"><img class="img-fluid" src="${contentModel.image_s}"></div>
           <h1 class="base-color h3">${contentModel.title_s}</strong></h1>
           ${contentModel.content_html}
         <div class="back-link my-3 my-md-5">
