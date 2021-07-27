@@ -22,7 +22,7 @@
         </#if>
 
         
-        <div class="category-circle d-flex flex-wrap flex-md-nowrap justify-content-center align-items-center py-3 py-md-5">
+        <div class="category-circle d-flex flex-wrap flex-md-nowrap justify-content-center align-items-center py-3 py-md-5" style="margin: 4rem 0rem;">
           <a class="item d-flex justify-content-center align-items-center" href="/san-pham/xuc-xich">xúc<br>xích</a>
           <a class="item d-flex justify-content-center align-items-center" href="/san-pham/do-vien">đồ<br>viên</a>
           <a class="item d-flex justify-content-center align-items-center" href="/san-pham/gio-cha">giò<br>chả</a>
