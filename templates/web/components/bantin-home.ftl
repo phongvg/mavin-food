@@ -67,7 +67,7 @@
                 <li>
                   <a class="text-muted" href="${docs.url}">
                     <span class="d-block text-uppercase">ERP MAVIN FOODS</span>
-                    ${docs.name}
+                    ${docs.title}
                   </a>
                 </li>
                 </#list>
