@@ -8,7 +8,7 @@
               <span style="font-size: 2.5rem!important;">"Sạch từ nguồn"</span>
               <span class="fw-light d-block mb-4" style="font-size: 1.5rem!important;">của Mavin</span>
             </h1>
-            <p class="fst-italic text-muted text-recommend">
+            <p class="fst-italic text-muted text-recommend" style="font-family: UVF-DINPro-BoldItalic">
               ${contentModel.content_html}
             </p>
           </div>
