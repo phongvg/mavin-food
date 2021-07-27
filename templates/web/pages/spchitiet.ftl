@@ -79,7 +79,7 @@
               </div>
             </div>
             <div class="base-bg-color shadow p-2 text-center">
-              <a class="d-block text-white" href="#">${product.name}<br>${product.kl}</a>
+              <a class="d-block text-white" href="#"><strong>${product.name}</strong><br>${product.kl}</a>
               <div class="text-orange">${product.price}</div>
             </div>
           </div>
