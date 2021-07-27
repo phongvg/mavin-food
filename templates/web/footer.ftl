@@ -23,7 +23,7 @@
                 </#list>
                 </div>
                 <div class="fw-bold" style="padding-top: 5px;">
-                  <p class="fs-7" style="font-size: 16px;">Chăm sóc Khách hàng</p>
+                  <p class="fs-7" style="font-size: 16px; margin-bottom: 2px !important">Chăm sóc Khách hàng</p>
                   <p class="fs-4">${contentModel.carephone_s}</p>
                 </div>
               </div>
