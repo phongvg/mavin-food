@@ -23,6 +23,14 @@
     font-family: 'UVF-DINPro Bold';
     src: url('/static-assets/font/UVF DINPro-Bold.otf');
 }
+@font-face {
+    font-family: 'UVF-DINPro Bold';
+    src: url('/static-assets/font/UVF DINPro-BoldItalic.otf');
+}
+@font-face {
+    font-family: 'UVF-DINPro Bold';
+    src: url('/static-assets/font/UVF DINPro-Italic.otf');
+}
 /*
 	Editorial by HTML5 UP
 	html5up.net | @ajlkn
