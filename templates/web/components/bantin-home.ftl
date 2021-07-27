@@ -37,8 +37,8 @@
             <div class="bg-white p-3 p-md-5 mb-4 shadow">
               <h3 class="text-uppercase fw-bold fs-5 base-color">thư viện tư liệu</h3>
               <div class="d-flex flex-column-reverse">
-              <a href="/thu-vien">
-                <ul class="nav nav-pills nav-fill nav-tab-news mb-3 mt-2" id="pills-tab" role="tablist" style="height: 55px;">
+              <a href="/thu-vien" style="height: 55px;">
+                <ul class="nav nav-pills nav-fill nav-tab-news mb-3 mt-2" id="pills-tab" role="tablist" >
                   <li class="nav-item" role="presentation">
                     <button class="nav-link text-uppercase fw-bold" id="pills-gallery-tab" data-bs-toggle="pill" data-bs-target="#pills-gallery" type="button" role="tab" aria-controls="pills-gallery" aria-selected="true">Thư viện <br>ảnh</button>
                   </li>
