@@ -31,8 +31,8 @@
             <img class="img-fluid" src="${contentModel.image1_s}" alt="">
             <div class="mt-3"><img src="/static-assets/dist/images/share.jpg" alt=""></div>
           </div>
-          <div class="col">
-            <img class="img-fluid" src="${contentModel.image2_s}" alt="">
+          <div class="col" style="flex-direction: column;margin-top: 6rem;display: flex;">
+            <img class="img-fluid" src="${contentModel.image2_s}" alt="" style="padding: 0rem 4rem;">
             <div class="mt-3 fs-5 text-center">
               <div class="d-inline-block text-muted">
                 <div class="text-uppercase fw-bold">${contentModel.name_s}</div>
