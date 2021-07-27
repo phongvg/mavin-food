@@ -38,7 +38,7 @@
                 <div class="text-uppercase fw-bold">${contentModel.name_s}</div>
                 <div class="text-end">${contentModel.kl_s}</div>
               </div>
-              <div class="fw-bold base-color">
+              <div class="base-color">
                 <strong>${contentModel.price_s} /</strong> túi
               </div>
               <div class="mt-3">
