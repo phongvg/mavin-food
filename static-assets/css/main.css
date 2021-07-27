@@ -16,7 +16,14 @@
 
 @import url(font-awesome.min.css);
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:400,600,400italic,600italic|Roboto+Slab:400,700");
-
+@font-face {
+    font-family: 'UVF-DINPro';
+    src: url('/static-assets/font/UVF-DINPro.otf');
+}
+@font-face {
+    font-family: 'UVF-DINPro Bold';
+    src: url('/static-assets/font/UVF-DINPro-Bold.otf');
+}
 /*
 	Editorial by HTML5 UP
 	html5up.net | @ajlkn
