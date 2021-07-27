@@ -2,7 +2,7 @@
     <section class="home-block py-4 py-md-5">
       <div class="container">
         <div class="slider-product mb-4 text-center">
-          <h2 class="base-color fw-bold text-uppercase mb-3">sản phẩm</h2>
+          <h3 class="base-color fw-bold text-uppercase mb-3">sản phẩm</h3>
           <div class="sp-1 arrows-style">
                 <#if (contentModel.products_o.item)??>
                     <#list contentModel.products_o.item as products>
@@ -15,7 +15,7 @@
           </div>
         </div>
         <div class="slider-product mb-md-4 mt-5 pt-5 text-center">
-          <h2 class="base-color fw-bold mb-3">Sản phẩm tiêu biểu</h2>
+          <h3 class="base-color fw-bold mb-3">Sản phẩm tiêu biểu</h3>
           <div class="sp-2 slide-centerMode arrows-style">
             <#if (contentModel.featPro_o.item)??>
                 <#list contentModel.featPro_o.item as feat>
