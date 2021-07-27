@@ -314,7 +314,7 @@ a {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
-  background-image: url(/static-assets/images/bg-catlat.jpg); }
+  background-image: url(../static-assets/images/bg-catlat.jpg); }
 
 .img-b10w {
   max-width: 100%;
