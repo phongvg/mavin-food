@@ -9,7 +9,7 @@
                   <a href="${news.url}"><img class="w-100 h-auto" src="${news.image}" alt=""></a>
                   <div class="row g-0 mt-2 mb-3" style="height: 55px;">
                     <div class="col" style="display: grid;">
-                      <a class="d-block px-3 py-2 base-bg-color fw-bold text-white" href="${news.url}">${news.title}</a>
+                      <a class="d-block px-3 py-2 base-bg-color fw-bold text-white" style="text-transform: uppercase;" href="${news.url}">${news.title}</a>
                     </div>
                     <div class="col-auto">
                       <a class="d-flex align-items-center h-100 px-1 py-2 bg-orange base-color" href="${news.url}">
