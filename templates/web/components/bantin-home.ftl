@@ -7,7 +7,7 @@
               <#list news as news>
                 <#if news?is_last>
                   <a href="${news.url}"><img class="w-100 h-auto" src="${news.image}" alt=""></a>
-                  <div class="row g-0 mt-2 mb-3" style="height: 58px;">
+                  <div class="row g-0 mt-2 mb-3" style="height: 60px;">
                     <div class="col" style="display: grid;">
                       <a class="d-block px-3 py-2 base-bg-color fw-bold text-white" href="${news.url}">${news.title}</a>
                     </div>
@@ -65,7 +65,7 @@
               <ul class="list-unstyled list-mf mb-0">
                 <li>
                   <a class="text-muted">
-                    <h5 class="d-block text-uppercase" style="color: red;">BẾP MAVIN</h5>
+                    <h5 class="d-block text-uppercase" style="color: red; font-weight: 700;">BẾP MAVIN</h5>
                   </a>
                 </li>
                 <#list docs as docs>
