@@ -49,7 +49,7 @@
           </div>
         </div>
       </div>
-      <div class="base-bg-color text-white py-3 py-md-5 my-3 my-md-5">
+      <div class="base-bg-color text-white my-3 my-md-5" style="padding: 5rem 0rem;">
         <div class="container">
           <div class="row row-cols-1 row-cols-md-2">
             <div class="col mb-3 mb-md-0">
