@@ -17,11 +17,11 @@
 @import url(font-awesome.min.css);
 @font-face {
     font-family: 'UVF-DINPro';
-    src: url('/static-assets/font/UVF-DINPro.otf');
+    src: url('/static-assets/font/UVF DINPro.otf');
 }
 @font-face {
     font-family: 'UVF-DINPro Bold';
-    src: url('/static-assets/font/UVF-DINPro-Bold.otf');
+    src: url('/static-assets/font/UVF DINPro-Bold.otf');
 }
 /*
 	Editorial by HTML5 UP
@@ -2093,7 +2093,7 @@
 
 	body, input, select, textarea {
 		color: #7f888f;
-		font-family: UVF-DINPro;
+		font-family: UVF DINPro;
 		font-size: 13pt;
 		font-weight: 400;
 		line-height: 1.65;
@@ -2157,7 +2157,7 @@
 
 	h1, h2, h3, h4, h5, h6 {
 		color: #3d4449;
-		font-family: UVF-DINPro-Bold;
+		font-family: UVF DINPro-Bold;
 		font-weight: 700;
 		line-height: 1.5;
 		margin: 0 0 1em 0;
@@ -2295,7 +2295,7 @@
 	}
 
 	header p {
-		font-family: UVF-DINPro;
+		font-family: UVF DINPro;
 		font-size: 1em;
 		font-weight: 400;
 		letter-spacing: 0.075em;
@@ -2979,7 +2979,7 @@
 		color: #f56a6a !important;
 		cursor: pointer;
 		display: inline-block;
-		font-family: UVF-DINPro;
+		font-family: UVF DINPro;
 		font-size: 0.8em;
 		font-weight: 700;
 		height: 3.5em;
@@ -3991,7 +3991,7 @@
 		-ms-user-select: none;
 		user-select: none;
 		color: #3d4449;
-		 font-family: UVF-DINPro;
+		 font-family: UVF DINPro;
 		font-family: 400;
 		letter-spacing: 0.075em;
 		list-style: none;
