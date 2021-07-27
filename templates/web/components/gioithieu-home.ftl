@@ -8,11 +8,11 @@
               <span style="font-size: 2.5rem!important;">"Sạch từ nguồn"</span>
               <span class="fw-light d-block mb-4" style="font-size: 1.5rem!important;">của Mavin</span>
             </h1>
-            <p class="fst-italic text-muted text-recommend">
+            <p class="fst-italic text-muted text-recommend" style="padding-left:15px;">
               ${contentModel.content_html}
             </p>
           </div>
-          <div class="col-lg-8">
+          <div class="col-lg-8" style="padding-left:15px;">
             <div class="text-center">
               <img class="img-fluid" src="/static-assets/dist/temp/1.png" alt="">
               <p class="text-uppercase fw-bold fs-5 base-color">${contentModel.subtitle_s}</p>
