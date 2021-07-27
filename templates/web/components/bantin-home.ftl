@@ -7,7 +7,7 @@
               <#list news as news>
                 <#if news?is_last>
                   <a href="${news.url}"><img class="w-100 h-auto" src="${news.image}" alt=""></a>
-                  <div class="row g-0 mt-2 mb-3" style="height: 60px;">
+                  <div class="row g-0 mt-2 mb-3" style="height: 55px;">
                     <div class="col" style="display: grid;">
                       <a class="d-block px-3 py-2 base-bg-color fw-bold text-white" href="${news.url}">${news.title}</a>
                     </div>
@@ -38,7 +38,7 @@
               <h3 class="text-uppercase fw-bold fs-5 base-color">thư viện tư liệu</h3>
               <div class="d-flex flex-column-reverse">
               <a href="/thu-vien">
-                <ul class="nav nav-pills nav-fill nav-tab-news mb-3 mt-2" id="pills-tab" role="tablist">
+                <ul class="nav nav-pills nav-fill nav-tab-news mb-3 mt-2" id="pills-tab" role="tablist" style="height: 55px;">
                   <li class="nav-item" role="presentation">
                     <button class="nav-link text-uppercase fw-bold" id="pills-gallery-tab" data-bs-toggle="pill" data-bs-target="#pills-gallery" type="button" role="tab" aria-controls="pills-gallery" aria-selected="true">Thư viện <br>ảnh</button>
                   </li>
