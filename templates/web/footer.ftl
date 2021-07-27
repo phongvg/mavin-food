@@ -17,13 +17,13 @@
             <div class="row">
               <div class="col-sm-4 col-lg-3">
                 <div class="fw-bold mb-3">Kết nối với Mavin Foods</div>
-                <div class="d-flex mb-3" style="justify-content:center;">
+                <div class="d-flex mb-3">
                 <#list contentModel.socialMedia_o.item as social>
                   <a class="px-1" href="${social.link_s}"><img src="${social.logo_s}" alt=""></a>
                 </#list>
                 </div>
-                <div class="fw-bold">
-                  <p class="fs-7">Chăm sóc Khách hàng</p>
+                <div class="fw-bold" style="padding-top: 5px;">
+                  <p class="fs-7" style="font-size: 16px;">Chăm sóc Khách hàng</p>
                   <p class="fs-4">${contentModel.carephone_s}</p>
                 </div>
               </div>
