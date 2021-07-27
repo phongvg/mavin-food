@@ -65,7 +65,7 @@
               <ul class="list-unstyled list-mf mb-0">
                 <li>
                   <a class="text-muted">
-                    <h4 class="d-block text-uppercase">BẾP MAVIN</h4>
+                    <h5 class="d-block text-uppercase" style="color: red;">BẾP MAVIN</h5>
                   </a>
                 </li>
                 <#list docs as docs>
