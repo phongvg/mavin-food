@@ -3,7 +3,7 @@
       <div class="container">
         <div class="py-3 py-md-5">
           <h1 class="h4 base-color text-uppercase fw-bold mb-3">Liên hệ</h1>
-          <p style="margin-top: 3rem !important;"><span class="h5 base-color fw-bold">${contentModel.name_s}</span><br><span style="color: #6e6e6e;font-size: 18px;"><br>
+          <p style="margin-top: 3rem !important;"><span class="h5 base-color fw-bold">${contentModel.name_s}</span><br><span style="color: #6e6e6e;font-size: 19px;"><br>
           ${contentModel.bank_s}<br>${contentModel.tax_s}</span><span></p>
           <div class="row row-cols-1 row-cols-md-2">
             <#list contentModel.place_o.item as place>
