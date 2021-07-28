@@ -53,6 +53,10 @@ a {
 
 .arrows-style .slick-next:before {
   content: "\f105"; }
+  
+  .content .clearfix img{
+      height: 360px;
+  }
 
 .bg-wave {
   height: 100vh;
